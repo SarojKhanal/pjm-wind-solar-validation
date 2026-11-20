@@ -1,0 +1,1470 @@
+resource,td_owner,eia_id,generator,plant,state,start_year,start_month,end_year,end_month,ac_mw,eia_lat,eia_lon,dc_mw,hub_ft,fixed,single,dual,tilt,azimuth,net_metered
+wind,Pennsylvania Electric Co,55803,EW,Somerset Windpower LLC,PA,2001,12,,,9.0,39.979167,-79.012778,,213.3,,,,,,
+wind,"Somerset Rural Elec Coop, Inc",55805,G1,Mill Run Windpower LLC,PA,2001,12,,,15.0,39.913408,-79.393644,,213.3,,,,,,
+wind,Monongahela Power Co,55986,WT1,Mountaineer Wind Energy Center,WV,2002,12,,,66.0,39.1828,-79.5372,,229.7,,,,,,
+wind,PPL Electric Utilities Corp,56001,GE15,Waymart Wind,PA,2003,10,,,64.5,41.5533,-75.4542,,213.3,,,,,,
+wind,Pennsylvania Electric Co,56052,GE15,"Meyersdale Windpower, LLC",PA,2003,12,,,30.0,39.790739,-79.002047,,262.0,,,,,,
+wind,Commonwealth Edison Co,56160,GEN1,"Mendota Hills, LLC",IL,2003,11,,,76.2,41.7194,-89.0492,,275.0,,,,,,
+wind,Commonwealth Edison Co,56297,1,Crescent Ridge,IL,2005,12,,,53.0,41.25,-89.5708,,256.0,,,,,,
+wind,PPL Electric Utilities Corp,56299,1,Wind Park Bear Creek,PA,2006,3,,,24.0,41.235278,-75.753056,,256.0,,,,,,
+wind,Atlantic City Electric Co,56300,1,Jersey-Atlantic Wind Farm,NJ,2006,3,,,7.5,39.382222,-74.4475,,262.0,,,,,,
+wind,Commonwealth Edison Co,56338,1,High Trail Wind Farm LLC,IL,2007,3,,,210.9,40.4792,-88.7989,,262.0,,,,,,
+wind,Pennsylvania Power Co,56369,1,Casselman Wind Power Project,PA,2007,12,,,34.5,39.85,-79.138,,262.0,,,,,,
+wind,Commonwealth Edison Co,56450,1,GSG LLC,IL,2007,6,,,80.0,41.643611,-89.173056,,256.0,,,,,,
+wind,Pennsylvania Electric Co,56451,1,Allegheny Ridge Wind Farm,PA,2007,6,,,80.0,40.383889,-78.579444,,256.0,,,,,,
+wind,PPL Electric Utilities Corp,56470,LRWF,Locust Ridge,PA,2007,3,,,26.0,40.855,-76.1292,,256.0,,,,,,
+wind,Virginia Electric & Power Co,56495,MS1,NedPower Mount Storm,WV,2008,3,,,164.0,39.2175,-79.2094,,255.9,,,,,,
+wind,Virginia Electric & Power Co,56495,MS2,NedPower Mount Storm,WV,2008,12,,,100.0,39.2175,-79.2094,,255.9,,,,,,
+wind,Commonwealth Edison Co,56614,2,Old Trail Wind Farm,IL,2007,12,,,213.8,40.4792,-88.7989,,262.0,,,,,,
+wind,Commonwealth Edison Co,56622,1,Providence Heights Wind LLC,IL,2008,8,,,72.0,41.2294,-89.5572,,256.0,,,,,,
+wind,Commonwealth Edison Co,56640,1,Camp Grove Wind Farm,IL,2007,12,,,150.0,41.090583,-89.639811,,262.0,,,,,,
+wind,Pennsylvania Electric Co,56651,1,North Allegheny Windpower Project,PA,2009,9,,,75.0,40.4381,-78.5436,,272.0,,,,,,
+wind,Pennsylvania Electric Co,56699,1,Forward Windpower LLC,PA,2008,4,,,29.4,40.0853,-78.8633,,262.4,,,,,,
+wind,Pennsylvania Electric Co,56700,1,Lookout Windpower LLC,PA,2008,10,,,37.8,39.8794,-78.9183,,262.4,,,,,,
+wind,PPL Electric Utilities Corp,56770,1,Locust Ridge II LLC,PA,2009,5,,,102.0,40.8411,-76.1547,,256.0,,,,,,
+wind,Indiana Michigan Power Co,56777,FIA,Fowler Ridge Wind Farm LLC,IN,2009,3,,,101.3,40.583889,-87.3336,,262.4,,,,,,
+wind,Indiana Michigan Power Co,56777,FIB,Fowler Ridge Wind Farm LLC,IN,2009,3,,,100.0,40.583889,-87.3336,,262.4,,,,,,
+wind,Indiana Michigan Power Co,56777,FIC,Fowler Ridge Wind Farm LLC,IN,2023,8,,,88.0,40.583889,-87.3336,,262.4,,,,,,
+wind,Indiana Michigan Power Co,56777,FII,Fowler Ridge Wind Farm LLC,IN,2009,12,,,200.0,40.583889,-87.3336,,262.4,,,,,,
+wind,Indiana Michigan Power Co,56777,FIII,Fowler Ridge Wind Farm LLC,IN,2009,2,,,99.0,40.583889,-87.3336,,262.4,,,,,,
+wind,West Penn Power Company,56796,1,South Chestnut LLC,PA,2012,4,,,50.4,39.7513,-79.7271,,256.0,,,,,,
+wind,Commonwealth Edison Co,56805,1,EcoGrove Wind LLC,IL,2009,7,,,100.5,42.451481,-89.878428,,262.4,,,,,,
+wind,Commonwealth Edison Co,56941,1,Grand Ridge Wind Energy Center,IL,2008,10,,,99.0,41.2269,-88.6836,,263.0,,,,,,
+wind,Commonwealth Edison Co,56941,2,Grand Ridge Wind Energy Center,IL,2009,12,,,51.0,41.2269,-88.6836,,263.0,,,,,,
+wind,Commonwealth Edison Co,56941,3,Grand Ridge Wind Energy Center,IL,2009,12,,,49.5,41.2269,-88.6836,,263.0,,,,,,
+wind,Commonwealth Edison Co,56941,4,Grand Ridge Wind Energy Center,IL,2009,12,,,10.5,41.2269,-88.6836,,263.0,,,,,,
+wind,Pennsylvania Electric Co,56980,1,Stony Creek Wind Farm LLC,PA,2009,11,,,52.5,40.0311,-78.8153,,262.4,,,,,,
+wind,Pennsylvania Electric Co,57044,1,Armenia Mountain Wind Farm,PA,2009,12,,,100.5,41.7619,-76.8553,,262.0,,,,,,
+wind,Commonwealth Edison Co,57094,1,Streator Cayuga Ridge South,IL,2010,3,,,300.0,40.9969,-88.49,,256.0,,,,,,
+wind,Indiana Michigan Power Co,57109,GEN 1,Meadow Lake Wind Farm LLC,IN,2009,10,,,199.7,40.6275,-86.935,,262.0,,,,,,
+wind,Commonwealth Edison Co,57110,GEN 1,Blackstone Wind Farm LLC,IL,2009,10,,,106.0,41.1508,-88.6233,,262.0,,,,,,
+wind,Indiana Michigan Power Co,57112,GEN1,Meadow Lake Wind Farm II LLC,IN,2010,8,,,102.3,40.6431,-87.0242,,262.4,,,,,,
+wind,Commonwealth Edison Co,57113,GEN 1,Blackstone Wind Farm II LLC,IL,2010,8,,,200.0,41.1406,-88.53,,262.0,,,,,,
+wind,Indiana Michigan Power Co,57115,GEN 1,Meadow Lake Wind Farm III LLC,IN,2010,9,,,103.5,40.5986,-87.0194,,262.0,,,,,,
+wind,Commonwealth Edison Co,57135,1,Big Sky Wind LLC,IL,2011,2,,,239.4,41.599167,-89.456111,,277.2,,,,,,
+wind,Pennsylvania Electric Co,57139,1,Cambria Wind LLC,PA,2009,8,,,62.5,40.3042,-78.6908,,262.4,,,,,,
+wind,Monongahela Power Co,57151,GEN1,Beech Ridge Energy LLC,WV,2010,1,,,100.5,38.0878,-80.4925,,263.0,,,,,,
+wind,City of Lewes - (DE),57176,FSMW,University of Delaware Wind Turbine,DE,2010,7,,,2.0,38.782931,-75.164903,,256.0,,,,,,
+wind,Indiana Michigan Power Co,57177,GEN 1,Meadow Lake Wind Farm IV,IN,2010,10,,,105.7,40.6778,-87.0328,,262.4,,,,,,
+wind,PPL Electric Utilities Corp,57182,1,PPL Frey Farm Landfill Wind,PA,2011,1,,,3.2,39.959167,-76.455555,,262.4,,,,,,
+wind,Allegheny Electric Coop Inc,57239,SRRW1,Roth Rock Wind Farm LLC,MD,2011,8,,,40.0,39.254444,-79.467222,,262.0,,,,,,
+wind,Allegheny Electric Coop Inc,57240,SRRNW,"Roth Rock North Wind Farm, LLC",MD,2011,8,,,10.0,39.287222,-79.434444,,262.0,,,,,,
+wind,Pennsylvania Electric Co,57268,1,Chestnut Flats Wind Farm,PA,2011,12,,,38.0,40.522846,-78.476921,,328.1,,,,,,
+wind,Commonwealth Edison Co,57284,1,Minonk Wind Farm,IL,2012,11,,,200.0,40.888611,-88.997222,,328.1,,,,,,
+wind,Pennsylvania Electric Co,57285,1,Sandy Ridge Wind Farm,PA,2012,2,,,50.0,40.729207,-78.28735,,328.1,,,,,,
+wind,The Potomac Edison Company,57300,1,Criterion,MD,2010,12,,,70.0,39.4047,-79.29,,262.4,,,,,,
+wind,Commonwealth Edison Co,57325,GE1.5,FPL Energy Illinois Wind LLC Hybrid,IL,2009,12,,,217.5,41.7678,-88.8867,,262.4,,,,,,
+wind,Monongahela Power Co,57447,1,Laurel Mountain Hybrid,WV,2011,8,,,97.6,39.0072,-79.8866,,262.0,,,,,,
+wind,American Transmission Systems Inc,57449,1,Blue Creek Wind Project,OH,2011,12,,,302.0,40.931515,-84.561824,,328.0,,,,,,
+wind,Commonwealth Edison Co,57463,1,Bishop Hill Energy LLC,IL,2012,6,,,200.0,41.215278,-90.120833,,328.1,,,,,,
+wind,Ohio Power Co,57570,WTG,Cooper Farms VW Project,OH,2012,3,,,4.5,40.905833,-84.570277,,263.0,,,,,,
+wind,The Potomac Edison Company,57595,1,Pinnacle Wind Force LLC,WV,2011,12,,,53.7,39.445,-79.03,,269.0,,,,,,
+wind,Cleveland Electric Illum Co,57613,WTG1,LE Wind Turbine 1,OH,2011,7,,,2.5,41.584444,-81.525555,,278.0,,,,,,
+wind,Ohio Power Co,57620,GEN1,Paulding Wind Farm II,OH,2011,7,,,99.0,41.025278,-84.779166,,311.7,,,,,,
+wind,Commonwealth Edison Co,57623,GEN1,Bright Stalk Wind Farm I,IL,2019,12,,,205.2,40.701241,-88.701054,,325.0,,,,,,
+wind,Indiana Michigan Power Co,57628,GEN1,Meadow Lake Wind Farm V LLC,IN,2017,7,,,100.0,40.716111,-87.021111,,311.0,,,,,,
+wind,Pennsylvania Electric Co,57744,1,Laurel Hill Wind,PA,2012,9,,,69.0,41.5323,-77.0296,,272.0,,,,,,
+wind,Pennsylvania Electric Co,57769,1,Mehoopany Wind Energy LLC,PA,2012,12,,,140.8,41.420556,-76.049167,,328.0,,,,,,
+wind,Indiana Michigan Power Co,57862,1,"Wildcat Wind Farm I, LLC",IN,2012,12,,,200.0,40.349444,-85.843056,,328.0,,,,,,
+wind,Commonwealth Edison Co,57964,1,Shady Oaks Wind Farm,IL,2012,5,,,109.5,41.666944,-89.059722,,328.1,,,,,,
+wind,Pennsylvania Electric Co,57991,1,Highland North Wind Farm,PA,2012,3,,,75.0,40.319561,-78.680633,,328.1,,,,,,
+wind,The Potomac Edison Company,57998,1,Twin Ridges Wind Farm,PA,2012,12,,,139.4,39.760556,-78.874722,,344.5,,,,,,
+wind,Pennsylvania Electric Co,57999,1,Patton Wind Farm,PA,2012,12,,,30.0,40.63067,-78.696078,,295.3,,,,,,
+wind,Ohio Power Co,58220,WTGA,Haviland Plastic Products,OH,2013,5,,,1.5,41.016111,-84.5875,,263.0,,,,,,
+wind,Ohio Power Co,58220,WTGB,Haviland Plastic Products,OH,2013,5,,,1.5,41.016111,-84.5875,,263.0,,,,,,
+wind,Ohio Power Co,58220,WTGC,Haviland Plastic Products,OH,2013,6,,,1.5,41.016111,-84.5875,,263.0,,,,,,
+wind,Indiana Michigan Power Co,58416,1,Headwaters Wind Farm LLC,IN,2014,12,,,200.0,40.066667,-85.013333,,311.0,,,,,,
+wind,Logan County Coop Power & Light,58630,RPOH,RP Wind,OH,2013,12,,,3.4,40.449444,-83.893333,,262.5,,,,,,
+wind,Commonwealth Edison Co,58694,1,Walnut Ridge Wind Farm,IL,2018,12,,,212.0,41.496667,-89.580278,,312.0,,,,,,
+wind,Ohio Power Co,58780,1,Scioto Ridge Wind Farm,OH,2021,5,,,249.8,40.561389,-83.736389,,276.0,,,,,,
+wind,Commonwealth Edison Co,58887,EVE,Com Adam 1WF-1,IL,2007,10,,,2.5,41.660278,-89.249722,,328.0,,,,,,
+wind,Commonwealth Edison Co,58898,K4-1,Pilot Hill Wind Farm,IL,2015,8,,,175.0,40.999169,-88.056247,,262.4,,,,,,
+wind,The Potomac Edison Company,58904,1,Fourmile Ridge,MD,2014,12,,,40.0,39.641111,-79.011111,,328.0,,,,,,
+wind,Cleveland Electric Illum Co,59024,N-54,"Euclid Farm, Stamco N-54",OH,2012,10,,,1.0,41.602222,-81.496944,,229.0,,,,,,
+wind,Commonwealth Edison Co,59061,WT1,Radfords Run Wind Farm,IL,2017,12,,,278.0,40.011111,-89.047222,,311.6,,,,,,
+wind,The Potomac Edison Company,59147,1,Fair Wind,MD,2015,11,,,30.0,39.404564,-79.291143,,328.1,,,,,,
+wind,Ohio Power Co,59296,NWOH1,Northwest Ohio Wind,OH,2018,9,,,105.0,41.016944,-84.593611,,295.0,,,,,,
+wind,Indiana Michigan Power Co,59547,1,Fowler Ridge IV Wind Farm LLC,IN,2016,1,,,150.0,40.620556,-87.378056,,262.0,,,,,,
+wind,Virginia Electric & Power Co,59693,OSW1,Coastal Virginia Offshore Wind (CVOW) Pi,VA,2021,1,,,12.0,36.89155,-75.4916,,356.0,,,,,,
+wind,"Duke Energy Carolinas, LLC",59968,1,"Desert Wind Farm, LLC",NC,2016,12,,,208.0,36.31,-76.42,,305.0,,,,,,
+wind,Ohio Power Co,60015,WNDW1,Findlay Wind Farm,OH,2015,12,,,3.0,41.101219,-83.644394,,262.0,,,,,,
+wind,Ohio Power Co,60126,H1,Harpster Wind,OH,2016,1,,,1.5,40.718292,-83.22865,,283.0,,,,,,
+wind,Ohio Power Co,60128,Z1,Zephyr Wind,OH,2015,12,,,1.5,41.096111,-83.641381,,262.0,,,,,,
+wind,Ohio Power Co,60128,Z2,Zephyr Wind,OH,2015,12,,,1.5,41.096111,-83.641381,,262.0,,,,,,
+wind,Ohio Power Co,60128,Z3,Zephyr Wind,OH,2015,12,,,1.5,41.096111,-83.641381,,262.0,,,,,,
+wind,Virginia Electric & Power Co,60132,NCG01,New Creek Wind,WV,2016,12,,,103.0,39.200639,-79.140639,,255.9,,,,,,
+wind,Pennsylvania Electric Co,60329,RINGR,"Ringer Hill Wind Farm, LLC",PA,2016,12,,,39.9,39.744722,-79.188056,,295.3,,,,,,
+wind,Ohio Power Co,60470,1,Paulding Wind Farm III,OH,2016,12,,,100.8,41.121,-84.751,,305.0,,,,,,
+wind,Commonwealth Edison Co,60471,GRNRV,Green River Wind Farm,IL,2019,11,,,194.3,41.620264,-89.557033,,275.6,,,,,,
+wind,Pennsylvania Electric Co,60551,BLW01,Big Level Wind,PA,2019,12,,,90.0,41.869326,-77.665939,,430.0,,,,,,
+wind,Commonwealth Edison Co,60587,WND1,Kelly Creek Wind Project,IL,2016,12,,,184.0,40.9675,-88.1975,,262.5,,,,,,
+wind,Ohio Power Co,61004,W1,Whirlpool Corporation - Ottawa Wind Farm,OH,2018,1,,,1.5,41.002764,-84.033742,,262.0,,,,,,
+wind,Ohio Edison Co,61005,W1,Whirlpool Corporation - Marion Wind Farm,OH,2017,10,,,1.5,40.591154,-83.178491,,262.0,,,,,,
+wind,Ohio Edison Co,61005,W2,Whirlpool Corporation - Marion Wind Farm,OH,2017,10,,,1.5,40.591154,-83.178491,,262.0,,,,,,
+wind,Ohio Edison Co,61005,W3,Whirlpool Corporation - Marion Wind Farm,OH,2017,10,,,1.5,40.591154,-83.178491,,262.0,,,,,,
+wind,AEP Texas Central Company,61303,BLUFF,Bluff Point Wind Facility,IN,2017,12,,,119.7,40.319,-84.9769,,301.0,,,,,,
+wind,American Transmission Co,61330,WT1,Hog Creek Wind Project,OH,2017,12,,,66.0,40.793073,-83.728714,,312.0,,,,,,
+wind,Commonwealth Edison Co,61344,WT1,Otter Creek Wind Farm LLC,IL,2020,3,,,150.0,41.055385,-88.993862,,269.0,,,,,,
+wind,American Transmission Systems Inc,61356,W1,Valfilm Wind Project,OH,2018,9,,,1.5,41.084329,-83.644131,,262.0,,,,,,
+wind,American Transmission Systems Inc,61356,W2,Valfilm Wind Project,OH,2018,9,,,1.5,41.084329,-83.644131,,262.0,,,,,,
+wind,Dayton Power & Light Co,61660,WTG1,Whirlpool Corp-Greenville Wind Farm,OH,2018,9,,,1.5,40.131293,-84.609857,,262.0,,,,,,
+wind,Dayton Power & Light Co,61660,WTG2,Whirlpool Corp-Greenville Wind Farm,OH,2018,9,,,1.5,40.131293,-84.609857,,262.0,,,,,,
+wind,Dayton Power & Light Co,61660,WTG3,Whirlpool Corp-Greenville Wind Farm,OH,2018,9,,,1.5,40.131293,-84.609857,,262.0,,,,,,
+wind,Commonwealth Edison Co,61735,WT1,Hilltopper Wind Project,IL,2018,12,,,185.0,40.03,-89.381,,380.0,,,,,,
+wind,Monongahela Power Co,62482,GEN1,Beech Ridge II Wind Energy Center,WV,2020,5,,,56.2,38.112222,-80.613055,,290.4,,,,,,
+wind,Indiana Michigan Power Co,62592,HWII,Headwaters Wind Farm II LLC,IN,2021,6,,,200.0,40.051694,-85.206694,,244.4,,,,,,
+wind,Commonwealth Edison Co,62606,WTHWP,Whitney Hill Wind Power LLC,IL,2020,3,,,65.0,39.929,-89.19,,416.0,,,,,,
+wind,Ohio Power Co,62653,T1,Zephyr Wind Project - 2.0,OH,2020,8,,,1.5,41.093078,-83.637778,,262.0,,,,,,
+wind,Ohio Power Co,62653,T2,Zephyr Wind Project - 2.0,OH,2020,8,,,1.5,41.093078,-83.637778,,262.0,,,,,,
+wind,Ohio Power Co,62653,T3,Zephyr Wind Project - 2.0,OH,2020,8,,,1.5,41.093078,-83.637778,,262.0,,,,,,
+wind,Ohio Power Co,62752,L1,LafargeHolcim - Paulding Wind Project,OH,2020,8,,,1.5,41.192377,-84.61256,,262.0,,,,,,
+wind,Ohio Power Co,62752,L2,LafargeHolcim - Paulding Wind Project,OH,2020,8,,,1.5,41.192377,-84.61256,,262.0,,,,,,
+wind,Ohio Power Co,62752,L3,LafargeHolcim - Paulding Wind Project,OH,2020,8,,,1.5,41.192377,-84.61256,,262.0,,,,,,
+wind,Ohio Power Co,62944,TRIV,Timber Road IV,OH,2020,1,,,125.1,41.121,-84.751,,311.7,,,,,,
+wind,Commonwealth Edison Co,63003,1,Midland Wind,IL,2023,12,,,105.5,41.269197,-89.995022,,344.0,,,,,,
+wind,Commonwealth Edison Co,63251,LTW,"Lone Tree Wind, LLC",IL,2020,12,,,79.0,41.203214,-89.601872,,292.0,,,,,,
+wind,Indiana Michigan Power Co,63666,BIT,"Bitter Ridge Wind Farm, LLC",IN,2020,9,,,146.6,40.360533,-85.113149,,291.9,,,,,,
+wind,Commonwealth Edison Co,63988,GEN1,Blooming Grove Wind Energy Center,IL,2020,12,,,250.0,40.661079,-88.395079,,292.0,,,,,,
+wind,Commonwealth Edison Co,64088,WT2,"Alta Farms II Wind Project, LLC",IL,2023,5,,,200.5,40.1972,-89.067655,,107.5,,,,,,
+wind,Monongahela Power Co,64433,BRW,Black Rock Wind,WV,2022,2,,,115.0,39.366803,-79.108263,,107.5,,,,,,
+wind,First Electric Coop Corp,65741,SRW2,"Sandy Ridge Wind 2, LLC",PA,2023,9,,,87.6,40.745335,-78.222305,,393.7,,,,,,
+wind,The Toledo Edison Co,66261,WTG01,Martin Marietta Wind Project,OH,2023,12,,,1.5,41.466,-83.367,,262.0,,,,,,
+wind,The Toledo Edison Co,66261,WTG02,Martin Marietta Wind Project,OH,2023,12,,,1.5,41.466,-83.367,,262.0,,,,,,
+wind,The Toledo Edison Co,66261,WTG03,Martin Marietta Wind Project,OH,2023,12,,,1.5,41.466,-83.367,,262.0,,,,,,
+wind,Commonwealth Edison Co,66568,SHO02,Shady Oaks Wind 2,IL,2023,10,,,108.3,41.666523,-89.059804,,344.5,,,,,,
+wind,Virginia Electric & Power Co,67910,TIMBY,"Timbermill Wind, LLC",NC,2024,12,,,189.0,36.151863,-76.60104,,345.0,,,,,,
+wind,The Potomac Edison Company,67962,DMTN,Dans Mountain,MD,2025,5,,,54.9,39.599992,-78.890672,,384.0,,,,,,
+wind,Commonwealth Edison Co,69225,TPHAT,Top Hat Wind,IL,2025,12,,,204.0,40.153624,-89.2225,,375.0,,,,,,
+wind,City of Bowling Green - (OH),56226,1,Bowling Green Wind,OH,2004,12,2025,3,1.8,41.3786,-83.7383,,255.9,,,,,,
+wind,City of Bowling Green - (OH),56226,2,Bowling Green Wind,OH,2003,11,2025,3,1.8,41.3786,-83.7383,,255.9,,,,,,
+wind,City of Bowling Green - (OH),56226,3,Bowling Green Wind,OH,2003,11,2025,3,1.8,41.3786,-83.7383,,255.9,,,,,,
+wind,City of Bowling Green - (OH),56226,4,Bowling Green Wind,OH,2004,11,2025,3,1.8,41.3786,-83.7383,,255.9,,,,,,
+solar,Rochelle Municipal Utilities,960,SOL1,North Ninth Street,IL,2014,11,,,0.3,41.9093,-89.0498,0.33,,Y,N,,25,180,Y
+solar,Dayton Power & Light Co,2854,YS1,Yankee Street,OH,2010,3,,,1.1,39.603,-84.2047,2.5,,Y,,,25,180,N
+solar,Public Service Elec & Gas Co,10224,SOLAR,Merck Rahway Power Plant,NJ,2005,12,,,0.5,40.615616,-74.26529,0.5,,Y,,,5,229,N
+solar,Jersey Central Power & Lt Co,54569,CPV1,Bayville Central Facility,NJ,2007,5,,,0.2,39.909424,-74.178041,1.4,,Y,,,10,90,N
+solar,Public Service Elec & Gas Co,56877,TBD,Hall's Warehouse Solar Project,NJ,2009,2,,,1.6,40.573708,-74.394414,1.8,,Y,,,5,192,Y
+solar,Public Service Elec & Gas Co,56883,GEN 1,Pennsauken Solar,NJ,2006,6,,,0.2,39.9894,-75.04,0.3,,Y,,,25,195,N
+solar,Public Service Elec & Gas Co,56883,GEN 2,Pennsauken Solar,NJ,2006,6,,,0.2,39.9894,-75.04,0.3,,Y,,,25,195,N
+solar,Public Service Elec & Gas Co,56883,GEN 3,Pennsauken Solar,NJ,2007,12,,,0.1,39.9894,-75.04,0.2,,Y,,,25,195,N
+solar,Public Service Elec & Gas Co,56883,GEN 4,Pennsauken Solar,NJ,2007,12,,,0.2,39.9894,-75.04,0.3,,Y,,,25,195,N
+solar,Public Service Elec & Gas Co,56883,GEN 5,Pennsauken Solar,NJ,2007,12,,,0.1,39.9894,-75.04,0.2,,Y,,,25,195,N
+solar,Public Service Elec & Gas Co,56883,GEN 6,Pennsauken Solar,NJ,2007,12,,,0.2,39.9894,-75.04,0.3,,Y,,,25,195,N
+solar,Public Service Elec & Gas Co,56883,GEN 7,Pennsauken Solar,NJ,2007,12,,,0.2,39.9894,-75.04,0.3,,Y,,,25,195,N
+solar,Public Service Elec & Gas Co,56883,GEN 8,Pennsauken Solar,NJ,2007,12,,,0.2,39.9894,-75.04,0.3,,Y,,,25,195,N
+solar,Public Service Elec & Gas Co,56883,GEN 9,Pennsauken Solar,NJ,2007,12,,,0.1,39.9894,-75.04,0.2,,Y,,,25,195,N
+solar,Public Service Elec & Gas Co,56883,GEN10,Pennsauken Solar,NJ,2018,2,,,2.4,39.9894,-75.04,3.2,,Y,,,25,195,N
+solar,Jersey Central Power & Lt Co,56888,GEN 1,Warren County Solar,NJ,2012,6,,,0.5,40.788957,-75.10697,0.6,,,Y,,20,0,N
+solar,Jersey Central Power & Lt Co,56888,GEN 2,Warren County Solar,NJ,2012,6,,,0.5,40.788957,-75.10697,0.6,,,Y,,20,0,N
+solar,Jersey Central Power & Lt Co,56888,GEN 3,Warren County Solar,NJ,2012,6,,,0.5,40.788957,-75.10697,0.6,,,Y,,20,0,N
+solar,Jersey Central Power & Lt Co,56888,GEN 4,Warren County Solar,NJ,2012,6,,,0.5,40.788957,-75.10697,0.6,,,Y,,20,0,N
+solar,Jersey Central Power & Lt Co,56889,GEN 1,PPL Renewable Energy Merck Solar,NJ,2009,5,,,1.7,40.727386,-74.3783,1.8,,,Y,,20,0,N
+solar,Atlantic City Electric Co,56900,1,Atlantic City Convention Center,NJ,2008,12,,,0.5,39.3639,-74.4408,0.6,,Y,,,10,200,Y
+solar,Atlantic City Electric Co,56900,2,Atlantic City Convention Center,NJ,2008,12,,,0.5,39.3639,-74.4408,0.6,,Y,,,10,200,Y
+solar,Atlantic City Electric Co,56900,3,Atlantic City Convention Center,NJ,2008,12,,,0.5,39.3639,-74.4408,0.6,,Y,,,10,200,Y
+solar,Atlantic City Electric Co,56900,4,Atlantic City Convention Center,NJ,2008,12,,,0.5,39.3639,-74.4408,0.6,,Y,,,10,200,Y
+solar,Edgecombe-Martin County E M C,56966,1,RMQ 1 and 2,NC,2008,12,,,1.0,35.9222,-77.6731,1.5,,,N,Y, , ,N
+solar,PECO Energy Co,56993,MESA,MF Mesa Lane LLC,PA,2008,11,,,3.0,40.1483,-74.7772,3.1,,Y,,,30,180,N
+solar,City of Vineland - (NJ),57081,CVS1,Calpine Vineland Solar LLC,NJ,2009,8,,,2.3,39.4636,-75.0667,2.4,,Y,,,25,181,N
+solar,City of Vineland - (NJ),57081,CVS2,Calpine Vineland Solar LLC,NJ,2009,12,,,1.8,39.4636,-75.0667,1.9,,Y,,,25,181,N
+solar,Commonwealth Edison Co,57191,ECS1,Exelon Solar Chicago,IL,2009,12,,,9.0,41.6758,-87.6514,10,,,Y,N,25,180,N
+solar,Ohio Power Co,57203,1,Wyandot Solar Farm,OH,2010,4,,,10.0,40.8795,-83.317072,12,,Y,,,25,180,N
+solar,Metropolitan Edison Co,57216,1,Crayola Solar Project,PA,2010,5,,,1.0,40.760545,-75.238452,1.1,,Y,,,25,165,N
+solar,Metropolitan Edison Co,57216,2,Crayola Solar Project,PA,2011,4,,,1.0,40.760545,-75.238452,1.1,,Y,,,25,165,N
+solar,Metropolitan Edison Co,57216,3,Crayola Solar Project,PA,2012,1,,,0.8,40.760545,-75.238452,0.9,,Y,,,25,165,N
+solar,PPL Electric Utilities Corp,57256,1,PA Solar Park,PA,2012,10,,,10.1,40.860142,-75.852206,11.5,,Y,N,,25,180,N
+solar,PECO Energy Co,57280,1,Aqua Ingrams Mill,PA,2009,12,,,1.0,39.9647,-75.6578,1.2,,Y,,,20,190,Y
+solar,Delaware Electric Cooperative,57330,1,Kent County Wastewater Treatment Solar,DE,2011,3,,,1.2,38.993056,-75.4375,1.2,,Y,,,35,225,Y
+solar,City of Dover - (DE),57337,1,Dover Sun Park,DE,2011,7,,,10.0,39.183611,-75.504444,11.3,,N,Y,,45,90,N
+solar,Public Service Elec & Gas Co,57341,SILV,Silver Lake Solar Farm,NJ,2010,10,,,1.7,40.494804,-74.399511,2,,Y,,,20,180,N
+solar,Public Service Elec & Gas Co,57352,TREN,Trenton Solar Farm,NJ,2010,10,,,1.0,40.2314,-74.7539,1.3,,Y,,,20,180,N
+solar,PPL Electric Utilities Corp,57362,1,Morgantown Solar Park,PA,2011,11,,,2.0,40.152069,-75.865916,2,,Y,,,28.4,165,Y
+solar,Virginia Electric & Power Co,57363,1,510 REPP One,NC,2014,9,,,1.3,36.4972,-77.6058,1.4,,Y,,,20,171.2,N
+solar,PPL Electric Utilities Corp,57367,POCON,Pocono Solar Project,PA,2010,8,,,2.7,41.061022,-75.514924,3,,Y,N,,25,180,Y
+solar,Public Service Elec & Gas Co,57381,LIND,Linden Solar Farm,NJ,2010,12,,,2.7,40.62,-74.2144,3.2,,Y,,,20,180,N
+solar,Public Service Elec & Gas Co,57382,YARD,Yardville Solar Farm,NJ,2010,12,,,3.6,40.168811,-74.656719,4.3,,Y,,,15,192,N
+solar,Public Service Elec & Gas Co,57383,BAYO,WEA Texas Bayonne,NJ,2010,12,,,1.5,40.6772,-74.0919,1.7,,Y,,,13,209,N
+solar,Public Service Elec & Gas Co,57384,MATR,Matrix Buildings A&B (Perth Amboy) Solar,NJ,2011,1,,,2.5,40.534393,-74.269998,2.9,,Y,,,5,165,N
+solar,Metropolitan Edison Co,57390,1,Haleon York RDC Solar Facility,PA,2010,12,,,2.6,40.043856,-76.735474,3,,Y,,,5,132,Y
+solar,Public Service Elec & Gas Co,57397,PV01,Dow Jones South Brunswick Solar,NJ,2010,12,,,2.2,40.369772,-74.58685,2.5,,Y,,,12,133,Y
+solar,Public Service Elec & Gas Co,57397,PV02,Dow Jones South Brunswick Solar,NJ,2011,3,,,1.4,40.369772,-74.58685,1.6,,Y,,,12,180,Y
+solar,Metropolitan Edison Co,57412,1,Knouse Solar Project 1,PA,2010,12,,,3.0,40.0264,-77.2344,3.2,,Y,,,32,180,Y
+solar,Virginia Electric & Power Co,57435,1,Solar Star North Carolina II LLC,NC,2011,12,,,1.3,36.425,-77.064,1.5,,,Y,, ,180,N
+solar,Virginia Electric & Power Co,57435,2,Solar Star North Carolina II LLC,NC,2011,12,,,1.3,36.425,-77.064,1.5,,,Y,, ,180,N
+solar,Virginia Electric & Power Co,57435,3,Solar Star North Carolina II LLC,NC,2011,12,,,1.3,36.425,-77.064,1.5,,,Y,, ,180,N
+solar,Virginia Electric & Power Co,57435,4,Solar Star North Carolina II LLC,NC,2011,12,,,1.3,36.425,-77.064,1.5,,,Y,, ,180,N
+solar,Virginia Electric & Power Co,57435,5,Solar Star North Carolina II LLC,NC,2011,12,,,1.3,36.425,-77.064,1.5,,,Y,, ,180,N
+solar,Atlantic City Electric Co,57448,PILE,Pilesgrove,NJ,2011,8,,,18.0,39.613028,-75.309477,20,,Y,,,25,180,N
+solar,Public Service Elec & Gas Co,57458,1,145 Talmadge Solar,NJ,2011,4,,,3.8,40.535787,-74.391268,4.3,,Y,,,10,155,Y
+solar,The Toledo Edison Co,57462,1,Napoleon Solar I,OH,2011,12,,,8.0,41.388431,-84.095841,9.8,,,Y,,0,180,N
+solar,PPL Electric Utilities Corp,57465,1,Romark PA Solar,PA,2011,11,,,1.8,40.936111,-76.038888,2,,Y,,,10,180,N
+solar,Jersey Central Power & Lt Co,57471,MHNJ,Murray Hill Solar,NJ,2011,5,,,1.0,40.684444,-74.404444,1.1,,,Y,,25,180,Y
+solar,Jersey Central Power & Lt Co,57485,FSNJ,Flemington Solar,NJ,2011,12,,,8.0,40.483888,-74.856666,10,,Y,,,25,180,N
+solar,Jersey Central Power & Lt Co,57486,F1NJ,Frenchtown I Solar,NJ,2012,1,,,3.0,40.521667,-75.012222,3.5,,Y,,,25,180,N
+solar,Jersey Central Power & Lt Co,57487,F2NJ,Frenchtown II Solar,NJ,2011,12,,,3.0,40.514444,-74.976944,3.5,,Y,,,25,180,N
+solar,Jersey Central Power & Lt Co,57488,LSNJ,Lebanon Solar,NJ,2011,12,,,2.0,40.675833,-74.912222,2.5,,Y,,,25,180,N
+solar,PPL Electric Utilities Corp,57494,MFRS,Masser Farms Realty Solar,PA,2011,5,,,1.0,40.640556,-76.605417,1.2,,Y,,,30,120,N
+solar,Public Service Elec & Gas Co,57574,ETS1,ETS Ewing Solar Facility,NJ,2010,6,,,1.3,40.281801,-74.793638,1.4,,Y,,,5,153,Y
+solar,Public Service Elec & Gas Co,57588,STULT,Matrix Stults Road Solar Facility,NJ,2011,6,,,2.6,40.3622,-74.4797,3,,Y,,,10,197,N
+solar,PECO Energy Co,57640,1,500 Virginia Solar,PA,2011,7,,,1.0,40.139167,-75.191667,1,,Y,,,10,220,N
+solar,Baltimore Gas & Electric Co,57646,PV1,McCormick & Co. Inc. at Belcamp,MD,2010,12,,,1.4,39.4836,-76.2292,1.8,,Y,,,20,180,Y
+solar,Jersey Central Power & Lt Co,57647,PV1,"Toys R Us- DE, Inc. at Mt. Olive, NJ",NJ,2011,12,,,4.1,40.818888,-74.718611,5.4,,Y,,,0,0,Y
+solar,City of Vineland - (NJ),57660,VNLND,Vineland Mays Landing Solar,NJ,2011,10,,,4.0,39.4175,-74.973889,4.7,,N,Y,,0,90,N
+solar,Jersey Central Power & Lt Co,57661,MANVL,Manalapan Village Solar,NJ,2011,12,,,3.5,40.256667,-74.349722,3.6,,Y,,,20,180,N
+solar,Jersey Central Power & Lt Co,57662,MCGRH,McGraw Hill Solar,NJ,2011,12,,,12.0,40.279722,-74.556389,14.1,,Y,,,25,180,Y
+solar,Atlantic City Electric Co,57667,P21A,Seabrook Solar Plant,NJ,2011,12,,,1.5,39.485,-75.215,1.7,,Y,,,20,180,Y
+solar,Atlantic City Electric Co,57667,P21B,Seabrook Solar Plant,NJ,2014,4,,,1.5,39.485,-75.215,1.9,,Y,,,20,180,Y
+solar,Atlantic City Electric Co,57667,P2P2,Seabrook Solar Plant,NJ,2014,4,,,0.8,39.485,-75.215,0.9,,Y,,,20,180,Y
+solar,Atlantic City Electric Co,57667,SBS1,Seabrook Solar Plant,NJ,2011,3,,,3.0,39.485,-75.215,3.1,,Y,,,20,180,Y
+solar,PPL Electric Utilities Corp,57668,CASDE,CASD Solar,PA,2010,10,,,0.9,40.2142,-77.2061,1,,Y,,Y,30,172,N
+solar,PPL Electric Utilities Corp,57668,CASDW,CASD Solar,PA,2010,10,,,0.4,40.2142,-77.2061,0.5,,Y,,Y,30,172,N
+solar,Public Service Elec & Gas Co,57723,PV1,"Johnson Matthey, Inc. Solar",NJ,2011,3,,,4.0,39.825278,-75.219722,5.2,,,Y,, ,180,Y
+solar,Public Service Elec & Gas Co,57724,NJMC,NJMC Landfill,NJ,2011,12,,,2.5,40.750833,-74.11,3,,Y,,,20,175,N
+solar,Public Service Elec & Gas Co,57726,SUMA,Summit Associates,NJ,2011,12,,,1.9,40.5003,-74.3536,2.2,,Y,,,12.5,142,N
+solar,Public Service Elec & Gas Co,57727,BLAR,BlackRock-Matrix,NJ,2012,3,,,2.5,40.3622,-74.4797,3,,Y,,,10,208,N
+solar,Public Service Elec & Gas Co,57728,MILLC,Mill Creek Solar,NJ,2011,12,,,3.5,40.031388,-74.824722,3.8,,Y,,,22,191,N
+solar,Jersey Central Power & Lt Co,57733,PV1,Benjamin Moore & Co. Solar,NJ,2010,12,,,1.4,40.825556,-74.714722,1.8,,Y,,,35,180,Y
+solar,Public Service Elec & Gas Co,57734,CH,Cherry Hill,NJ,2010,3,,,1.1,39.876111,-75.008611,1.3,,Y,,,0,180,Y
+solar,Public Service Elec & Gas Co,57742,VHQ,Vineland Headquarters,NJ,2011,6,,,1.1,39.490271,-75.037391,1.3,,Y,,,5,180,Y
+solar,City of Vineland - (NJ),57745,PV1,The City of Vineland at West Vineland,NJ,2011,10,,,3.7,39.462376,-75.070039,4.8,,Y,,,25,180,Y
+solar,City of Vineland - (NJ),57746,PV1,The City of Vineland at North Vineland,NJ,2011,10,,,2.3,39.505034,-74.997703,3,,Y,,,25,180,Y
+solar,Potomac Electric Power Co,57747,1,FedEx Field Solar Facility,MD,2011,9,,,2.0,38.907778,-76.864444,2.4,,Y,,,20,135,N
+solar,Public Service Elec & Gas Co,57750,P1,Maple Solar,NJ,2011,5,,,1.6,39.4875,-74.980833,2,,Y,,,27,180,N
+solar,Public Service Elec & Gas Co,57750,P2,Maple Solar,NJ,2011,9,,,0.8,39.4875,-74.980833,1,,Y,,,27,180,N
+solar,The Potomac Edison Company,57758,PV1,Mount Saint Mary's,MD,2012,7,,,13.7,39.675,-77.345,16.1,,Y,,,25,157,Y
+solar,PECO Energy Co,57768,1,Longwood Gardens,PA,2010,5,,,1.3,39.866667,-75.667777,1.6,,Y,,,30,180,Y
+solar,Delmarva Power,57772,BRID,Perdue Bridgeville Photovoltaic,DE,2011,7,,,1.3,38.757689,-75.602031,1.6,,Y,N,,25,180,Y
+solar,Public Service Elec & Gas Co,57776,1,FedEx Woodbridge,NJ,2009,12,,,2.0,40.506358,-74.323519,2.4,,Y,N,,2,137,N
+solar,Jersey Central Power & Lt Co,57799,1,"ISH Solar Central, LLC",NJ,2011,10,,,1.4,40.2675,-74.278611,1.5,,Y,,,35,180,N
+solar,Public Service Elec & Gas Co,57805,WPU1,William Paterson University,NJ,2010,10,,,2.3,40.952084,-74.195502,2.7,,Y,,,15,180,Y
+solar,Public Service Elec & Gas Co,57815,PV1,Titusville Solar,NJ,2010,9,,,3.5,40.292778,-74.847222,4.1,,N,Y,,0,90,Y
+solar,Jersey Central Power & Lt Co,57848,SOLAR,WC Landfill Energy LLC,NJ,2013,9,,,1.0,40.831012,-75.015775,1.2,,Y,,,25,180,Y
+solar,Atlantic City Electric Co,57864,2LOT7,Stockton Athletic Center,NJ,2009,10,,,0.5,39.488443,-74.535263,0.45,,Y,,,5,225,Y
+solar,Atlantic City Electric Co,57864,LOT7,Stockton Athletic Center,NJ,2009,4,,,0.5,39.488443,-74.535263,0.38,,Y,,,5,225,Y
+solar,Atlantic City Electric Co,57864,SAC,Stockton Athletic Center,NJ,2009,2,,,0.3,39.488443,-74.535263,0.33,,Y,,,5,178,Y
+solar,Public Service Elec & Gas Co,57868,UNIT1,L'Oreal Piscataway,NJ,2011,12,,,0.5,40.554341,-74.468014,0.7,,Y,,,5,180,N
+solar,Public Service Elec & Gas Co,57868,UNIT2,L'Oreal Piscataway,NJ,2011,12,,,0.3,40.554341,-74.468014,0.33,,Y,,,5,180,N
+solar,Public Service Elec & Gas Co,57868,UNIT3,L'Oreal Piscataway,NJ,2016,8,,,0.3,40.554341,-74.468014,0.29,,Y,,,0,180,N
+solar,Public Service Elec & Gas Co,57868,UNIT4,L'Oreal Piscataway,NJ,2011,12,,,0.7,40.554341,-74.468014,1,,Y,,,5,180,N
+solar,Public Service Elec & Gas Co,57869,HH,Heller Industrial Parks,NJ,2012,2,,,0.5,40.373898,-74.489236,0.5,,Y,,,15,190,Y
+solar,Public Service Elec & Gas Co,57869,HII,Heller Industrial Parks,NJ,2012,2,,,0.4,40.373898,-74.489236,0.4,,Y,,,15,190,Y
+solar,Public Service Elec & Gas Co,57869,HJC,Heller Industrial Parks,NJ,2012,2,,,0.2,40.373898,-74.489236,0.2,,Y,,,15,190,Y
+solar,Public Service Elec & Gas Co,57869,HM,Heller Industrial Parks,NJ,2013,5,,,0.8,40.373898,-74.489236,0.9,,Y,,,15,190,Y
+solar,Public Service Elec & Gas Co,57869,UNIT1,Heller Industrial Parks,NJ,2011,12,,,2.7,40.373898,-74.489236,2.7,,Y,,,15,190,Y
+solar,Delmarva Power,57879,SALI,Perdue Salisbury Photovoltaic,MD,2011,9,,,1.0,38.373611,-75.535278,1.2,,Y,,,30,180,Y
+solar,Commonwealth Edison Co,57912,1,Grand Ridge Solar Farm,IL,2012,7,,,20.0,41.143421,-88.758341,22.8,,Y,,,25,180,N
+solar,Atlantic City Electric Co,57948,OAK,NJ Oak Solar Plant,NJ,2011,12,,,10.0,39.380565,-75.188312,12.5,,Y,,,25,182,N
+solar,Jersey Central Power & Lt Co,57951,1,Shore Point Solar,NJ,2011,9,,,1.0,40.245,-74.243333,1.2,,Y,,,45,180,N
+solar,Delmarva Power,58014,PV,IKEA Perryville 460,MD,2013,2,,,2.1,39.560833,-76.055278,2.6,,Y,,,12,180,Y
+solar,Potomac Electric Power Co,58015,IKEA,IKEA College Park 411,MD,2021,10,,,1.0,39.021,-76.926,1.2,,Y,,,12,180,Y
+solar,Potomac Electric Power Co,58015,PV,IKEA College Park 411,MD,2012,2,,,1.0,39.021,-76.926,1.2,,Y,,,12,180,Y
+solar,Public Service Elec & Gas Co,58029,PV1,Constellation New Energy Inc,NJ,2011,12,,,3.9,39.928889,-74.818056,5,,Y,,,20,180,Y
+solar,Public Service Elec & Gas Co,58030,REEVE,Reeves Station Rd East,NJ,2012,10,,,5.5,39.928333,-74.814444,6.7,,Y,,,25,180,N
+solar,Public Service Elec & Gas Co,58036,1,Riverside Renewable Energy LLC,NJ,2011,11,,,7.5,39.903056,-75.125833,9,,Y,,,5,180,Y
+solar,Public Service Elec & Gas Co,58040,SEF-A,United Stationers Supply Solar Electric,NJ,2011,12,,,2.0,40.320556,-74.501667,2.3,,Y,,,11.8,188,Y
+solar,Public Service Elec & Gas Co,58040,SEF-B,United Stationers Supply Solar Electric,NJ,2011,12,,,0.8,40.320556,-74.501667,1,,Y,,,11.8,188,Y
+solar,Public Service Elec & Gas Co,58049,PV,Jordache Enterprises Solar,NJ,2011,11,,,1.3,40.55569,-74.40836,1.6,,Y,,,10,190,Y
+solar,Public Service Elec & Gas Co,58070,1,Mercer Mall,NJ,2012,3,,,1.1,40.290556,-74.681944,1.5,,Y,,,15,155,Y
+solar,City of Napoleon - (OH),58082,NSF1,AMP Napoleon Solar Facility,OH,2012,9,,,3.5,41.406667,-84.110833,4.2,,Y,,,30,180,N
+solar,Public Service Elec & Gas Co,58090,SEF-1,Middlesex Apple Orchard Solar,NJ,2013,4,,,1.3,40.426389,-74.492222,1.5,,Y,,,20,149,Y
+solar,Public Service Elec & Gas Co,58090,SEF-2,Middlesex Apple Orchard Solar,NJ,2013,4,,,3.4,40.426389,-74.492222,4.2,,Y,,,20,149,Y
+solar,PPL Electric Utilities Corp,58091,KSTN,Keystone Solar,PA,2012,9,,,5.0,39.861111,-76.221111,6,,Y,,,25,182,N
+solar,Public Service Elec & Gas Co,58093,HQNJ,BBB Corporate Headquarters,NJ,2010,6,,,1.0,40.697222,-74.305,1.2,,Y,,,10,180,Y
+solar,Public Service Elec & Gas Co,58094,FINJ,Christmas Tree Shops DC Burlington NJ,NJ,2011,1,,,2.1,40.104167,-74.812778,2.5,,Y,,,10,180,Y
+solar,Public Service Elec & Gas Co,58095,TONJ,Harmon DC Totowa NJ,NJ,2012,1,,,1.5,40.903889,-74.247778,1.7,,Y,,,10,180,Y
+solar,Public Service Elec & Gas Co,58096,PTNJ,Bed Bath & Beyond DC Port Reading NJ,NJ,2011,12,,,1.8,40.568333,-74.2425,2.1,,Y,,,5,180,Y
+solar,Public Service Elec & Gas Co,58123,1,Wakefern Food Corp,NJ,2012,12,,,2.0,40.51,-74.328333,2.4,,Y,,,14,187,Y
+solar,City of Oberlin - (OH),58134,OSSO,Oberlin Spear Point Solar One,OH,2012,11,,,2.0,41.302761,-82.227047,2.3,,,Y,,0,0,N
+solar,Public Service Elec & Gas Co,58187,1,180 Raritan Solar,NJ,2012,6,,,1.9,40.516111,-74.34,2.3,,Y,,,10,188,Y
+solar,City of Milford - (DE),58228,GEN1,Milford Solar Farm,DE,2012,12,,,11.8,38.923056,-75.453333,15,,Y,,,20,180,N
+solar,PECO Energy Co,58231,GEN1,Lincoln Financial Field,PA,2013,1,,,2.9,39.900833,-75.1675,3.2,,Y,,,20,100,N
+solar,Delmarva Power,58239,PVKV,Kent County-Kennedyville,MD,2012,8,,,1.0,39.297222,-75.982222,1.1,,Y,,,25,180,Y
+solar,Delmarva Power,58241,RCKHL,Rock Hall,MD,2012,12,,,1.0,39.144369,-76.231644,1.3,,Y,,,25,180,N
+solar,"Choptank Electric Coop, Inc",58243,WRTN,Kent County - Worton Complex,MD,2012,7,,,1.0,39.280833,-76.090833,1.3,,Y,,,25,180,N
+solar,"Choptank Electric Coop, Inc",58329,PV1,UMMS at Pocomoke,MD,2013,2,,,2.8,38.098056,-75.611111,3.7,,Y,,,20,180,Y
+solar,Public Service Elec & Gas Co,58356,TLS,The Lawrenceville School Solar Facility,NJ,2012,5,,,5.2,40.301409,-74.722117,6.1,,,Y,, ,160,Y
+solar,Public Service Elec & Gas Co,58357,WR,Amazon,NJ,2011,12,,,4.2,40.566389,-74.221389,4.9,,Y,,,16,154,Y
+solar,Jersey Central Power & Lt Co,58358,NJMG,North Jersey Media Group Solar Facility,NJ,2013,3,,,4.1,40.924167,-74.494722,4.9,,Y,,,20,217,Y
+solar,City of Vineland - (NJ),58359,GG,Corning Pharmaceutical Glass,NJ,2012,9,,,2.3,39.496667,-75.018611,2.8,,Y,,,9.7,183,Y
+solar,Public Service Elec & Gas Co,58360,ACF,Atlantic Coast Freezers Solar Facility,NJ,2012,4,,,2.0,39.519935,-75.029038,2.2,,,Y,, ,188,Y
+solar,Public Service Elec & Gas Co,58361,WS,Williams-Sonoma Solar Facility,NJ,2011,12,,,3.0,40.387778,-74.455278,3.6,,Y,,,15,180,Y
+solar,Jersey Central Power & Lt Co,58364,MC,Tissington Solar,NJ,2019,9,,,3.0,41.200278,-74.491944,3.6,,Y,,,25,180,Y
+solar,City of Bryan - (OH),58381,1,Bryan Solar Field,OH,2012,2,,,2.1,41.476389,-84.586111,2.1,,Y,,,25,180,N
+solar,Dayton Power & Light Co,58386,CU,CU Solar Plant,OH,2013,4,,,1.8,39.741944,-83.816944,2.2,,Y,,,25,180,N
+solar,Public Service Elec & Gas Co,58402,1,Solar Star New Jersey NJ LLC,NJ,2012,2,,,1.5,40.401528,-74.669697,1.7,,,Y,,0,0,N
+solar,The Potomac Edison Company,58408,MSH1,Maryland Solar,MD,2013,9,,,27.0,39.563056,-77.720278,29.1,,Y,,,20,180,N
+solar,PPL Electric Utilities Corp,58443,GEN1,Martin Limestone Solar Array,PA,2012,12,,,1.0,40.10596,-76.05934,1.1,,Y,,,31,180,Y
+solar,Southern Maryland Elec Coop Inc,58463,1,Herbert Farm Solar,MD,2012,11,,,5.5,38.545556,-76.799444,7,,Y,,,20,90,N
+solar,Delaware Electric Cooperative,58473,BHSF,Bruce A Henry Solar Farm,DE,2013,8,,,4.0,38.663992,-75.400542,5.2,,Y,,,20,180,N
+solar,Virginia Electric & Power Co,58480,1,Plymouth Solar LLC,NC,2012,9,,,5.4,35.875,-76.710556,6.5,,Y,,,25,180,N
+solar,Jersey Central Power & Lt Co,58483,UNIT1,Tinton Falls Solar Farm,NJ,2012,11,,,16.0,40.263889,-74.084167,19,,Y,,,18,180,N
+solar,Public Service Elec & Gas Co,58504,LVSF,Livingston Solar Farm,NJ,2009,5,,,1.2,40.523611,-74.43,1.4,,Y,,,40,180,N
+solar,Public Service Elec & Gas Co,58505,LVSC,Livingston Solar Canopies,NJ,2013,1,,,6.6,40.5275,-74.438333,8,,Y,,,40,180,N
+solar,City of Vineland - (NJ),58512,PV1,Cornerstone Power Vineland I LLC,NJ,2012,2,,,3.1,39.439722,-75.043889,3.7,,,Y,,0,180,N
+solar,Public Service Elec & Gas Co,58519,1,Alethea I,NJ,2011,11,,,2.8,40.000556,-74.735,3,,Y,,,25,180,N
+solar,PECO Energy Co,58535,1,Pickering Solar,PA,2012,1,,,1.5,40.120556,-75.488056,1.8,,Y,,,10,185,N
+solar,Jersey Central Power & Lt Co,58536,1,Cornerstone Power Holmdel LLC,NJ,2013,5,,,3.0,40.352222,-74.187778,3.7,,N,N,N,15, ,N
+solar,Jersey Central Power & Lt Co,58564,F3NJ,Frenchtown III Solar,NJ,2013,12,,,7.9,40.4825,-75.018056,11.5,,Y,,,25,180,N
+solar,Public Service Elec & Gas Co,58569,1,Paradise Solar Energy Center,NJ,2011,3,,,5.0,39.835833,-75.2225,5.5,,Y,,,25,180,N
+solar,Public Service Elec & Gas Co,58584,PV1,Princeton University Cogeneration,NJ,2012,10,,,4.5,40.341389,-74.657222,5.3,,,Y,, ,90,Y
+solar,Public Service Elec & Gas Co,58584,PV2,Princeton University Cogeneration,NJ,2021,10,,,1.2,40.341389,-74.657222,1.5,,Y,,,12,226,N
+solar,Public Service Elec & Gas Co,58584,PV3,Princeton University Cogeneration,NJ,2022,3,,,10.5,40.341389,-74.657222,12.6,,Y,,,0,226,N
+solar,Public Service Elec & Gas Co,58584,PV4,Princeton University Cogeneration,NJ,2022,3,,,0.4,40.341389,-74.657222,0.5,,Y,,,0,226,N
+solar,Delmarva Power,58631,1,Queen Anne's County,MD,2013,12,,,2.0,39.031667,-76.016389,2.4,,,Y,,30,180,Y
+solar,Commonwealth Edison Co,58643,1,Rockford Solar Farm,IL,2012,10,,,2.6,42.175278,-89.088333,3.1,,Y,N,,30,180,N
+solar,Public Service Elec & Gas Co,58653,1,Jersey Gardens Phase 1,NJ,2011,12,,,1.7,40.660833,-74.173333,2,,Y,,,5,26.7,N
+solar,Public Service Elec & Gas Co,58654,1,Jersey Gardens Phase 2,NJ,2012,2,,,2.3,40.660833,-74.173333,2.8,,Y,,,5,180,N
+solar,City of Celina - (OH),58665,CSP1,"Celina Solar Project #1, LLC",OH,2012,12,,,4.0,40.540556,-84.590556,5,,Y,,,25,180,N
+solar,Virginia Electric & Power Co,58673,GATES,Gates Solar LLC,NC,2015,12,,,5.0,36.450833,-76.803611,6.5,,N,Y,, ,270,N
+solar,Jersey Central Power & Lt Co,58793,UCIV,JMB Mcguire-Dix-Lakehurst Solar Project,NJ,2013,10,,,11.4,39.992818,-74.636933,12.3,,Y,,,27,200,Y
+solar,Atlantic City Electric Co,58798,ACCCC,"AC Criminal Courts Complex SPE2, LLC",NJ,2012,12,,,1.3,39.4375,-74.690556,1.5,,N,Y,, ,90,Y
+solar,Atlantic City Electric Co,58822,U1BB,Millville City Sewer Auth WTP,NJ,2013,3,,,0.8,39.376389,-75.033056,1,,Y,,,20,180,N
+solar,Atlantic City Electric Co,58822,U2DB,Millville City Sewer Auth WTP,NJ,2013,3,,,0.4,39.376389,-75.033056,0.5,,Y,,,20,180,N
+solar,Virginia Electric & Power Co,58843,1,"Bethel Price Solar, LLC",NC,2014,12,,,5.0,35.794722,-77.381111,7,,,Y,, ,180,N
+solar,Virginia Electric & Power Co,58844,1,"Dogwood Solar, LLC",NC,2014,11,,,20.0,36.125,-77.409167,27.8,,,Y,, ,180,N
+solar,Town of Windsor- (NC),58847,1,"Windsor Cooper HIill Solar, LLC",NC,2015,8,,,5.0,35.981944,-76.917778,7,,,Y,, ,180,N
+solar,Public Service Elec & Gas Co,58877,KINS,Kinsley Landfill Solar,NJ,2015,1,,,8.6,39.793333,-75.106389,11.2,,Y,,,10,180,N
+solar,Jersey Central Power & Lt Co,58881,PV01,County College of Morris,NJ,2013,11,,,2.9,40.856667,-74.581389,3.4,,Y,,,10,185,Y
+solar,Public Service Elec & Gas Co,58882,PV01,Mercer County Community College,NJ,2013,9,,,7.5,40.255833,-74.645278,8.3,,Y,,,30,180,Y
+solar,Public Service Elec & Gas Co,58896,PV01,Patriots Stadium,NJ,2013,9,,,1.0,40.560556,-74.551389,1.1,,Y,,,10,197,Y
+solar,Virginia Electric & Power Co,58943,1,Halifax (NC),NC,2014,12,,,20.0,36.441944,-77.711389,29,,Y,,,20,180,N
+solar,Atlantic City Electric Co,58951,DRLS,Delilah Road Landfill,NJ,2016,10,,,8.5,39.416111,-74.543889,10.7,,Y,,,15,180,N
+solar,Public Service Elec & Gas Co,59001,PARK,Parkland Landfill Solar,NJ,2015,1,,,7.8,40.1275,-74.710833,10.1,,Y,,,15,180,N
+solar,Baltimore Gas & Electric Co,59026,SOLAR,Back River Waste Water Treatment,MD,2012,3,,,0.8,39.299722,-76.494167,1,,N,Y,,20,180,N
+solar,Public Service Elec & Gas Co,59055,PV1,Rariton OMP,NJ,2012,4,,,1.7,40.574444,-74.648056,2.4,,Y,,,30,90,N
+solar,Public Service Elec & Gas Co,59057,GEN 1,Skillman,NJ,2011,3,,,1.1,40.574444,-74.648056,1.4,,Y,,,30,90,N
+solar,Public Service Elec & Gas Co,59059,GEN 1,Raritan ITS,NJ,2010,8,,,2.0,40.574444,-74.654167,2.1,,Y,,,30,90,N
+solar,Jersey Central Power & Lt Co,59097,PV1,Berry Plastics Solar,NJ,2013,12,,,9.8,40.698333,-75.151944,13.1,,Y,,,25,180,Y
+solar,Virginia Electric & Power Co,59148,GREEN,Green Farm,NC,2016,1,,,5.0,35.831667,-77.269722,7,,Y,,,20,180,N
+solar,Virginia Electric & Power Co,59149,SIMON,Simons Farm,NC,2016,1,,,5.0,36.306389,-76.997222,7,,Y,,,20,180,N
+solar,Virginia Electric & Power Co,59153,WAT1,Watson Seed Farm PV1,NC,2015,12,,,20.0,36.129722,-77.721389,25,,Y,,,20,190,N
+solar,Virginia Electric & Power Co,59154,BRAD1,Bradley PV1,NC,2015,12,,,5.0,36.260556,-77.076389,6.5,,Y,,,20,190,N
+solar,Virginia Electric & Power Co,59155,SHAW1,Shawboro PV1,NC,2015,10,,,20.0,36.433333,-76.087222,29.5,,Y,,,25,180,N
+solar,Atlantic City Electric Co,59166,BRIDG,Bridgeport Disposal Solar Farm,NJ,2011,4,,,1.2,39.7875,-75.350833,1.5,,Y,,,20,180,Y
+solar,Virginia Electric & Power Co,59170,5MWPV,Jakana Solar,NC,2014,11,,,5.0,35.875278,-77.081111,6.7,,Y,,,20,180,N
+solar,Virginia Electric & Power Co,59171,5MWPV,Windsor Solar,NC,2014,12,,,5.0,36.016944,-76.883056,6.7,,Y,,,20,180,N
+solar,Virginia Electric & Power Co,59173,5MWPV,Bethel Solar,NC,2015,12,,,5.0,35.794328,-77.384542,5.7,,Y,,,20,180,N
+solar,Virginia Electric & Power Co,59174,5MWPV,Lewiston Solar,NC,2014,12,,,5.0,36.141111,-77.211111,6.7,,Y,,,20,180,N
+solar,Virginia Electric & Power Co,59175,5MWPV,Woodland Solar,NC,2016,4,,,5.0,36.341944,-77.221111,7,,Y,,,25,180,N
+solar,Virginia Electric & Power Co,59176,5MWPV,Williamston Solar,NC,2014,12,,,5.0,35.801111,-77.063056,6.7,,Y,,,20,180,N
+solar,Virginia Electric & Power Co,59177,5MWPV,Winton Solar,NC,2016,2,,,5.0,36.375,-76.938889,7,,Y,,,25,180,N
+solar,Jersey Central Power & Lt Co,59185,PV1,Jacobstown,NJ,2014,9,,,5.0,40.063743,-74.582429,6.1,,Y,,,20,180,N
+solar,Public Service Elec & Gas Co,59186,PV1,West Pemberton,NJ,2014,7,,,7.0,40.006667,-74.730278,9.2,,Y,,,20,180,N
+solar,Public Service Elec & Gas Co,59248,CCMUA,CCMUA,NJ,2012,6,,,1.5,39.923056,-75.1275,1.8,,Y,,,20,180,N
+solar,Public Service Elec & Gas Co,59277,MED1,Medford WWTP,NJ,2013,8,,,1.3,39.922222,-74.806667,1.5,,Y,,,25,170,Y
+solar,Public Service Elec & Gas Co,59278,REEV1,Reeves South,NJ,2013,12,,,1.0,39.926667,-74.813611,1.4,,Y,,,25,180,N
+solar,Ohio Power Co,59296,NWO-S,Northwest Ohio Wind,OH,2021,3,,,4.0,41.016944,-84.593611,4.5,,Y,,,25,1,N
+solar,Public Service Elec & Gas Co,59297,CARRI,Carrier Clinic,NJ,2009,10,,,1.5,40.47,-74.685,1.8,,Y,,,25,173,Y
+solar,Jersey Central Power & Lt Co,59318,NRUN1,North Run,NJ,2015,1,,,5.0,40.069601,-74.584842,6.3,,Y,,,15,180,N
+solar,Jersey Central Power & Lt Co,59319,ROCK1,Rock Solid,NJ,2014,11,,,8.0,40.229725,-74.225818,9.9,,Y,,,20,180,N
+solar,City of Cleveland - (OH),59324,MCCO1,MCCo Solar Generating Facility,OH,2014,11,,,1.0,41.516389,-81.597222,1,,Y,,,25,190,N
+solar,PECO Energy Co,59327,GEN1,Marlboro Mushrooms Solar Field,PA,2011,11,,,1.0,39.882778,-75.829444,1.7,,,Y,,0,0,N
+solar,Public Service Elec & Gas Co,59364,PV1,Plainfield One Solar LLC,NJ,2011,12,,,1.3,40.605,-74.439444,1.6,,Y,,,10,180,N
+solar,Jersey Central Power & Lt Co,59365,PV1,24 Applegate Solar LLC,NJ,2014,6,,,2.6,40.205833,-74.579722,3.4,,Y,,,10,180,N
+solar,Jersey Central Power & Lt Co,59366,PV1,G&S Wantage Solar LLC,NJ,2014,1,,,8.5,41.189167,-74.591667,9.4,,Y,,,10,180,N
+solar,Jersey Central Power & Lt Co,59367,PV1,Engelhard Solar LLC,NJ,2012,12,,,0.8,40.33,-74.4625,1.1,,Y,,,10,180,N
+solar,Jersey Central Power & Lt Co,59370,PV1,4 Applegate Solar LLC,NJ,2012,4,,,1.4,40.196389,-74.583611,1.9,,Y,,,10,180,N
+solar,Jersey Central Power & Lt Co,59371,PV1,12 Applegate Solar LLC,NJ,2012,4,,,1.5,40.200278,-74.576111,1.9,,Y,,,10,180,N
+solar,Virginia Electric & Power Co,59426,GKS1,GKS Solar,NC,2015,8,,,5.0,36.248333,-76.501944,6.6,,Y,,,20,180,N
+solar,Virginia Electric & Power Co,59427,TMS1,Two Mile Solar,NC,2015,6,,,5.0,36.223056,-76.461944,6.5,,Y,,,20,180,N
+solar,Virginia Electric & Power Co,59429,DOWN1,Downs Farm Solar,NC,2015,11,,,5.0,36.361944,-76.916944,6.5,,Y,,,20,180,N
+solar,Public Service Elec & Gas Co,59446,CRANB,Cranbury,NJ,2011,12,,,5.0,40.314722,-74.499167,5.7,,Y,,,20,184,N
+solar,City of Richmond - (IN),59478,SRICH,IMPA Richmond Solar Park,IN,2014,9,,,1.0,39.801111,-84.895,1.2,,,Y,, ,180,N
+solar,Town of Frankton - (IN),59479,SFRAN,IMPA Frankton Solar Park,IN,2014,7,,,1.0,40.216389,-85.774722,1.2,,Y,,,0,180,N
+solar,The Toledo Edison Co,59489,AWS1,Anthony Wayne Solar #1,OH,2014,6,,,1.7,41.627222,-83.574722,2.1,,Y,,,25,180,Y
+solar,Virginia Electric & Power Co,59513,MEAD1,Meadows PV 1,NC,2016,6,,,20.0,35.836944,-77.126944,25.9,,Y,,,20,180,N
+solar,Virginia Electric & Power Co,59514,FLAT1,Flat Meeks PV 1,NC,2017,10,,,5.0,35.806667,-77.270556,6.5,,Y,,,20,190,N
+solar,Virginia Electric & Power Co,59515,BENT1,Benthall Bridge PV 1,NC,2016,12,,,5.0,36.42,-77.100278,6.5,,N,Y,,20,180,N
+solar,Virginia Electric & Power Co,59516,AMLEG,American Legion PV 1,NC,2017,12,,,16.0,36.418333,-77.655833,20,,Y,,,20,190,N
+solar,Virginia Electric & Power Co,59517,BAKE1,Baker PV 1,NC,2016,12,,,5.0,36.270278,-77.060278,7,,Y,,,20,190,N
+solar,Virginia Electric & Power Co,59518,GRAND,Grandy PV 1,NC,2020,2,,,20.0,36.233611,-75.880833,25,,Y,,,20,190,N
+solar,Virginia Electric & Power Co,59526,WHIT1,Whitakers,NC,2015,12,,,12.0,36.127222,-77.734444,16.8,,,Y,, ,180,N
+solar,Virginia Electric & Power Co,59527,KELF1,Kelford (Duke),NC,2015,12,,,20.0,36.148056,-77.211944,30,,,Y,, ,180,N
+solar,Virginia Electric & Power Co,59530,PASQ1,Pasquotank,NC,2014,12,,,20.0,36.264722,-76.306111,28,,,Y,,0,0,N
+solar,Jersey Central Power & Lt Co,59544,PV1,Parlin Solar LLC,NJ,2012,10,,,1.3,40.456667,-74.328889,1.31,,Y,N,,15,180,N
+solar,Ohio Edison Co,59545,PV1,Springfield Solar LLC,OH,2012,11,,,1.5,39.893889,-83.805556,1.51,,Y,,,10,185,N
+solar,Duquesne Light Co,59546,PV1,Beaver Solar LLC,PA,2012,12,,,1.3,40.691389,-80.323889,1.35,,Y,,,20,180,N
+solar,Virginia Electric & Power Co,59548,CRES1,"Creswell Alligood Solar, LLC",NC,2015,5,,,14.0,35.898889,-76.379444,20,,,Y,, ,180,N
+solar,Virginia Electric & Power Co,59549,EVER1,"Everetts Wildcat Solar, LLC",NC,2015,4,,,5.0,35.847222,-77.111389,7,,,Y,, ,180,N
+solar,Virginia Electric & Power Co,59591,PV1,Schell Solar Farm,NC,2016,12,,,5.0,36.435556,-77.566389,6.8,,Y,,,20,180,N
+solar,Public Service Elec & Gas Co,59601,L&D,L&D Landfill Solar,NJ,2015,12,,,10.0,39.980278,-74.770278,12.9,,Y,N,,20,180,N
+solar,Jersey Central Power & Lt Co,59627,HRMNY,Harmony,NJ,2015,6,,,3.0,40.755289,-75.170955,3.9,,Y,,,20,180,N
+solar,Jersey Central Power & Lt Co,59628,HNOVR,Hanover,NJ,2015,9,,,5.0,40.065278,-74.590556,6,,Y,,,20,180,N
+solar,Jersey Central Power & Lt Co,59630,CS,CentraState Medical Center PV Facility,NJ,2014,10,,,5.2,40.236111,-74.321389,6.3,,Y,,,15,180,Y
+solar,Jersey Central Power & Lt Co,59631,IM,Imclone Solar Electric Facility,NJ,2014,5,,,8.0,40.555,-74.709444,10,,Y,,,20,180,Y
+solar,Virginia Electric & Power Co,59641,5MWPV,Garysburg Solar,NC,2016,3,,,5.0,36.468,-77.592,6.2,,Y,,,25,180,N
+solar,Virginia Electric & Power Co,59642,5MWPV,Gaston Solar,NC,2016,4,,,5.0,36.514722,-77.656111,6.2,,Y,N,,25,180,N
+solar,Virginia Electric & Power Co,59643,5MWPV,Seaboard Solar LLC,NC,2016,6,,,5.0,36.476944,-77.467778,6.2,,Y,N,,25,180,N
+solar,Virginia Electric & Power Co,59648,5MWPV,Tarboro Solar,NC,2016,1,,,5.0,35.858056,-77.499167,6.2,,Y,N,,25,180,N
+solar,Virginia Electric & Power Co,59685,01,Remington Solar Facility,VA,2017,10,,,20.0,38.548333,-77.776389,27.7,,Y,,,20,180,N
+solar,Delmarva Power,59715,PV1,DD Hay Road Solar 23 LLC,DE,2015,5,,,1.2,39.736708,-75.511747,1.25,,Y,,,10,185,N
+solar,Baltimore Gas & Electric Co,59743,1,Chimes West Friendship (Nixon Farms),MD,2014,12,,,1.2,39.296749,-76.957413,1.5,,Y,N,,15,180,N
+solar,Delmarva Power,59749,1,UMES (MD) - Princess Anne,MD,2011,2,,,2.0,38.20257,-75.6764,2.2,,,Y,,0,180,N
+solar,Public Service Elec & Gas Co,59751,WILZG,"Wilzig Associates, LLC",NJ,2013,1,,,1.2,40.825316,-74.09442,1.5,,Y,,,30,180,Y
+solar,Virginia Electric & Power Co,59795,FLS1,Ahoskie,NC,2018,1,,,5.0,36.306369,-76.993138,5.8,,Y,,,20,180,N
+solar,Virginia Electric & Power Co,59796,FLS1,Kelford (Cypress),NC,2016,5,,,5.0,36.154227,-77.218502,6.4,,Y,,,20,180,N
+solar,Southern Maryland Elec Coop Inc,59811,GEN1,Rockfish Solar LLC,MD,2015,8,,,10.3,38.591545,-76.87486,12.9,,N,Y,, ,90,N
+solar,"Choptank Electric Coop, Inc",59842,PV1,CNE at Cambridge MD,MD,2015,4,,,3.2,38.5158,-76.0192,4.3,,Y,,,25,180,Y
+solar,Public Service Elec & Gas Co,59844,PZ1,Munich Re Plaza,NJ,2012,7,,,1.6,40.350341,-74.59268,1.7,,Y,,,12,2,Y
+solar,Public Service Elec & Gas Co,59844,PZ2,Munich Re Plaza,NJ,2012,10,,,0.8,40.350341,-74.59268,0.9,,Y,,,1,2,Y
+solar,Delmarva Power,59851,GBS01,Great Bay Solar 1,MD,2018,3,,,75.0,38.168889,-75.6975,99,,Y,N,,25,180,N
+solar,Delmarva Power,59851,GBS02,Great Bay Solar 1,MD,2020,8,,,43.0,38.168889,-75.6975,53.5,,Y,,,25,180,N
+solar,Indiana Michigan Power Co,59853,WVPV1,Watervliet PV,MI,2016,11,,,4.6,42.19,-86.23,6,,Y,,,25,180,N
+solar,Indiana Michigan Power Co,59854,OLPV1,OlivePV,IN,2016,8,,,5.0,41.7,-86.49,6.4,,Y,,,25,180,N
+solar,Indiana Michigan Power Co,59855,DCPV1,Deer Creek PV,IN,2016,1,,,2.5,40.51,-85.64,3.1,,Y,,,30,180,N
+solar,Virginia Electric & Power Co,59856,SUN1,"SoINCPower6, LLC",NC,2015,10,,,5.0,36.443,-76.581,7,,,Y,, ,180,N
+solar,Virginia Electric & Power Co,59857,BAT1,"SoINCPower5, LLC",NC,2015,5,,,5.0,36.052801,-77.762458,6.9,,,Y,, ,180,N
+solar,Indiana Michigan Power Co,59861,TBPV1,Twin Branch PV,IN,2016,8,,,2.6,41.69,-86.12,3.2,,Y,,,25,180,N
+solar,Town of Scotland Neck - (NC),59898,SE1SN,"SunEnergy1-Scotland Neck, LLC",NC,2014,12,,,3.0,36.124961,-77.409085,4.2,,,Y,,0,180,N
+solar,Virginia Electric & Power Co,59904,1,Western Branch High School,VA,2016,4,,,1.0,36.848105,-76.407143,1.03,,Y,,,12,232,N
+solar,Virginia Electric & Power Co,59905,1,Merck,VA,2017,6,,,2.1,38.383222,-78.643688,2.2,,Y,,,25,180,N
+solar,Jersey Central Power & Lt Co,59910,SF,"KDC Solar PR1, LLC",NJ,2019,6,,,17.0,40.136696,-74.439668,23.4,,Y,,,15,180,Y
+solar,Virginia Electric & Power Co,59911,1,Philip Morris,VA,2016,3,,,2.0,37.341838,-77.287027,2.4,,Y,N,,25,176,N
+solar,Delmarva Power,59922,G1789,South Campus Solar,DE,2021,7,,,1.3,39.781498,-75.548387,1.8,,Y,,,3,160,Y
+solar,Delmarva Power,59922,GA500,South Campus Solar,DE,2011,8,,,0.5,39.781498,-75.548387,0.6,,Y,,,18.5,180,Y
+solar,Virginia Electric & Power Co,59944,CONE1,"Conetoe II Solar, LLC",NC,2015,12,,,80.0,35.822,-77.481,112,,,Y,, ,180,N
+solar,"Duke Energy Carolinas, LLC",59951,5FRK,Five Forks Solar,NC,2019,12,,,20.0,36.515544,-78.033704,26,,,Y,, ,90,N
+solar,Potomac Electric Power Co,60029,VMMD,CES VMT Solar,MD,2015,7,,,1.1,39.680865,-77.727117,1.3,,Y,,,7,200,Y
+solar,Virginia Electric & Power Co,60030,PECAN,Pecan Solar,NC,2018,12,,,74.9,36.481008,-77.481164,111.3,,,Y,,0,0,N
+solar,Baltimore Gas & Electric Co,60036,PV1,CCBC-Catonsville,MD,2015,9,,,1.6,39.2525,-76.735,2.3,,Y,,,10,177,Y
+solar,The Toledo Edison Co,60038,PV1,Owens Corning Headquarters,OH,2015,9,,,2.1,41.6447,-83.5364,2.4,,Y,,,7,186,Y
+solar,Delmarva Power,60089,ELKTN,Elkton Solar,MD,2015,12,,,1.6,39.603531,-75.836235,2.1,,Y,,,15,180,N
+solar,Delmarva Power,60096,PV1,Town of Chestertown- Chestertown WWTP,MD,2015,12,,,1.0,39.199453,-76.076693,1.3,,,Y,,30,180,Y
+solar,Jersey Central Power & Lt Co,60113,PV1,Jackson Board of Education-Liberty HS,NJ,2016,7,,,1.2,40.092672,-74.262001,1.4,,Y,,,20,180,Y
+solar,Delmarva Power,60127,PV1,"Eastern Shore Solar, LLC",VA,2016,10,,,80.0,37.943895,-75.569556,105.4,,,Y,,60,180,N
+solar,Virginia Electric & Power Co,60188,CON15,Conetoe Solar,NC,2015,12,,,5.0,35.825182,-77.457772,7,,,Y,,0,180,N
+solar,Virginia Electric & Power Co,60189,SRS15,Sugar Run Solar,NC,2015,12,,,5.0,36.437752,-76.597825,7,,,Y,,0,180,N
+solar,Village of Minster - (OH),60190,MIN01,HMW Minster PV I,OH,2015,12,,,3.0,40.390362,-84.401595,4.3,,Y,,,25,180,N
+solar,Public Service Elec & Gas Co,60201,CHNJ,CES Cherry Hill Solar,NJ,2016,2,,,1.2,39.941853,-75.026208,1.6,,Y,,,5,173,Y
+solar,Virginia Electric & Power Co,60207,HEMLK,Hemlock Solar,NC,2017,3,,,5.0,36.469089,-77.597517,7,,,Y,,0,0,N
+solar,Virginia Electric & Power Co,60208,PV1,"Long Farm 46 Solar, LLC",NC,2016,2,,,5.0,36.467021,-77.617957,6.9,,Y,,,25,180,N
+solar,Virginia Electric & Power Co,60209,HXNAI,HXNAir Solar One,NC,2017,12,,,5.0,36.348734,-77.631511,7,,Y,,N,20,180,N
+solar,Public Service Elec & Gas Co,60227,PV1,BJ's Wholesale Club Inc Dist Center,NJ,2016,10,,,1.4,40.098458,-74.825925,2,,Y,,,1,186,Y
+solar,City of Anderson - (IN),60253,SANDE,IMPA Anderson Solar Park,IN,2017,1,,,5.0,40.051556,-85.737129,6.2,,Y,,,0,180,N
+solar,Jersey Central Power & Lt Co,60265,JUNCT,Junction Road,NJ,2016,5,,,4.4,40.5237,-74.843398,5.4,,Y,,,20,180,N
+solar,Atlantic City Electric Co,60266,CEDAR,Cedar Branch,NJ,2016,10,,,6.1,39.503337,-74.964482,7.1,,Y,N,,20,180,N
+solar,Jersey Central Power & Lt Co,60267,SHRN1,Sharon Station,NJ,2016,5,,,2.7,40.182623,-74.539003,3.3,,Y,,,25,180,N
+solar,Virginia Electric & Power Co,60316,1,Scott Solar Farm,VA,2016,12,,,17.0,37.523,-77.934,22.9,,,Y,, ,180,N
+solar,Virginia Electric & Power Co,60318,1,Woodland Solar Farm,VA,2016,12,,,19.0,36.89,-76.611,25.1,,,Y,, ,180,N
+solar,Virginia Electric & Power Co,60319,1,Whitehouse Solar Farm,VA,2016,12,,,20.0,38.023,-77.972,26.8,,,Y,, ,180,N
+solar,Jersey Central Power & Lt Co,60327,AMWEL,East Amwell,NJ,2016,5,,,1.8,40.443266,-74.876373,2.2,,Y,,,25,180,N
+solar,Delmarva Power,60353,CCVT,Cecil County CCVT HS,MD,2015,12,,,2.0,39.651002,-75.808331,2.6,,Y,,,20,180,N
+solar,Virginia Electric & Power Co,60363,WFSPV,"White Farm Solar, LLC",NC,2016,8,,,5.2,36.34764,-77.22244,7.2,,Y,,,20,180,N
+solar,Virginia Electric & Power Co,60369,BFPV,Battleboro Farm,NC,2016,5,,,5.2,36.05864,-77.76077,6.8,,Y,,,20,180,N
+solar,Public Service Elec & Gas Co,60375,ILR1,ILR Landfill,NJ,2016,12,,,6.6,40.470539,-74.383616,7.7,,Y,,,10,180,N
+solar,Jersey Central Power & Lt Co,60378,PV1,NHA at Mansfield NJ,NJ,2016,7,,,5.0,40.76,-74.935,6,,Y,,,25,180,Y
+solar,Virginia Electric & Power Co,60384,HERT,Hertford Solar Farm,NC,2016,1,,,5.0,36.13026,-76.490915,7,,Y,,,25,180,N
+solar,Virginia Electric & Power Co,60395,MC1PV,MC1 Solar,NC,2016,8,,,5.0,35.8748,-77.1397,6.6,,N,Y,,45,90,N
+solar,"Duke Energy Indiana, LLC",60410,SULPV,"Sullivan Solar, LLC",IN,2016,9,,,5.2,39.13199,-87.41383,7.1,,Y,,,20,180,N
+solar,Virginia Electric & Power Co,60415,HFSPV,"Hardison Farm Solar, LLC",NC,2016,9,,,5.2,35.83079,-77.02194,7.1,,,Y,,20,180,N
+solar,Virginia Electric & Power Co,60417,MSFPV,Modlin Solar Farm,NC,2016,8,,,4.9,35.85028,-77.11023,6.9,,Y,,,20,180,N
+solar,Virginia Electric & Power Co,60422,1,Morgan's Corner,NC,2015,12,,,20.0,36.421064,-76.364244,25,,Y,,,20,180,N
+solar,Jersey Central Power & Lt Co,60437,BERNS,Bernards Solar,NJ,2016,9,,,2.9,40.70266,-74.58158,3.7,,Y,,,20,180,N
+solar,Virginia Electric & Power Co,60438,1,Whitakers Farm (Fisher Rd),NC,2016,7,,,3.4,36.115542,-77.725147,4.5,,Y,,,20,180,N
+solar,Baltimore Gas & Electric Co,60447,PSLS,Presbyterian Senior Living Service,MD,2013,9,,,1.0,39.4476,-76.516324,1.2,,,Y,,20,180,Y
+solar,Baltimore Gas & Electric Co,60461,PV1,The Clorox Company,MD,2016,8,,,1.6,39.472128,-76.201342,2.2,,Y,,,8,180,Y
+solar,Delmarva Power,60465,PV1,Chesapeake College,MD,2016,7,,,1.5,38.953389,-76.083244,2.1,,Y,,,30,180,Y
+solar,Virginia Electric & Power Co,60484,1,"Williamston West Farm, LLC",NC,2016,7,,,4.9,35.836544,-77.108044,6.3,,Y,,,20,178,N
+solar,Virginia Electric & Power Co,60487,PV1,"River Road Solar, LLC",NC,2016,8,,,5.0,36.351,-76.842,7,,,Y,, ,180,N
+solar,Public Service Elec & Gas Co,60489,PV1,Hamilton Solar-Crosswicks,NJ,2011,12,,,3.5,40.168958,-74.630095,4,,Y,,,22,180,N
+solar,Public Service Elec & Gas Co,60489,PV2,Hamilton Solar-Crosswicks,NJ,2011,12,,,4.0,40.168958,-74.630095,4.6,,Y,,,22,180,N
+solar,"Choptank Electric Coop, Inc",60496,1,MEBA,MD,2014,11,,,1.5,38.772903,-76.138912,2,,Y,,,20,180,Y
+solar,Public Service Elec & Gas Co,60500,1,Westside Avenue,NJ,2011,3,,,1.0,40.814092,-74.021325,1.1,,Y,,,10,170,Y
+solar,Public Service Elec & Gas Co,60501,1,Hartz Way,NJ,2010,12,,,1.0,40.782829,-74.072782,1.1,,Y,,,10,202,Y
+solar,Virginia Electric & Power Co,60510,PV1,Two Mile Desert Project,NC,2019,6,,,16.2,36.22,-76.46,21,,Y,,,15,180,N
+solar,Virginia Electric & Power Co,60584,01,Oceana Solar,VA,2017,12,,,17.6,36.789753,-76.051419,21.1,,,Y,, ,-8,N
+solar,Delmarva Power,60604,PV1,Wye Mills VNEM CSG,MD,2016,8,,,10.0,38.94037,-76.045658,13.7,,Y,,,20,180,N
+solar,Virginia Electric & Power Co,60611,PV1,Summit Farms Solar,NC,2017,3,,,62.4,36.4765,-76.136,83.5,,,Y,,45,180,N
+solar,The Toledo Edison Co,60622,AMPBG,DG AMP Solar Bowling Green,OH,2017,1,,,20.0,41.396,-83.582,28.5,,,Y,, ,180,N
+solar,Virginia Electric & Power Co,60637,NC160,Cork Oak Solar,NC,2017,12,,,20.0,36.371,-77.571,26.2,,,Y,N,0,90,N
+solar,Virginia Electric & Power Co,60638,NC160,Sunflower Solar,NC,2017,12,,,16.0,36.395,-77.593,21,,,Y,,0,90,N
+solar,Baltimore Gas & Electric Co,60662,PV1,Archdiocese of Baltimore J,MD,2015,12,,,2.0,39.445,-76.217,2.7,,Y,,,20,180,N
+solar,Baltimore Gas & Electric Co,60663,PV1,Archdiocese of Baltimore L,MD,2015,12,,,2.0,39.445,-76.217,2.7,,Y,,,20,180,N
+solar,Baltimore Gas & Electric Co,60664,PV1,Baltimore City B,MD,2015,12,,,2.0,39.436,-76.22,2.5,,Y,,,25,180,N
+solar,Baltimore Gas & Electric Co,60665,PV1,Baltimore City D,MD,2015,12,,,2.0,39.436,-76.22,2.5,,Y,,,25,180,N
+solar,Baltimore Gas & Electric Co,60666,PV1,Baltimore City F,MD,2015,12,,,2.0,39.436,-76.22,2.5,,Y,,,25,180,N
+solar,Baltimore Gas & Electric Co,60667,PV1,Baltimore City G,MD,2015,12,,,2.0,39.436,-76.22,2.5,,Y,,,25,180,N
+solar,Baltimore Gas & Electric Co,60668,PV1,City of Havre De Grace C,MD,2015,12,,,2.0,39.436,-76.22,2.7,,Y,,,25,180,N
+solar,Baltimore Gas & Electric Co,60669,PV1,Sod Run WTP A,MD,2015,12,,,2.0,39.436,-76.22,2.7,,Y,,,25,180,Y
+solar,Baltimore Gas & Electric Co,60681,ASP12,"Annapolis Solar Park, LLC",MD,2018,8,,,12.0,38.992144,-76.573773,18,,Y,,,12,180,Y
+solar,Baltimore Gas & Electric Co,60708,PV1,Havre de Grace II - E at Perryman,MD,2016,5,,,1.4,39.436,-76.22,1.5,,Y,,,25,180,Y
+solar,Jersey Central Power & Lt Co,60709,GRND,IFF Hazlet,NJ,2014,12,,,3.0,40.43819,-74.160147,4,,Y,,,10,180,Y
+solar,Public Service Elec & Gas Co,60727,PV1,East Orange Solar,NJ,2015,3,,,4.5,40.747582,-74.335762,5.5,,Y,,,20,180,Y
+solar,Jersey Central Power & Lt Co,60728,PV1,Howell Solar,NJ,2016,3,,,7.0,40.147009,-74.167516,8.9,,Y,,,20,180,N
+solar,Jersey Central Power & Lt Co,60729,PV1,Raritan Solar,NJ,2016,4,,,7.5,40.464221,-74.857879,10,,Y,,,25,180,N
+solar,Jersey Central Power & Lt Co,60732,PV1,Frankford Solar,NJ,2012,4,,,8.2,41.166566,-74.701645,9.8,,Y,,,25,180,N
+solar,Jersey Central Power & Lt Co,60733,PV1,Brickyard Solar,NJ,2015,6,,,1.5,40.189425,-74.154483,2,,Y,,,20,180,N
+solar,Public Service Elec & Gas Co,60734,PV1,Bordentown Solar,NJ,2015,12,,,6.8,40.0389,-74.7766,8.5,,Y,,,19,148,N
+solar,Delmarva Power & Light Company,60735,PV1,Longview Solar,MD,2016,2,,,13.6,38.394728,-75.672715,17.8,,,Y,, ,90,N
+solar,Delmarva Power,60737,PV1,Church Hill,MD,2016,5,,,6.0,39.100947,-75.959681,7.3,,Y,,,20,180,N
+solar,Jersey Central Power & Lt Co,60739,PV1,DSM Solar,NJ,2014,12,,,4.5,40.843699,-75.065155,6,,Y,,,10,148,Y
+solar,Atlantic City Electric Co,60740,PV1,Pittsgrove Solar,NJ,2014,5,,,2.0,39.539042,-75.179342,2.3,,Y,,,23,180,N
+solar,Jersey Central Power & Lt Co,60746,08502,Silvi Gibraltar Rock,NJ,2016,10,,,2.5,40.450916,-74.717077,3,,Y,,,15,180,Y
+solar,Jersey Central Power & Lt Co,60747,07724,Seabrook Village,NJ,2016,9,,,3.1,40.234177,-74.087225,4,,Y,,,15,180,Y
+solar,Atlantic City Electric Co,60752,PV1,Gloucester Community College Solar,NJ,2014,3,,,2.3,39.780789,-75.122887,3,,Y,,,15,209,Y
+solar,Jersey Central Power & Lt Co,60755,PV1,Spartan,NJ,2017,3,,,8.3,40.047769,-74.616461,9.9,,Y,,,25,180,N
+solar,Jersey Central Power & Lt Co,60759,PV1,Freeze Solar,NJ,2013,12,,,1.5,40.376292,-74.527849,1.8,,Y,,,10,211,Y
+solar,Jersey Central Power & Lt Co,60762,07934,Pfizer Peapack Solar,NJ,2016,10,,,6.2,40.711882,-74.663434,8,,Y,,,15,180,Y
+solar,Jersey Central Power & Lt Co,60763,PV1,Holland Solar,NJ,2015,12,,,3.0,40.599743,-75.108622,3.5,,Y,,,25,180,N
+solar,Public Service Elec & Gas Co,60765,PV1,L'Oreal Franklin,NJ,2012,3,,,1.0,40.487906,-74.521366,1.2,,Y,,,5,215,Y
+solar,Jersey Central Power & Lt Co,60766,PV1,L'Oreal Monmouth,NJ,2013,2,,,2.0,40.400273,-74.504689,2.4,,Y,,,10,219,Y
+solar,Atlantic City Electric Co,60769,PV1,Lower Cape May HS,NJ,2012,12,,,1.5,38.976718,-74.906513,1.8,,Y,,,20,180,Y
+solar,Atlantic City Electric Co,60771,PV1,Timber Creek HS,NJ,2013,12,,,1.3,39.760172,-75.014791,1.4,,Y,,,20,208,Y
+solar,Atlantic City Electric Co,60772,PVHS,Adams Ave MS and HS,NJ,2012,3,,,1.8,39.411372,-74.530865,2.4,,Y,,,30,180,Y
+solar,Atlantic City Electric Co,60772,PVMS,Adams Ave MS and HS,NJ,2011,7,,,1.3,39.411372,-74.530865,1.6,,Y,,,30,180,Y
+solar,Public Service Elec & Gas Co,60776,FDBNK,Community Foodbank of NJ,NJ,2012,8,,,1.0,40.697259,-74.212235,1.1,,Y,,,5,164,N
+solar,Virginia Electric & Power Co,60782,1,"Barnhill Road Solar, LLC",NC,2016,12,,,3.1,36.269175,-76.299469,4.2,,Y,,,20,180,N
+solar,Virginia Electric & Power Co,60783,1,"Leggett Solar, LLC",NC,2016,12,,,5.0,36.058,-77.623,7,,,Y,,20,180,N
+solar,Virginia Electric & Power Co,60787,SPGHT,"Williamston Speight Solar, LLC",NC,2016,11,,,15.0,35.887545,-77.164201,20.9,,,Y,,0,180,N
+solar,Atlantic City Electric Co,60802,PV1,ACCC Mays Landing,NJ,2013,11,,,1.4,39.460566,-74.68093,1.6,,,Y,,10,180,Y
+solar,Jersey Central Power & Lt Co,60805,BRUN1,Beaver Run,NJ,2015,9,,,7.4,41.152955,-74.638077,10,,Y,,,20,180,N
+solar,Public Service Elec & Gas Co,60806,PV1,North Bergen Solar,NJ,2016,10,,,1.6,40.818,-74.017,2.1,,Y,,,10,215,Y
+solar,Public Service Elec & Gas Co,60808,USFDS,US Foods Solar,NJ,2012,8,,,6.0,40.534414,-74.275153,8.1,,Y,,,30,180,Y
+solar,Public Service Elec & Gas Co,60809,MHWWT,"Summit Water Nexus Mt. Holly, LLC Solar",NJ,2013,5,,,1.0,39.987281,-74.801807,1.1,,Y,,,25,180,Y
+solar,Jersey Central Power & Lt Co,60810,SABER,Sabert Solar,NJ,2011,10,,,1.6,40.475477,-74.320933,2.1,,Y,,,1,80,Y
+solar,The Potomac Edison Company,60820,PV1,Montgomery County Correctional Facility,MD,2017,11,,,1.4,39.237945,-77.293217,2,,Y,,,25,250,Y
+solar,Public Service Elec & Gas Co,60839,PV1,"Goya Foods, Inc- Jersey City Solar",NJ,2015,7,,,2.5,40.760069,-74.065394,3.5,,Y,,,10,157,Y
+solar,Public Service Elec & Gas Co,60840,PV1,"Goya Foods, Inc- Secaucus Solar",NJ,2016,3,,,1.6,40.77312,-74.077397,2.1,,Y,,,5,166,Y
+solar,Public Service Elec & Gas Co,60841,PV1,Prudential 55 Livingston Roseland Solar,NJ,2013,1,,,1.2,40.814586,-74.297098,1.6,,Y,,,10,205,N
+solar,Public Service Elec & Gas Co,60842,PV1,Prudential 80 Livingston Roseland Solar,NJ,2013,12,,,1.7,40.815363,-74.304989,2.3,,Y,,,10,202,N
+solar,Public Service Elec & Gas Co,60843,RTD1,River Terminal Development Solar,NJ,2006,6,,,0.5,40.7278,-74.1142,0.6,,Y,,,5,202,Y
+solar,Public Service Elec & Gas Co,60843,RTD2,River Terminal Development Solar,NJ,2009,12,,,0.6,40.7278,-74.1142,0.7,,Y,,,5,202,Y
+solar,Public Service Elec & Gas Co,60843,RTD3,River Terminal Development Solar,NJ,2011,5,,,0.2,40.7278,-74.1142,0.22,,Y,,,10,202,Y
+solar,Public Service Elec & Gas Co,60843,RTD4,River Terminal Development Solar,NJ,2011,9,,,1.0,40.7278,-74.1142,1.02,,Y,,,10,202,Y
+solar,Public Service Elec & Gas Co,60843,RTD5,River Terminal Development Solar,NJ,2016,10,,,0.4,40.7278,-74.1142,0.5,,Y,,,10,202,Y
+solar,Public Service Elec & Gas Co,60843,RTD6,River Terminal Development Solar,NJ,2020,4,,,0.2,40.7278,-74.1142,0.22,,Y,,,10,202,Y
+solar,Potomac Electric Power Co,60847,PV1,Garrett County - DPU Treatment Plant,MD,2017,5,,,1.2,39.505187,-79.392991,1.7,,Y,,,20,180,Y
+solar,Metropolitan Edison Co,60848,51599,Temple Solar Arrays,PA,2011,5,,,2.2,40.423484,-75.925225,2.5,,,Y,,25,185,Y
+solar,Potomac Electric Power Co,60849,87353,Emmitsburg Solar Arrays,MD,2014,4,,,1.7,39.69373,-77.314427,2.4,,Y,,,25,172,Y
+solar,Jersey Central Power & Lt Co,60857,LKWD1,NES Rutgers Solar,NJ,2012,10,,,1.0,40.070879,-74.161153,1.4,,Y,,,10,212,Y
+solar,Kentucky Utilities Co,60863,PV1,Cooperative Solar One,KY,2017,11,,,8.5,38.027241,-84.254726,10.7,,,Y,,25,180,N
+solar,Virginia Electric & Power Co,60882,GAUSS,Carl Friedrich Gauss Solar,NC,2018,10,,,5.0,36.345842,-77.633477,7,,Y,,,25,180,N
+solar,Ohio Power Co,60913,PV1,Ohio Northern University Solar Site,OH,2016,12,,,2.0,40.759622,-83.8391,2.1,,,Y,,0,0,N
+solar,Ohio Power Co,60913,PV2,Ohio Northern University Solar Site,OH,2018,5,,,1.0,40.759622,-83.8391,1.1,,,Y,,0,0,N
+solar,Virginia Electric & Power Co,60915,PV1,Correctional Solar LLC,VA,2017,12,,,20.0,37.471464,-76.844612,22.9,,,Y,,0,0,N
+solar,Virginia Electric & Power Co,60916,PV1,"Sussex Drive, LLC",VA,2017,11,,,20.0,36.940529,-77.41776,28.3,,,Y,,0,0,N
+solar,Virginia Electric & Power Co,60917,PV1,Buckingham Solar LLC,VA,2017,11,,,19.8,37.502944,-78.379237,22.7,,,Y,,45,180,N
+solar,Clyde Light & Power,60923,PV1,Clyde Solar Array,OH,2016,6,,,2.8,41.319351,-82.984331,3.7,,N,Y,,0,0,N
+solar,Virginia Electric & Power Co,60968,PV1,Scott-II Solar LLC,VA,2017,12,,,20.0,37.526244,-77.944637,28.3,,,Y,,45,180,N
+solar,PPL Electric Utilities Corp,60985,ESPV,Elizabethtown Solar,PA,2016,2,,,2.0,40.152693,-76.581401,2.6,,Y,,,30,180,N
+solar,Public Service Elec &amp; Gas Co,60990,PV1,"Florence Solar W3-080, LLC",NJ,2016,12,,,7.9,40.095611,-74.787611,9.9,,Y,,,15,180,N
+solar,Virginia Electric &amp; Power Co,60992,NCARD,Northern Cardinal Solar,NC,2018,6,,,2.0,36.433289,-77.719745,3.6,,,Y,, ,180,N
+solar,Jersey Central Power & Lt Co,60994,GEN1,French's Landfill PV,NJ,2014,10,,,5.1,40.109677,-74.130198,6.1,,Y,,,8.7,180,N
+solar,Virginia Electric &amp; Power Co,60997,EVRT1,Everett PV1,NC,2019,12,,,10.0,35.821137,-77.30957,13,,Y,,,20,190,N
+solar,Virginia Electric &amp; Power Co,60998,UNWD2,Underwood PV2,NC,2020,10,,,16.0,36.419353,-77.049537,20,,Y,,,20,190,N
+solar,Virginia Electric &amp; Power Co,61011,PV1,Chestnut Solar,NC,2020,3,,,74.9,36.18,-77.712,100,,,Y,, ,90,N
+solar,Virginia Electric & Power Co,61023,1,Hollyfield,VA,2018,9,,,17.0,37.672005,-77.170439,22.5,,,Y,, ,180,N
+solar,Virginia Electric & Power Co,61031,PV1,Floyd Road Solar Farm,NC,2017,6,,,5.0,36.50592,-77.677474,6.8,,,Y,, ,0,N
+solar,City of Greenfield - (IN),61053,SGREE,Greenfield Solar Park,IN,2017,12,,,2.8,39.793847,-85.816507,3.6,,N,Y,, ,180,N
+solar,City of Anderson - (IN),61054,SAND2,IMPA Anderson Solar Park 2,IN,2017,12,,,8.1,40.138307,-85.690907,10.2,,,Y,, ,180,N
+solar,Virginia Electric & Power Co,61055,AMPFR,DG AMP Solar Front Royal,VA,2017,5,,,2.5,38.929,-78.18,3.5,,Y,,,25,180,N
+solar,Jersey Central Power & Lt Co,61073,PEMB1,Pemberton Road I,NJ,2017,6,,,8.8,39.981764,-74.697369,10,,Y,,,20,180,N
+solar,Jersey Central Power & Lt Co,61074,PEMB2,Pemberton Road II,NJ,2017,6,,,8.8,39.979936,-74.701917,10,,Y,,,20,180,N
+solar,Town of Bedford - (VA),61126,12346,Bedford Solar (Oppidum),VA,2017,12,,,3.0,37.335046,-79.480995,3.4,,,Y,, ,180,N
+solar,Edgecombe-Martin County E M C,61131,12345,Tolson Solar,NC,2015,12,,,3.0,35.829572,-77.615869,4,,,Y,, ,180,N
+solar,Virginia Electric & Power Co,61134,15800,Phelps 158 Solar Farm,NC,2018,2,,,5.0,36.442636,-77.161514,6.5,,,Y,, ,180,N
+solar,Baltimore Gas & Electric Co,61185,SO147,Pfeffers,MD,2016,5,,,1.0,39.42757,-76.393562,1.5,,,Y,,25,180,Y
+solar,PECO Energy Co,61198,SA-1,Merck - Upper Gwynedd Solar Array,PA,2011,1,,,1.5,40.215399,-75.28309,1.6,,Y,,,10,225,N
+solar,Delmarva Power,61206,10021,Onyx - Allen Harim,DE,2017,4,,,1.2,38.717509,-75.288789,1.6,,Y,,,25,180,Y
+solar,Jersey Central Power & Lt Co,61224,5400,"350 Clark Solar, NG, LLC",NJ,2011,4,,,1.8,40.894197,-74.730162,1.9,,Y,,,25,180,Y
+solar,Public Service Elec & Gas Co,61248,INV1R,Glopak Solar PV Power Plant,NJ,2011,8,,,0.5,40.575378,-74.39281,0.5,,,,, , ,N
+solar,Public Service Elec & Gas Co,61248,INV2G,Glopak Solar PV Power Plant,NJ,2012,6,,,0.5,40.575378,-74.39281,0.5,,,,, , ,N
+solar,Virginia Electric & Power Co,61287,SF5PV,"Sun Farm V, LLC",NC,2018,11,,,5.0,36.160629,-76.489357,6.9,,Y,,,20,180,N
+solar,Duke Energy Kentucky,61310,PV1,Crittenden Solar Facility,KY,2017,12,,,2.7,38.751822,-84.613255,3.8,,Y,,,25,180,N
+solar,Duke Energy Kentucky,61311,PV1,Walton 1 Solar Facility,KY,2017,12,,,2.0,38.85018,-84.592263,2.9,,Y,,,25,180,N
+solar,Duke Energy Kentucky,61312,PV1,Walton 2 Solar Facility,KY,2017,12,,,2.0,38.85018,-84.592263,2.9,,Y,,,25,180,N
+solar,Virginia Electric & Power Co,61318,SOLAR,Mt. Jackson Solar,VA,2021,6,,,15.7,38.739621,-78.660158,22.1,,,Y,N, ,0,N
+solar,Potomac Electric Power Co,61321,BFSC,Biggs Ford Solar Center,MD,2025,8,,,15.0,39.4829,-77.3757,19.82,,,Y,, ,180,N
+solar,Public Service Elec & Gas Co,61354,STONY,Princeton Solar Project,NJ,2017,9,,,2.2,40.379736,-74.625694,2.9,,Y,,,10,180,Y
+solar,Baltimore Gas & Electric Co,61358,BWI5,IGS Solar I - BWI5,MD,2016,12,,,1.1,39.27,-76.548,1.6,,Y,,,10,177,Y
+solar,Public Service Elec & Gas Co,61359,EWR5,IGS Solar I - EWR5,NJ,2016,11,,,1.9,40.582,-74.255,2.9,,Y,,,10,197,Y
+solar,Public Service Elec & Gas Co,61360,EWR6,IGS Solar I - EWR6,NJ,2016,11,,,1.9,40.583,-74.257,2.6,,Y,,,10,196,Y
+solar,Rappahannock Electric Coop,61374,PV1,Hecate Energy Clarke County LLC,VA,2017,8,,,10.0,39.06485,-78.138207,12.6,,,Y,,0,0,N
+solar,Old Dominion Electric Coop,61375,PV1,Hecate Energy Cherrydale LLC,VA,2017,11,,,20.0,37.37,-75.917171,25.1,,,Y,,60,180,N
+solar,Virginia Electric & Power Co,61406,ESSEX,Essex Solar Center,VA,2017,12,,,20.0,37.834094,-76.799967,26.7,,,Y,, ,90,N
+solar,Virginia Electric & Power Co,61422,PV1,"Southampton Solar, LLC",VA,2017,12,,,100.0,36.614,-77.166,140.8,,,Y,,0,0,N
+solar,City of Orrville - (OH),61436,AMPO3,DG AMP Solar Orrville 3,OH,2018,2,,,2.3,40.856428,-81.759461,2.8,,Y,,,25,180,N
+solar,Village of Versailles - (OH),61437,AMPVS,DG AMP Solar Versailles,OH,2018,1,,,1.8,40.2207,-84.4978,2.2,,Y,,,25,180,N
+solar,Village of Jackson Center - (OH),61438,AMPJC,DG AMP Solar Jackson Center,OH,2018,2,,,1.6,40.444969,-84.047247,2.2,,Y,,,25,180,N
+solar,Central Virginia Electric Coop,61457,PALM,Palmer Solar Center,VA,2017,12,,,5.0,37.96724,-78.230963,6.7,,,Y,, ,90,N
+solar,Central Virginia Electric Coop,61458,MARTN,Martin Solar Center,VA,2017,12,,,5.0,37.88051,-78.049191,6.8,,Y,,,25,180,N
+solar,Baltimore Gas & Electric Co,61465,BWI2,IGS Solar I - BWI2,MD,2017,2,,,1.4,39.267,-76.548,2.1,,Y,,,10,180,Y
+solar,Public Service Elec & Gas Co,61466,EWR9,IOS - ERW9,NJ,2017,8,,,5.3,40.595,-74.225,7.5,,Y,,,10,166,Y
+solar,Public Service Elec & Gas Co,61473,HWVHS,Hopewell Valley High School Hybrid,NJ,2015,12,,,0.9,40.328005,-74.804896,1,,Y,,,7.5,180,N
+solar,Atlantic City Electric Co,61507,RLSNJ,DG New Jersey Solar RLS Logistics,NJ,2018,1,,,4.0,39.575217,-75.014147,4.1,,N,Y,, ,90,N
+solar,Public Service Elec & Gas Co,61515,HOLTC,DG Camden LLC Holtec,NJ,2017,12,,,2.2,39.910969,-75.1186,3.2,,Y,,,10,180,N
+solar,The Potomac Edison Co,61519,GEN1,Baker Point,MD,2016,10,,,9.0,39.570338,-77.363415,11,,Y,,,25,180,N
+solar,The Potomac Edison Co,61552,FDSPV,Fort Detrick Solar PV,MD,2016,2,,,15.7,39.44,-77.45,18.6,,Y,,,15,180,N
+solar,Virginia Electric & Power Co,61581,DAVIS,"Davis Lane Solar, LLC",NC,2017,12,,,5.0,36.107345,-76.52924,7,,Y,,,20,180,N
+solar,Public Service Elec & Gas Co,61599,NEWRD,"New Road Solar, LLC",NJ,2018,6,,,10.0,40.403238,-74.567786,13,,Y,,,20,180,N
+solar,Jersey Central Power & Lt Co,61600,OLDBR,Old Bridge Solar Farm,NJ,2018,8,,,8.8,40.444372,-74.243376,10.7,,Y,,,12,186,N
+solar,Jersey Central Power & Lt Co,61601,RARIT,Raritan Solar - 53 Highway,NJ,2018,5,,,8.4,40.453864,-74.863033,10,,Y,,,25,180,N
+solar,Potomac Electric Power Co,61608,1,Montgomery County Solar,MD,2018,6,,,1.9,39.113,-77.236,2.5,,Y,N,,7.5,127.6,N
+solar,Jersey Central Power &amp; Lt Co,61630,MENN,William G Mennen Sports Solar,NJ,2011,2,,,1.3,40.814851,-74.47586,1.6,,Y,,,9,125,N
+solar,Ohio Power Co,61637,PV1,Denison Solar Array,OH,2017,12,,,1.9,40.073337,-82.517957,2.3,,,Y,,0,180,Y
+solar,Appalachian Power Co,61691,DEPOT,"Depot Solar Center, LLC",VA,2022,7,,,15.0,37.276278,-79.116506,20,,,Y,,25,0,N
+solar,City of Richmond - (IN),61729,SRIC2,Richmond Solar Site 2,IN,2018,12,,,7.4,39.833452,-84.816212,9.8,,,Y,, ,180,N
+solar,PECO Energy Co,61738,SOLAR,GWCC PV Solar Farm,MD,2015,1,,,1.6,39.017238,-76.908997,2.1,,Y,,,20,180,Y
+solar,Duke Energy Ohio Inc,61744,1,L'Oreal Solar - Florence,KY,2017,7,,,1.1,38.987696,-84.608172,1.4,,Y,,,5,183.3,Y
+solar,Public Service Elec & Gas Co,61751,RCLIP,Rotor Clip,NJ,2018,12,,,2.8,40.539051,-74.532375,4.9,,Y,,,25,163,N
+solar,Virginia Electric & Power Co,61778,N301,North 301 Solar,NC,2019,12,,,20.0,36.213,-77.624,26.9,,,Y,, ,90,N
+solar,Virginia Electric & Power Co,61781,EDE,Edenton Solar,NC,2019,12,,,5.0,36.054,-76.544,7.5,,Y,,,20,20,N
+solar,Delmarva Power,61794,GTWYN,Gateway Solar,MD,2019,3,,,5.0,38.376941,-75.274195,6.5,,,Y,, ,180,N
+solar,Delmarva Power,61794,GTWYS,Gateway Solar,MD,2019,5,,,2.6,38.376941,-75.274195,3.5,,,Y,, ,180,N
+solar,Potomac Electric Power Co,61796,LGBSC,LeGore Bridge Solar Center,MD,2025,12,,,20.0,39.572402,-77.307869,27,,,Y,, ,180,N
+solar,Delmarva Power,61800,AMPSM,DG AMP Solar Smyrna,DE,2018,7,,,1.2,39.279702,-75.622424,1.5,,Y,,,25,146,N
+solar,Dayton Power & Light Co,61805,AMPPS,DG AMP Solar Piqua Staunton,OH,2018,9,,,1.8,40.140866,-84.23148,2.5,,Y,,,15,195,N
+solar,Virginia Electric & Power Co,61813,RCHLD,"Ranchland Solar, LLC",NC,2017,12,,,60.0,36.472591,-76.154089,84.5,,,Y,, ,180,N
+solar,Village of Brewster - (OH),61818,AMPBR,DG AMP Solar Brewster,OH,2018,12,,,1.9,40.702397,-81.58983,2.2,,Y,,,15,180,N
+solar,Public Service Elec & Gas Co,61822,S1,"Princeton Energy Center, LLC",NJ,2012,12,,,0.2,40.339838,-74.62393,0.2,,Y,,,1,283,N
+solar,Virginia Electric & Power Co,61842,PV1,"Sun Farm VI, LLC",NC,2018,11,,,5.0,36.114444,-76.507778,6.9,,Y,,,20,180,N
+solar,City of Danville - (VA),61849,SO291,Danville,VA,2018,3,,,6.0,36.660591,-79.29906,8,,,Y,, ,0,Y
+solar,Jersey Central Power &amp; Lt Co,61864,DIXSL,"Dix Solar, L.L.C",NJ,2017,6,,,13.0,39.977433,-74.621862,16.5,,Y,,,25,180,N
+solar,Public Service Elec & Gas Co,61893,BNBHQ,BNB Camden Solar,NJ,2017,12,,,2.2,39.93903,-75.10802,2.7,,Y,,,10,180,Y
+solar,Public Service Elec & Gas Co,61893,BNBSO,BNB Camden Solar,NJ,2017,12,,,1.5,39.93903,-75.10802,1.7,,Y,,,10,185,Y
+solar,Jersey Central Power & Lt Co,61907,NJLND,Springfield Solar Project,NJ,2018,10,,,7.5,40.032087,-74.647387,9.2,,Y,,,25,180,Y
+solar,Virginia Electric & Power Co,61908,STRAT,"Stratford Solar Center, LLC",VA,2022,11,,,15.0,36.660483,-76.56093,20,,,Y,, ,0,N
+solar,PPL Electric Utilities Corp,61914,SO829,Susquehanna University Solar,PA,2018,9,,,3.0,40.795166,-76.882525,3.9,,,Y,,25,0,Y
+solar,Baltimore Gas & Electric Co,61915,SO285,Bowie State Solar,MD,2018,3,,,1.3,39.019083,-76.759479,1.6,,Y,N,,10,218,Y
+solar,Delmarva Power,61934,2,WHA Southbridge Solar Park CSG,DE,2018,6,,,1.4,39.723644,-75.545978,1.7,,Y,,,20,180,N
+solar,Jersey Central Power & Lt Co,61965,QKRTN,"Quakertown Solar Farm, LLC",NJ,2018,10,,,8.8,40.522818,-74.944168,12.3,,Y,,,20,180,N
+solar,Virginia Electric & Power Co,61985,CTWS,Colonial Trail West,VA,2019,12,,,142.4,37.138889,-76.902222,210.9,,,Y,, ,0,N
+solar,Virginia Electric & Power Co,61986,SGIS,Spring Grove I,VA,2020,11,,,97.9,37.173916,-76.919245,135.5,,,Y,, ,90,N
+solar,Virginia Electric & Power Co,62011,RMDSS,Richmond Spider Solar,VA,2020,12,,,20.0,38.247123,-77.786223,24.2,,,Y,, ,180,N
+solar,Virginia Electric & Power Co,62012,PLNM1,Pleinmont Solar 1,VA,2020,10,,,75.0,38.247123,-77.786223,99.6,,,Y,, ,180,N
+solar,Virginia Electric & Power Co,62013,PLNM2,Pleinmont Solar 2,VA,2021,8,,,240.0,38.247123,-77.786223,294,,,Y,,0,0,N
+solar,Virginia Electric & Power Co,62014,HLND1,Highlander Solar Energy Station 1,VA,2020,12,,,165.0,38.247123,-77.786223,200.1,,,Y,, ,180,N
+solar,Public Service Elec & Gas Co,62027,PV1,Caldwell Wastewater Treatment Plant Hybr,NJ,2016,12,,,0.7,40.838568,-74.312476,0.9,,Y,,,15,220,N
+solar,City of Cleveland - (OH),62041,CCBO1,Cuyahoga County Landfill,OH,2018,9,,,3.7,41.443122,-81.751526,4,,Y,,,25,180,N
+solar,Potomac Electric Power Co,62043,FBCG1,First Baptist Church of Glenarden,MD,2018,4,,,1.5,38.82,-76.87,2.1,,Y,,,25,180,Y
+solar,Virginia Electric & Power Co,62054,AVS01,Alpha Value Solar,NC,2019,12,,,5.0,36.157401,-76.489563,6.9,,,Y,,60,180,N
+solar,Delmarva Power,62074,PV1,"Bd of Educ of Queen Anne's Cnty, Cnty HS",MD,2019,7,,,1.7,39.035986,-76.054316,2.2,,,Y,, ,0,Y
+solar,West Penn Power Co,62119,PSUPV,University Park Solar,PA,2018,12,,,1.5,40.817019,-77.844117,2,,Y,,,30,180,N
+solar,Virginia Electric & Power Co,62140,PULL,Puller Solar,VA,2018,10,,,15.0,37.57245,-76.46734,19.7,,,Y,,0,0,N
+solar,Duke Energy Ohio Inc,62200,HILLC,Hillcrest Solar,OH,2021,7,,,200.0,39.076972,-83.906046,265,,,Y,,0,0,N
+solar,Potomac Electric Power Co,62208,PV1,NIST Solar,MD,2018,12,,,4.0,39.127,-77.216,5,,Y,,,25,180,Y
+solar,Jersey Central Power & Lt Co,62225,PV1,Hunterdon Health System Solar Project,NJ,2019,2,,,1.5,40.652,-74.908,2,,Y,,,25,180,N
+solar,Jersey Central Power & Lt Co,62306,IFFUB,IFF Union Beach Project,NJ,2019,6,,,5.5,40.446574,-74.154627,6.8,,Y,,,15,180,Y
+solar,Baltimore Gas & Electric Co,62323,MMDJ,Macy's MD Joppa Solar Project,MD,2016,3,,,1.8,39.44752,-76.32095,2.3,,Y,,,10,155,Y
+solar,Public Service Elec & Gas Co,62325,1,46 Meadowlands Parkway,NJ,2018,9,,,1.5,40.78976,-74.071521,2,,Y,,,10,202,Y
+solar,Public Service Elec & Gas Co,62326,1,77 Metro Way,NJ,2018,9,,,1.0,40.770516,-74.072239,1.2,,Y,,,10,160,Y
+solar,PECO Energy Co,62327,SP,"Synergen Panorama, LLC CSG",MD,2019,7,,,5.0,38.772107,-76.973379,6.6,,Y,,,25,180,N
+solar,Virginia Electric & Power Co,62328,MLLPD,"Mill Pond Solar, LLC",NC,2019,8,,,5.0,35.829426,-76.790764,7.4,,,Y,, ,180,N
+solar,Virginia Electric & Power Co,62329,JMVLR,"Jamesville Road Solar, LLC",NC,2019,11,,,5.0,35.845354,-76.801491,7.2,,,Y,, ,180,N
+solar,Virginia Electric & Power Co,62330,CMDND,"Camden Dam Solar, LLC",NC,2019,8,,,5.0,36.311822,-76.125847,7.2,,,Y,, ,180,N
+solar,Potomac Electric Power Co,62331,SOLPH,Sol Phoenix,MD,2020,1,,,2.5,38.85,-76.95,3.1,,Y,,,15,180,N
+solar,Delmarva Power,62332,BLUES,Blue Star,MD,2020,3,,,7.5,39.35,-75.85,7.8,,,Y,, ,180,N
+solar,Virginia Electric & Power Co,62340,HOLLO,"Aulander Holloman Solar, LLC",NC,2018,12,,,99.0,36.29116,-77.066561,125,,,Y,, ,180,N
+solar,Virginia Electric & Power Co,62355,569PV,IKEA Norfolk Rooftop PV System,VA,2019,3,,,0.9,36.875877,-76.200935,1.26,,Y,,,10,130.5,Y
+solar,Potomac Electric Power Co,62374,PV1,JBAB - Washington DC,DC,2019,1,,,5.9,38.852655,-77.009291,7,,Y,,,10,70,N
+solar,Delmarva Power,62405,X0009,UMCES Ground Mount,MD,2018,2,,,2.0,38.583064,-76.13475,2.7,,Y,,,20,180,N
+solar,Potomac Electric Power Co,62407,X0001,Anne Arundel County Public Schools,MD,2017,10,,,1.0,39.13728,-76.498041,1.4,,Y,,,20,180,N
+solar,Metropolitan Edison Co,62408,X0028,Fort Indiantown Gap,PA,2019,1,,,3.0,40.427558,-76.57313,4.4,,,Y,,0,0,N
+solar,Public Service Elec & Gas Co,62438,A,Heller 400M,NJ,2013,5,,,0.8,40.4987,-74.3878,0.79,,Y,,,5,220,Y
+solar,Public Service Elec & Gas Co,62438,B,Heller 400M,NJ,2013,5,,,0.2,40.4987,-74.3878,0.3,,Y,,,5,220,Y
+solar,Public Service Elec & Gas Co,62438,C,Heller 400M,NJ,2013,5,,,0.2,40.4987,-74.3878,0.15,,Y,,,5,220,Y
+solar,Public Service Elec & Gas Co,62439,A,Owens Corning,NJ,2016,12,,,2.8,39.838784,-75.052996,3.4,,Y,,,30,180,N
+solar,Jersey Central Power & Lt Co,62454,1,Lakewood Cheddar School,NJ,2013,1,,,1.0,40.0709,-74.1808,1.1,,Y,,,15,171,Y
+solar,Virginia Electric & Power Co,62544,GEN1,Wilkinson Solar LLC,NC,2019,12,,,80.6,35.596814,-76.763849,95.9,,,Y,, ,172.7,N
+solar,Jersey Central Power & Lt Co,62586,BASF,DG Florham Park Solar LLC,NJ,2019,10,,,2.0,40.777783,-74.427242,2.6,,Y,,,33,158,Y
+solar,Public Service Elec & Gas Co,62598,LOREA,Connell East LLC,NJ,2013,1,,,1.4,40.666976,-74.407814,1.5,,Y,,,11,39,Y
+solar,Public Service Elec & Gas Co,62612,USBC1,USAA Black Bear Energy,NJ,2018,11,,,1.9,40.313573,-74.4847,2.5,,Y,,,10,176,Y
+solar,Public Service Elec & Gas Co,62616,CCGWC,CCG Marketing,NJ,2018,7,,,1.5,40.859343,-74.302956,2,,Y,,,5,212,Y
+solar,Baltimore Gas & Electric Co,62628,10115,APG Old Bayside,MD,2018,10,,,1.7,39.498961,-76.146055,2.4,,Y,,,22,180,Y
+solar,Baltimore Gas & Electric Co,62629,10115,APG New Chesapeake,MD,2018,10,,,2.3,39.493704,-76.146701,3.3,,Y,,,22,180,Y
+solar,Jersey Central Power & Lt Co,62637,MILFD,Milford Solar Farm (NJ) LLC,NJ,2019,9,,,7.5,40.614955,-75.156486,8.9,,Y,,,15,191,N
+solar,Jersey Central Power & Lt Co,62638,WASHG,McCullough Road Solar Farm,NJ,2019,6,,,8.8,40.757615,-74.958162,10,,Y,,,23,180,N
+solar,Dayton Power & Light Co,62670,HIGHL,Hecate Energy Highland LLC,OH,2024,5,,,300.0,39.083514,-83.80981,395,,,Y,, ,90,N
+solar,Virginia Electric & Power Co,62675,SKIPJ,Skipjack Solar Center,VA,2022,5,,,175.0,37.437106,-77.158736,225,,,Y,,0,37,N
+solar,Public Service Elec & Gas Co,62680,GARFE,Garfield Solar,NJ,2019,9,,,0.4,40.888632,-74.122229,0.5,,Y,,,5,199,Y
+solar,Public Service Elec & Gas Co,62680,GARFN,Garfield Solar,NJ,2019,10,,,0.8,40.888632,-74.122229,1.2,,Y,,,28,199,Y
+solar,Public Service Elec & Gas Co,62680,GARFS,Garfield Solar,NJ,2019,10,,,1.4,40.888632,-74.122229,1.8,,Y,,,28,199,Y
+solar,Public Service Elec & Gas Co,62680,GARMS,Garfield Solar,NJ,2019,9,,,1.6,40.888632,-74.122229,2,,Y,,,28,199,Y
+solar,Borough of Ephrata - (PA),62686,PABOE,"TPE Pennsylvania Solar 1, LLC",PA,2019,8,,,3.6,40.198529,-76.161594,4,,,Y,,52,180,N
+solar,Virginia Electric & Power Co,62691,PGR05,Shiloh Hwy Solar,NC,2017,12,,,5.0,36.27,-76.033,7.1,,,Y,,45,180,N
+solar,Virginia Electric & Power Co,62692,PGR04,Sandy Solar,NC,2018,3,,,5.0,36.33,-76.058,6.6,,,Y,,45,180,N
+solar,Virginia Electric & Power Co,62693,PGR03,Chowan Jehu Solar,NC,2018,2,,,5.0,36.283778,-76.602304,6.6,,,Y,,45,180,N
+solar,Potomac Electric Power Co,62710,SO435,Nationals,DC,2019,5,,,1.0,38.874155,-77.006676,1.4,,Y,,,5,180,Y
+solar,Public Service Elec & Gas Co,62712,BCF,Burlington Coat Factory Solar,NJ,2018,12,,,2.6,40.09283,-74.807687,3.8,,Y,,,10,180,Y
+solar,Jersey Central Power & Lt Co,62713,DSM,DSM Nutritional Products Solar,NJ,2018,12,,,10.0,40.836806,-75.065465,14,,Y,,,10,180,Y
+solar,Delmarva Power,62720,5540,"Chester Woods Point Solar, LLC CSG",MD,2019,6,,,2.0,38.94843,-76.300435,2.6,,,Y,,20,180,N
+solar,Virginia Electric & Power Co,62730,1,Desper Solar,VA,2021,12,,,88.2,38.015735,-78.043131,122.4,,,Y,, ,0,N
+solar,Atlantic City Electric Co,62739,ARDAH,KDC Solar ASGM,NJ,2019,7,,,3.8,39.409744,-75.218545,5.5,,Y,,,20,180,Y
+solar,Jersey Central Power & Lt Co,62746,CSCP,KDC Solar CSCP LLC,NJ,2019,9,,,3.4,40.237803,-74.314421,3.9,,Y,,,7.4,230,Y
+solar,Virginia Electric & Power Co,62758,MEHER,Meherrin Solar,VA,2022,9,,,59.6,36.59,-77.65,86.1,,,Y,,60,180,N
+solar,Virginia Electric & Power Co,62768,PCSOL,Piney Creek Solar,VA,2023,8,,,80.0,36.818554,-78.771892,91.6,,N,Y,, ,0,N
+solar,City of Richmond - (IN),62770,SRIC3,Richmond Solar Park 3,IN,2019,12,,,6.5,39.83901,-84.825585,8.7,,,Y,, ,180,N
+solar,Old Dominion Electric Coop,62780,100,"Rappahannock Solar, LLC",VA,2021,11,,,1.5,37.657039,-76.383228,2,,,Y,,60,180,N
+solar,City of Richmond - (IN),62791,SRIC4,Richmond Solar Park 4,IN,2020,10,,,7.1,39.862889,-84.92966,9.3,,,Y,, ,180,N
+solar,City of Piqua - (OH),62792,AMPPM,DG AMP Solar Piqua Manier,OH,2019,7,,,12.6,40.13043,-84.25545,13.2,,,Y,, ,180,N
+solar,Town of Centerville - (IN),62794,SCENT,Centerville Solar Park,IN,2020,10,,,1.1,39.828501,-85.003765,1.4,,,Y,, ,180,N
+solar,Virginia Electric & Power Co,62798,FERN,Fern Solar LLC,NC,2020,12,,,100.0,36.003272,-77.696443,134,,,Y,, ,0,N
+solar,Virginia Electric & Power Co,62813,GRHS,Grasshopper Solar,VA,2020,9,,,80.0,36.85,-78.45,103.8,,,Y,, ,90,N
+solar,Virginia Electric & Power Co,62814,SADL,Sadler Solar,VA,2021,7,,,100.0,36.6867,-77.558,127.8,,,Y,,0,0,N
+solar,Baltimore Gas & Electric Co,62876,DCA1,Amazon Maryland DCA1,MD,2019,6,,,1.3,39.222576,-76.469011,1.8,,Y,N,,10,180,Y
+solar,Jersey Central Power & Lt Co,62903,NPSP1,NorthPark Solar,NJ,2016,2,,,6.1,40.257726,-74.441969,6.5,,Y,,,25,180,N
+solar,Jersey Central Power & Lt Co,62903,NPSP2,NorthPark Solar,NJ,2016,2,,,4.5,40.257726,-74.441969,5.8,,Y,,,25,180,N
+solar,Jersey Central Power & Lt Co,62904,NPSMH,Milhurst Solar,NJ,2015,12,,,1.3,40.254975,-74.380834,1.6,,Y,,,25,180,N
+solar,Jersey Central Power & Lt Co,62905,DAY04,Day Four Solar LLC,NJ,2016,10,,,4.5,40.053,-74.556,6,,Y,,,15,180,N
+solar,Jersey Central Power & Lt Co,62906,AUGSF,Augusta Solar Farm,NJ,2016,5,,,2.9,41.099995,-74.731032,3.7,,Y,,,25,180,N
+solar,Potomac Electric Power Co,62910,X0008,MNCPPC Germantown Solar,MD,2018,2,,,1.0,39.149037,-77.317948,1.4,,Y,,,20,180,Y
+solar,Potomac Electric Power Co,62912,137,Solar Hagerstown,MD,2020,11,,,10.0,39.64913,-77.67837,13.2,,,Y,,52,180,Y
+solar,City of Wadsworth - (OH),62941,AMPRR,DG AMP Rittman Rd,OH,2020,5,,,2.6,41.000755,-81.75074,3.2,,Y,,,15,195,N
+solar,City of Wadsworth - (OH),62942,A1048,DG AMP 1048 Wadsworth,OH,2019,12,,,6.3,41.012786,-81.764344,8.6,,,Y,, ,180,N
+solar,PPL Electric Utilities Corp,62946,DICK,Dickinson Solar,PA,2016,12,,,3.0,40.1976,-77.2197,4.1,,Y,,,20,155,Y
+solar,A & N Electric Coop,62948,CRPT5,NASA Wallops Flight Facility Solar,VA,2020,3,,,0.1,37.938056,-75.473611,0.12,,Y,,,5,207,N
+solar,A & N Electric Coop,62948,CRPT6,NASA Wallops Flight Facility Solar,VA,2020,3,,,0.1,37.938056,-75.473611,0.12,,Y,,,5,117,N
+solar,A & N Electric Coop,62948,CRPT7,NASA Wallops Flight Facility Solar,VA,2020,3,,,0.1,37.938056,-75.473611,0.12,,Y,,,5,207,N
+solar,A & N Electric Coop,62948,TRCK1,NASA Wallops Flight Facility Solar,VA,2020,3,,,4.0,37.938056,-75.473611,4.3,,,Y,,45,180,N
+solar,Virginia Electric & Power Co,62950,BLUE1,Bluestone Solar,VA,2021,5,,,49.9,36.811533,-78.483909,65.7,,,Y,,50,180,N
+solar,Virginia Electric & Power Co,62951,HAWT1,Hawtree Solar,NC,2021,10,,,65.0,36.533,-78.105,88.5,,,Y,, ,180,N
+solar,Public Service Elec & Gas Co,62957,IRNMT,DG Iron Mountain,NJ,2020,6,,,5.4,40.52132,-74.347394,7.2,,Y,,,5,142,Y
+solar,PSEG Energy Resources and Trade,62958,INFNM,DG Infineum,NJ,2020,1,,,2.0,40.640209,-74.234881,2.5,,Y,,,15,213,Y
+solar,Virginia Electric & Power Co,62959,WHIT1,Whitehorn Solar,VA,2021,10,,,50.0,36.931378,-79.358743,65.7,,,Y,, ,180,N
+solar,Pennsylvania Electric Co,62989,PAWT1,Whitetail Solar 1,PA,2019,12,,,13.5,40.139673,-77.609986,18.2,,Y,Y,,52,180,N
+solar,West Penn Power Company,62990,PAWT2,Whitetail Solar 2,PA,2020,9,,,20.0,39.904211,-77.814218,27,,,Y,,52,180,N
+solar,West Penn Power Company,62991,PAWT3,Whitetail Solar 3,PA,2020,8,,,20.0,39.87817,-77.769144,27,,,Y,,52,180,N
+solar,Virginia Electric & Power Co,63024,KEH,"Hertford Solar Power, LLC",NC,2022,6,,,10.0,36.268007,-77.028205,13.9,,,Y,, ,180,N
+solar,American Transmission Co,63029,GEN1,Hardin Solar Energy LLC,OH,2021,2,,,150.0,40.659506,-83.813708,199.3,,N,Y,,60,0,N
+solar,Virginia Electric & Power Co,63031,GLSO,Gloucester Solar,VA,2019,4,,,19.9,37.45,-76.45,27.8,,,Y,,0,9,N
+solar,Commonwealth Edison Co,63069,1823,Harmony Road Solar,IL,2020,9,,,1.9,42.164,-88.4625,2.2,,Y,N,,25,180,Y
+solar,Commonwealth Edison Co,63070,1820,Square Barn Solar,IL,2020,9,,,1.5,42.164,-88.383,1.7,,Y,N,,25,180,Y
+solar,Commonwealth Edison Co,63071,1822,Reed Road Solar,IL,2020,9,,,1.3,42.110925,-88.240254,1.6,,Y,N,,25,180,Y
+solar,Baltimore Gas & Electric Co,63072,18,BTC2 Solar (CSG),MD,2019,7,,,2.0,39.41805,-76.39772,3,,,Y,,25,0,N
+solar,Commonwealth Edison Co,63073,1817,Mooseheart School Solar,IL,2020,11,,,2.0,41.8233,-88.3378,2.8,,Y,N,,25,180,Y
+solar,PECO Energy Co,63075,20,Upper Marlboro 1 CSG,MD,2019,12,,,2.0,38.789216,-76.800911,3,,,Y,,25,90,N
+solar,Virginia Electric & Power Co,63076,GUTN,Gutenberg Solar,NC,2019,9,,,79.9,36.486428,-77.534825,119,,,Y,, ,180,N
+solar,Virginia Electric & Power Co,63077,VATC,"Twittys Creek Solar, LLC",VA,2020,12,,,13.8,37.018427,-78.581272,17.4,,,Y,, ,180,N
+solar,Virginia Electric & Power Co,63083,ENX04,Caden Energix Pamplin LLC,VA,2020,7,,,15.7,37.32936,-78.76591,19.8,,,Y,, ,60,N
+solar,Virginia Electric & Power Co,63084,ENX02,Caden Energix Hickory LLC,VA,2020,8,,,20.0,36.624113,-76.194266,24.8,,,Y,, ,60,N
+solar,Virginia Electric & Power Co,63084,ENX03,Caden Energix Hickory LLC,VA,2020,9,,,12.0,36.624113,-76.194266,15.5,,,Y,, ,60,N
+solar,Baltimore Gas & Electric Co,63085,15124,White CSG,MD,2020,1,,,2.0,39.205804,-76.480453,2.3,,,Y,,7,90,N
+solar,Virginia Electric & Power Co,63087,ENX01,Caden Energix Rives Road LLC,VA,2020,5,,,19.7,37.177825,-77.337645,20.9,,,Y,, ,60,N
+solar,Delmarva Power,63089,15122,Gibbons CSG,MD,2019,12,,,2.0,38.115402,-75.214861,2.5,,,Y,,25,90,N
+solar,Jersey Central Power & Lt Co,63149,FRANK,Franklin Solar (NJ),NJ,2020,1,,,8.8,40.72,-75.06,10,,Y,,,25,180,N
+solar,Jersey Central Power & Lt Co,63150,POHAT,Pohatcong Solar Farm,NJ,2020,1,,,8.0,40.67,-75.16,10,,Y,,,25,180,N
+solar,Village of Monroeville - (OH),63181,MNVL,Monroeville Solar,OH,2017,12,,,3.2,41.230142,-82.711785,5.1,,Y,,,20,0,N
+solar,Jersey Central Power & Lt Co,63185,SAYRE,Sayreville Solar Project,NJ,2019,9,,,3.1,40.438,-74.336,4.4,,Y,,,12,180,Y
+solar,Atlantic City Electric Co,63195,ACP3,Aero Haven Solar,NJ,2023,4,,,2.6,39.819725,-74.8947,2.8,,Y,,,20,180,N
+solar,Jersey Central Power & Lt Co,63198,ACCP1,ACCP NJ 1,NJ,2020,9,,,1.2,40.92635,-74.675089,1.5,,Y,,,15,180,N
+solar,Orange & Rockland Utils Inc,63200,SA1,"Bergenmand Solar Partners, LLC Mahwah",NJ,2012,8,,,0.5,41.079073,-74.150011,0.7,,Y,,,10,182,Y
+solar,Orange & Rockland Utils Inc,63200,SA2,"Bergenmand Solar Partners, LLC Mahwah",NJ,2012,8,,,0.5,41.079073,-74.150011,0.7,,Y,,,10,182,Y
+solar,Public Service Elec & Gas Co,63229,NJSGR,Manheim New Jersey,NJ,2013,6,,,0.8,40.11359,-74.70629,1,,Y,,,20,180,Y
+solar,Public Service Elec & Gas Co,63229,NJSRO,Manheim New Jersey,NJ,2009,6,,,1.4,40.11359,-74.70629,1.7,,Y,,,5,180,Y
+solar,Baltimore Gas & Electric Co,63237,OLDCT,Old Court Rd Solar,MD,2019,10,,,2.0,39.34167,-76.8351,2.6,,Y,,,25,4,N
+solar,The Potomac Edison Company,63253,FSK,Francis Scott Key Mall,MD,2018,3,,,1.6,39.38588,-77.40947,2.1,,Y,,,5,219,Y
+solar,Jersey Central Power & Lt Co,63257,SHM,Short Hills Mall,NJ,2018,5,,,2.7,40.7397,-74.3642,3.5,,Y,,,5,200,Y
+solar,Public Service Elec & Gas Co,63260,ACP,AC Power,NJ,2019,7,,,1.3,40.049778,-74.935167,1.6,,Y,,,25,180,N
+solar,Edgecombe-Martin County E M C,63266,NCPHL,Penny Hill Solar,NC,2017,9,,,2.0,35.759,-77.513,2.7,,Y,,,20,180,N
+solar,Edgecombe-Martin County E M C,63267,NCMKS,"Meeks Solar, LLC",NC,2017,7,,,2.0,35.815556,-77.291111,2.8,,Y,,,20,180,N
+solar,Public Service Elec & Gas Co,63286,ACY1,DG Amaze ACY1,NJ,2019,6,,,3.8,39.822945,-75.216293,5.2,,Y,,,5,210,N
+solar,Baltimore Gas & Electric Co,63289,WMM,White Marsh Mall,MD,2015,12,,,1.1,39.37614,-76.46813,1.4,,Y,,,5,180,Y
+solar,Virginia Electric & Power Co,63293,NCCWD,"Cottonwood Solar, LLC",NC,2018,1,,,3.0,36.50806,-77.61444,4.2,,,Y,,45,180,N
+solar,Duke Energy Ohio Inc,63294,EUPV,Parking Lot Array,OH,2024,7,,,2.3,39.141852,-84.51074,2.3,,Y,,,7,184,Y
+solar,Duke Energy Ohio Inc,63294,LOTPV,Parking Lot Array,OH,2011,5,,,1.4,39.141852,-84.51074,1.6,,Y,,,39,160,Y
+solar,Atlantic City Electric Co,63298,BARRE,"Barrette Outdoor Living, Inc.",NJ,2019,4,,,1.9,39.4877,-74.60035,2.1,,Y,,,10,174,Y
+solar,Baltimore Gas & Electric Co,63323,SIMBA,Bluefin Origination 1,MD,2019,11,,,2.0,38.73169,-76.82843,3,,,Y,,0,180,N
+solar,Virginia Electric & Power Co,63332,NCAUL,"Aulander Hwy 42 Solar, LLC",NC,2016,12,,,5.0,36.248563,-77.085241,7.1,,,Y,,45,180,N
+solar,Public Service Elec & Gas Co,63334,CAMPS,Campus Drive Solar,NJ,2020,5,,,3.7,40.056213,-74.880941,4.8,,Y,,,10,140,N
+solar,Public Service Elec & Gas Co,63353,ABE,Allied Beverages Elizabeth,NJ,2018,6,,,3.2,40.665678,-74.175226,4.6,,Y,,,5,208,Y
+solar,Public Service Elec & Gas Co,63355,CPR,Chanel Piscataway Rooftop,NJ,2018,10,,,1.4,40.550342,-74.482969,1.8,,Y,,,5,142,Y
+solar,Public Service Elec & Gas Co,63356,CPAC,Colonial Pipeline Allentown Chesterfield,NJ,2018,7,,,1.9,40.152302,-74.657754,2.5,,Y,,,20,180,Y
+solar,Public Service Elec & Gas Co,63357,CPWWD,Colonial Pipeline Woodbury West Deptford,NJ,2018,5,,,3.7,39.817319,-75.196874,4.9,,Y,,,15,180,Y
+solar,Public Service Elec & Gas Co,63366,1,435A Bergen Avenue,NJ,2019,7,,,1.4,40.751938,-74.131258,1.9,,Y,,,10,202,Y
+solar,City of Shelby - (OH),63390,SHBOH,Shelby Solar Array,OH,2019,12,,,1.9,40.896042,-82.672395,2.5,,,Y,,0,0,N
+solar,Delaware Electric Cooperative,63392,DECII,DEC Phase II at Georgetown,DE,2019,12,,,3.0,38.664989,-75.399444,4.2,,Y,,,25,180,N
+solar,Public Service Elec & Gas Co,63404,1,Thermo Fisher,NJ,2013,2,,,1.5,40.5737,-74.62947,1.7,,Y,,,5,176,Y
+solar,Atlantic City Electric Co,63413,1,LTMUA,NJ,2012,3,,,1.0,39.00776,-74.93556,1.3,,Y,,,25,180,Y
+solar,Potomac Electric Power Co,63428,254,"IGS CC, LLC",DC,2020,3,,,1.5,38.936172,-76.968186,2,,Y,,,35,180,N
+solar,Jersey Central Power & Lt Co,63451,MONR1,"Monroe Solar Farm, LLC",NJ,2020,7,,,13.1,40.312,-74.425,14.7,,Y,,,15,180,N
+solar,Public Service Elec & Gas Co,63452,SSP,Solvay Solar,NJ,2020,1,,,6.5,39.846549,-75.212019,7.9,,N,Y,,45,180,N
+solar,Jersey Central Power & Lt Co,63459,9853,Selective Insurance,NJ,2019,11,,,2.2,41.152222,-74.744444,3,,Y,,,20,180,N
+solar,Jersey Central Power & Lt Co,63459,9854,Selective Insurance,NJ,2022,10,,,0.6,41.152222,-74.744444,0.7,,Y,,,3,230,N
+solar,The Potomac Edison Company,63496,PV1,Frederick County - Landfill,MD,2019,8,,,2.0,39.373263,-77.34985,2.7,,Y,,,25,180,Y
+solar,Jersey Central Power & Lt Co,63503,LAKHS,Lakehurst Solar,NJ,2020,3,,,9.6,40.024,-74.312,14.4,,Y,,,20,180,N
+solar,Delmarva Power,63512,PV1,Wor-Wic Community College - Offsite,MD,2019,4,,,2.0,38.413274,-75.690118,2.7,,Y,,,25,180,Y
+solar,PPL Electric Utilities Corp,63520,PASP2,PA Solar Park II,PA,2020,1,,,10.0,40.86159,-75.84656,14.4,,Y,,,25,180,N
+solar,The Potomac Edison Company,63523,GEN1,Spruce - WCMD - Rubble II,MD,2015,11,,,2.0,39.62143,-77.82543,2.5,,Y,,,25,0,N
+solar,The Potomac Edison Company,63524,GEN1,Spruce - WCMD - Rubble I,MD,2015,9,,,2.0,39.61849,-77.82332,2.5,,Y,,,25,0,N
+solar,The Potomac Edison Company,63525,GEN1,Spruce - WCMD - Creek,MD,2015,5,,,2.0,39.67185,-77.82329,2.5,,Y,,,25,2,N
+solar,The Potomac Edison Company,63526,GEN1,Spruce - WCMD - Resh I,MD,2016,3,,,2.0,39.68185,-77.80145,2.5,,Y,,,20,0,N
+solar,Public Service Elec & Gas Co,63530,10331,Jersey City DWP,NJ,2019,12,,,1.0,40.690025,-74.087431,1.2,,Y,,,0,0,Y
+solar,Virginia Electric & Power Co,63549,WSS,Water Strider Solar,VA,2021,3,,,80.0,37.016375,-79.027061,108.2,,,Y,,60,180,N
+solar,Virginia Electric & Power Co,63566,HW158,HWY 158 PV,NC,2020,10,,,9.0,36.423222,-77.073839,12,,N,,Y, , ,N
+solar,Commonwealth Edison Co,63620,USGCH,USS Goodrich Solar,IL,2022,8,,,2.0,41.076,-88.06491,2.7,,,Y,, ,0,N
+solar,Commonwealth Edison Co,63621,USSYC,USS Sycamore Solar (CSG),IL,2022,5,,,2.0,41.96455,-88.66696,2.7,,,Y,, ,0,N
+solar,Public Service Elec & Gas Co,63626,229,"IGS FE Trenton, LLC",NJ,2020,3,,,1.5,40.18933,-74.65676,1.6,,Y,,,10,177,N
+solar,Potomac Electric Power Co,63654,SHRFF,Sheriff Road,MD,2020,4,,,1.1,38.911287,-76.894882,1.5,,Y,,,10,165,Y
+solar,West Penn Power Company,63691,13502,"Hunker Solar River, LLC",PA,2021,8,,,3.3,40.216382,-79.647108,4.3,,Y,,,15,153,N
+solar,Virginia Electric & Power Co,63696,WEST,Westmoreland County Solar Project,VA,2021,10,,,19.9,38.007488,-76.744034,29.6,,,Y,, ,0,N
+solar,Atlantic City Electric Co,63698,GALLO,Galloway Landfill,NJ,2020,9,,,2.3,40.172415,-74.023243,3.3,,Y,,,25,180,N
+solar,Virginia Electric & Power Co,63745,GVSO,"Greensville County Solar Project, LLC",VA,2020,12,,,80.0,36.64,-77.57,104,,,Y,, ,52,N
+solar,Virginia Electric & Power Co,63746,MYSO,"TWE Myrtle Solar Farm, LLC",VA,2020,6,,,15.0,36.79,-76.67,20.8,,,Y,, ,52,N
+solar,West Penn Power Company,63768,PAEH2,Elk Hill Solar 2,PA,2020,12,,,15.0,39.799589,-77.811561,17.5,,,Y,,52,180,N
+solar,West Penn Power Company,63773,PAEH1,Elk Hill Solar 1,PA,2022,12,,,20.0,39.849241,-77.929148,24.9,,Y,,,52,180,N
+solar,Jersey Central Power & Lt Co,63786,BMSF,Ben Moreell Solar Farm,NJ,2020,1,,,20.0,40.28,-74.1,28,,Y,,,20,180,N
+solar,Virginia Electric & Power Co,63787,PHILL,Pleasant Hill PV1,NC,2024,3,,,20.0,36.53115,-77.550375,24.98,,,Y,, ,180,N
+solar,Indiana Michigan Power Co,63801,1,St. Joseph Solar,IN,2021,3,,,20.0,41.7311,-86.1083,25.4,,,Y,, ,0,N
+solar,Commonwealth Edison Co,63823,BS1,CED Beecher Sun Solar,IL,2021,5,,,2.0,41.327123,-87.61052,2.8,,,Y,,52,180,N
+solar,Commonwealth Edison Co,63824,HS1,CED Hilltop Solar,IL,2021,5,,,2.0,42.339141,-89.198015,2.9,,,Y,,52,180,N
+solar,Commonwealth Edison Co,63825,LLCHI,Lineage Logistics Solar,IL,2019,12,,,1.6,41.455,-87.752,2.1,,Y,,,20,180,N
+solar,Ohio Power Co,63828,GEN1,Hardin Solar Energy II LLC,OH,2024,12,,,150.0,40.632486,-83.792382,200.69,,,Y,, ,0,N
+solar,Commonwealth Edison Co,63838,HPS,High Point Solar LLC,IL,2023,11,,,100.0,42.432863,-89.906865,125,,,Y,, ,90,N
+solar,Ohio Power Co,63877,WBS,"Willowbrook Solar I, LLC",OH,2024,9,,,150.0,39.021755,-83.705007,196,,,Y,, ,0,N
+solar,The Potomac Edison Company,63903,PINE1,Pinesburg Solar LLC,MD,2020,5,,,4.3,39.625172,-77.860901,5.8,,,Y,,-2,180,N
+solar,Baltimore Gas & Electric Co,63904,FAIR1,Timonium Fairgrounds,MD,2020,10,,,1.9,39.447,-76.63,2.6,,Y,,,10,189,N
+solar,Virginia Electric & Power Co,63909,OTTER,Otter Creek Solar,VA,2023,10,,,60.0,36.807131,-78.509769,84,,,Y,, ,0,N
+solar,Delmarva Power,63910,BGS,Bluegrass Solar,MD,2022,10,,,39.6,39.178761,-75.960905,49.4,,,Y,, ,180,N
+solar,Potomac Electric Power Co,63917,8030A,DC Water Solar,DC,2021,5,,,3.5,38.819244,-77.018944,4.5,,Y,,,5,217,N
+solar,Commonwealth Edison Co,63948,CS1,CED Spring Creek Solar,IL,2021,4,,,2.0,41.108211,-87.726108,2.9,,,Y,,52,180,N
+solar,Commonwealth Edison Co,63949,CORT2,Cortland,IL,2021,5,,,2.0,41.92219,-88.68876,2.8,,,Y,,60,180,N
+solar,Commonwealth Edison Co,63951,LENA,Lena,IL,2021,5,,,2.0,42.35681,-89.88398,2.9,,,Y,,60,180,N
+solar,Commonwealth Edison Co,63954,MENDS,Mendota,IL,2020,12,,,2.0,41.54863,-89.15986,2.5,,Y,,,25,180,N
+solar,Appalachian Power Co,63965,1,"Danville Farm, LLC",VA,2020,11,,,12.0,36.591,-79.302,15.9,,,Y,, ,180,N
+solar,Commonwealth Edison Co,63967,CDB1,Charter Durabar at Woodstock,IL,2021,1,,,1.0,42.2899,-88.40712,1.4,,,Y,, ,180,Y
+solar,Commonwealth Edison Co,63967,CDB2,Charter Durabar at Woodstock,IL,2021,1,,,1.0,42.2899,-88.40712,1.5,,,Y,, ,180,N
+solar,Potomac Electric Power Co,63970,10020,7185 13th Pl. NW,DC,2019,12,,,0.9,38.977175,-77.031405,1.1,,Y,,,5,180,N
+solar,Atlantic City Electric Co,63971,CCUA,CCUA Solar,NJ,2021,7,,,1.5,39.415336,-75.235661,1.9,,N,Y,,15,180,Y
+solar,Commonwealth Edison Co,63989,PETE,Peterman II,IL,2021,5,,,2.0,41.070396,-87.78887,3,,,Y,, ,25,N
+solar,Commonwealth Edison Co,63990,KISH,Kish CSG,IL,2021,8,,,2.0,42.215163,-88.920643,3,,,Y,, ,25,N
+solar,Commonwealth Edison Co,63991,NOS,Nostrand,IL,2021,5,,,2.0,41.207388,-87.837817,3,,,Y,, ,25,N
+solar,Commonwealth Edison Co,63992,VUL,Vulcan,IL,2021,5,,,2.0,41.10341,-87.97498,3,,,Y,, ,25,N
+solar,Virginia Electric & Power Co,64010,ENX06,"Energix Hollyfield, LLC",VA,2021,7,,,13.0,37.671,-77.17,16.9,,,Y,, ,0,Y
+solar,Virginia Electric & Power Co,64012,ENX07,"Energix Nokesville, LLC",VA,2022,11,,,20.0,38.672,-77.593,26,,,Y,, ,180,N
+solar,Commonwealth Edison Co,64013,6344,Somonauk Road Solar 1,IL,2021,3,,,2.0,41.758266,-88.656288,2.7,,,Y,, ,180,N
+solar,Virginia Electric & Power Co,64015,ENX05,"Energix Buckingham, LLC",VA,2021,7,,,20.0,37.5064,-78.381,26.4,,,Y,, ,180,Y
+solar,Commonwealth Edison Co,64018,7724,Route 76 Boone Solar 1,IL,2020,10,,,2.0,42.41894,-88.846141,2.7,,,Y,,52,180,N
+solar,Appalachian Power Co,64019,ATLA,Altavista Solar,VA,2021,6,,,80.0,37.148199,-79.347497,113,,Y,Y,,25,180,N
+solar,Public Service Elec & Gas Co,64023,246,"10 Finderne Avenue Solar, LLC",NJ,2017,11,,,2.3,40.55812,-74.57594,3.1,,Y,,,25,180,N
+solar,Public Service Elec & Gas Co,64025,297,"101 Carnegie Center Solar, LLC",NJ,2020,11,,,1.2,40.32312,-74.64512,1.5,,N,,Y, , ,Y
+solar,Virginia Electric & Power Co,64086,NORG,Norge Solar Farm,VA,2023,11,,,20.0,37.365615,-76.775123,26.1,,,Y,,0,0,N
+solar,Virginia Electric & Power Co,64093,MOSO,Montross Solar,VA,2018,12,,,20.0,38.077,-76.786,28,,,Y,, ,180,Y
+solar,Atlantic City Electric Co,64096,248,Samuel Mickle School,NJ,2017,12,,,1.1,39.78736,-75.24615,1.4,,Y,,,10,143,N
+solar,City of Sturgis,64097,232,Electric City Solar,MI,2020,12,,,15.0,41.75,-85.45,18.9,,,Y,,60,90,N
+solar,Metropolitan Edison Co,64101,259,"Mid-River PA, LLC (ABE4)",PA,2020,9,,,3.0,40.73998,-75.27774,3.8,,Y,,,15,180,Y
+solar,Virginia Electric & Power Co,64135,GFSO,Grassfield Solar,VA,2022,10,,,20.0,36.65,-76.35,26.5,,,Y,, ,180,N
+solar,Virginia Electric & Power Co,64136,SYSO,Sycamore Solar,VA,2023,3,,,42.0,36.942634,-79.192804,59.2,,,Y,,0,0,N
+solar,Virginia Electric & Power Co,64144,HMS01,"Harts Mill Solar, LLC",NC,2020,12,,,80.0,35.9,-77.64,112,,,Y,,60,1,N
+solar,Virginia Electric & Power Co,64158,MECH,Mechanicsville Solar,VA,2020,9,,,25.0,37.665975,-77.207725,35,,,Y,, ,180,N
+solar,Virginia Electric & Power Co,64169,BEACH,Albemarle Beach Solar,NC,2020,12,,,130.2,35.928188,-76.620452,150.6,,,Y,, ,180,N
+solar,Potomac Electric Power Co,64180,19002,MD - CS - Potomac Edison Co - GA29 TPE,MD,2021,1,,,2.0,39.59535,-79.387898,3.2,,N,Y,,30,180,Y
+solar,Public Service Elec & Gas Co,64194,313,510 Carnegie Center,NJ,2019,11,,,1.4,40.3147,-74.65551,1.7,,N,,Y, , ,Y
+solar,Public Service Elec & Gas Co,64195,313,701 Carnegie Center,NJ,2019,11,,,1.1,40.32358,-74.64994,1.3,,N,,Y, , ,Y
+solar,City of Anderson - (IN),64244,SAND3,Anderson 3,IN,2021,12,,,8.7,40.081698,-85.642033,11.3,,,Y,, ,180,N
+solar,City of Anderson - (IN),64245,SAND5,Anderson 5,IN,2021,8,,,3.0,40.085942,-85.632184,4.1,,,Y,, ,180,N
+solar,City of Richmond - (IN),64247,RICH5,Richmond 5,IN,2021,6,,,9.0,39.805613,-84.874547,11.9,,,Y,, ,180,N
+solar,City of Anderson - (IN),64248,SAND4,Anderson 4,IN,2021,8,,,7.8,40.082667,-85.636079,10.4,,,Y,, ,180,N
+solar,City of Anderson - (IN),64249,SAND6,Anderson 6,IN,2022,6,,,6.8,40.085081,-85.746714,8.8,,,Y,, ,180,N
+solar,City of Richmond - (IN),64252,RICH6,Richmond 6,IN,2023,7,,,5.3,39.805984,-84.878334,7.3,,,Y,, ,180,N
+solar,Commonwealth Edison Co,64302,GEN1,Lafayette 2 - McHenry Franks 1,IL,2020,12,,,2.0,42.251568,-88.596711,2.9,,,Y,,0,180,N
+solar,Commonwealth Edison Co,64303,GEN1,Lafayette 2 - McHenry Franks 2,IL,2020,12,,,2.0,42.214828,-88.491906,2.9,,,Y,,0,180,N
+solar,Commonwealth Edison Co,64304,GEN1,Lafayette 2 - Kankakee Yonke,IL,2020,12,,,2.0,41.097265,-87.869294,2.9,,,Y,,0,180,N
+solar,Virginia Electric & Power Co,64311,SFS08,"Sun Farm VIII, LLC",NC,2020,12,,,4.0,36.06,-77.75,5.6,,,Y,,60,180,N
+solar,Jersey Central Power & Lt Co,64327,GEN1,EDF Ph1 Toms River,NJ,2021,6,,,21.3,39.984,-74.238,28.9,,Y,,,20,180,N
+solar,Commonwealth Edison Co,64328,GRIG,"AES Griggs Solar, LLC",IL,2020,12,,,2.0,41.19128,-87.666461,2.9,,,Y,,55,180,N
+solar,Commonwealth Edison Co,64329,EAST,"IGS East Central, LLC",IL,2020,12,,,2.0,41.471715,-88.043725,2.3,,,Y,,55,180,N
+solar,Commonwealth Edison Co,64330,LILY,SV CSG Lily Lake 2 LLC,IL,2020,12,,,2.0,41.954902,-88.478372,2.9,,,Y,,52,180,N
+solar,Commonwealth Edison Co,64331,LENA,Cedarville Road,IL,2020,12,,,2.0,42.37195,-89.80797,2.6,,,Y,,52,180,N
+solar,Baltimore Gas & Electric Co,64343,SBAR,6685 Santa Barbara Ct,MD,2020,12,,,1.0,39.189589,-76.743011,1.5,,,Y,,10,22,N
+solar,Public Service Elec & Gas Co,64360,30001,"American Goldfinch SCS ACY2 NJ, LLC",NJ,2020,9,,,3.9,40.08556,-74.84089,5.5,,Y,,,10,217,N
+solar,Ameren Illinois Company,64364,30005,"SCS Beltway 011754 Rock Falls, LLC",IL,2020,9,,,1.0,41.767012,-89.670331,1.3,,Y,,,20,180,N
+solar,Potomac Electric Power Co,64379,467,Ridgecrest,DC,2021,6,,,1.7,38.84683,-76.97592,2.2,,Y,,,5,180,Y
+solar,Public Service Elec & Gas Co,64380,464,Cascades,NJ,2021,4,,,2.0,40.55879,-74.45646,2.6,,Y,,,5,180,Y
+solar,Virginia Electric & Power Co,64385,304,Gliden (Op Zone),NC,2020,12,,,5.0,36.30161,-76.60357,7.2,,,Y,,52,0,N
+solar,Public Service Elec & Gas Co,64411,DELAN,Delanco,NJ,2021,5,,,2.4,40.04936,-74.9353,3.1,,Y,,,25,180,N
+solar,Commonwealth Edison Co,64414,PONTC,Pontiac,IL,2021,2,,,2.0,40.91806,-88.625,2.7,,,Y,,52,180,N
+solar,Commonwealth Edison Co,64415,ROCKF,Rockford CSG,IL,2021,12,,,2.0,42.16572,-89.03686,2.9,,,Y,,50,180,N
+solar,Public Service Elec & Gas Co,64422,NBOE1,GSPP Onyx New Brunswick LLC,NJ,2019,12,,,0.3,40.48071,-74.48185,0.4,,Y,,,5,129,N
+solar,Public Service Elec & Gas Co,64422,NBOE2,GSPP Onyx New Brunswick LLC,NJ,2019,12,,,0.4,40.48071,-74.48185,0.6,,Y,,,5,133,N
+solar,Public Service Elec & Gas Co,64422,NBOE3,GSPP Onyx New Brunswick LLC,NJ,2019,12,,,0.3,40.48071,-74.48185,0.4,,Y,,,5,130.5,N
+solar,Public Service Elec & Gas Co,64422,NBOE4,GSPP Onyx New Brunswick LLC,NJ,2019,12,,,0.1,40.48071,-74.48185,0.2,,Y,,,10,219,N
+solar,Virginia Electric & Power Co,64430,KOV4A,American Beech Solar LLC,NC,2025,11,,,140.0,36.144761,-77.509522,196.02,,,Y,, ,180,N
+solar,Commonwealth Edison Co,64439,PINE,"Pine Road Solar, LLC CSG",IL,2021,4,,,2.0,41.674386,-88.664448,3,,Y,N,,52,180,N
+solar,Appalachian Power Co,64448,GEN1,Wythe County Solar,VA,2025,3,,,75.0,36.876,-80.837,97.5,,,Y,, ,180,N
+solar,Halifax Electric Member Corp,64450,GSF01,"Grissom Solar, LLC",NC,2021,5,,,5.0,36.23891,-77.897552,6.9,,Y,N,,60,180,N
+solar,Commonwealth Edison Co,64467,MTMO,"CSG Mt. Morris 2, LLC",IL,2021,4,,,2.0,42.065653,-89.433136,2.9,,Y,,,25,180,N
+solar,Commonwealth Edison Co,64468,BOIG,"Tower Road Solar, LLC CSG",IL,2021,4,,,2.0,41.805224,-88.925188,3,,Y,,,52,180,N
+solar,Baltimore Gas & Electric Co,64502,1,7448 Candlewood Road,MD,2020,4,,,1.5,39.16,-76.7,1.9,,Y,,,15,222,N
+solar,Virginia Electric & Power Co,64535,KOV4A,Camden Solar LLC,NC,2021,11,,,20.0,36.30786,-76.144486,29.3,,,Y,, ,0,N
+solar,Indiana Michigan Power Co,64553,GEN01,Riverstart Solar Park LLC,IN,2021,12,,,200.0,40.046244,-85.045087,220,,,Y,,0,180,N
+solar,PECO Energy Co,64602,KBR,"Kirby Road Solar, LLC",MD,2021,6,,,1.3,38.77897,-76.923695,2,,Y,,,25,180,N
+solar,Potomac Electric Power Co,64604,X0009,MNCPPC Randall Farm,MD,2020,4,,,1.4,38.831624,-76.803146,1.8,,Y,,,20,0,Y
+solar,Baltimore Gas & Electric Co,64606,64606,Burns Solar One LLC,MD,2020,12,,,2.0,39.47653,-76.85446,2.7,,Y,,,25,180,N
+solar,Baltimore Gas & Electric Co,64608,64608,"Hostetter Solar One, LLC",MD,2020,12,,,2.0,39.66448,-77.70058,2.8,,Y,,,25,180,N
+solar,Commonwealth Edison Co,64610,MDW6,Amazon MDW6 Solar Project,IL,2020,12,,,1.9,41.6721,-88.11549,3,,Y,,,10,180,N
+solar,Commonwealth Edison Co,64628,SLIDE,Slidematic at Rockford,IL,2022,3,,,1.8,42.206076,-89.074384,2.5,,,Y,, ,180,N
+solar,American Transmission Systems Inc,64635,GEN01,"Big Plain Solar, LLC",OH,2023,9,,,196.0,39.855658,-83.328428,266,,,Y,, ,50,N
+solar,Baltimore Gas & Electric Co,64642,HCSG,P52ES 1755 Henryton Rd Phase 1 LLC CSG,MD,2021,6,,,1.9,39.32015,-76.92965,2.3,,Y,,,52,180,N
+solar,Baltimore Gas & Electric Co,64643,HVNM,P52ES 1755 Henryton Rd Phase 2 LLC,MD,2021,6,,,1.9,39.32015,-76.92965,2.6,,Y,,,52,180,N
+solar,Baltimore Gas & Electric Co,64644,WM,White Marsh Solar,MD,2020,12,,,1.5,39.4167,-76.403,1.8,,,Y,,52,180,N
+solar,Baltimore Gas & Electric Co,64645,MAS,Mason Solar One LLC,MD,2020,11,,,1.0,39.69196,-75.91848,1.5,,,Y,,52,180,N
+solar,Baltimore Gas & Electric Co,64646,PITT,Pittman Solar One LLC,MD,2020,12,,,2.0,39.68753,-78.108,2.8,,Y,,,25,180,N
+solar,Baltimore Gas & Electric Co,64647,QAB,"Bulldog Solar One, LLC",MD,2020,11,,,2.0,38.9152,-76.6972,2.8,,Y,,,25,180,N
+solar,"East Kentucky Power Coop, Inc",64660,AUS,"AEUG Union Solar, LLC",OH,2024,11,,,325.0,40.437526,-83.483493,407,,,Y,, ,90,N
+solar,Virginia Electric & Power Co,64677,RYLND,Ryland Road Solar,NC,2021,9,,,5.0,36.27585,-76.64867,7.2,,,Y,,52,180,N
+solar,Virginia Electric & Power Co,64678,WDH17,Windsor Hwy 17 Solar,NC,2021,11,,,5.0,36.021253,-76.872438,6.4,,,Y,,52,180,N
+solar,Virginia Electric & Power Co,64683,GEN01,"Oak Trail Solar, LLC",NC,2023,7,,,100.0,36.5044,-76.1887,139,,,Y,, ,50,N
+solar,Baltimore Gas & Electric Co,64689,90029,MD - PR97 (CSG),MD,2022,8,,,2.0,38.934666,-76.714819,3.1,,,Y,N,0,180,N
+solar,Delmarva Power,64690,65004,Todd Solar,MD,2021,7,,,20.0,38.613328,-75.835207,29,,,Y,, ,0,N
+solar,Connexus Energy,64708,C1BDN,"Santee Solar Partners, LLC",MN,2021,4,,,3.3,45.4173,-93.3885,3.7,,Y,N,,0,180,N
+solar,Pennsylvania Electric Co,64709,GSF01,CL-Viaduct LLC,PA,2023,3,,,20.0,41.050201,-78.651901,24.6,,,Y,, ,0,N
+solar,Pennsylvania Electric Co,64711,GSF01,UN-School House LLC,PA,2023,1,,,20.0,40.963184,-78.179153,24.6,,,Y,, ,0,N
+solar,Commonwealth Edison Co,64730,BCK17,IL17021 Brush Creek I CSG,IL,2022,3,,,2.0,42.452243,-89.638813,2.4,,Y,,,25,180,N
+solar,Commonwealth Edison Co,64732,SEGU2,Segunda II (CSG),IL,2021,11,,,2.0,41.117733,-88.863709,3,,,Y,, ,25,N
+solar,Commonwealth Edison Co,64733,WOOD2,Woodlawn II (CSG),IL,2021,12,,,2.0,41.392408,-87.594818,3,,,Y,, ,25,N
+solar,Commonwealth Edison Co,64734,DOODS,Dodds (CSG),IL,2021,12,,,2.0,42.379459,-89.842957,3,,,Y,, ,25,N
+solar,Commonwealth Edison Co,64735,OLMS2,Olmstead II CSG,IL,2021,9,,,2.0,42.371669,-89.796287,3,,,Y,, ,25,N
+solar,Commonwealth Edison Co,64736,WOLFC,Wolfcastle,IL,2021,10,,,2.0,41.9506,-88.8308,3,,,Y,, ,25,N
+solar,Commonwealth Edison Co,64779,FRAN2,IGS Frankfort 2 CSG,IL,2021,7,,,2.0,41.49563,-87.7876,2.3,,Y,,,52,180,N
+solar,Commonwealth Edison Co,64784,LJOHN,Long John CSG,IL,2021,5,,,2.0,41.69398,-88.65309,3,,,Y,, ,25,N
+solar,Commonwealth Edison Co,64785,WOOD,Woodlawn CSG,IL,2021,6,,,2.0,41.392408,-87.594633,3,,,Y,, ,25,N
+solar,Baltimore Gas & Electric Co,64790,CHECK,OER Checkerspot,MD,2021,12,,,1.5,38.783572,-76.574153,2,,Y,,,0,0,N
+solar,Appalachian Power Co,64817,ENX10,"Energix Leatherwood, LLC",VA,2021,8,,,20.0,36.687071,-79.709472,26,,,Y,, ,0,N
+solar,Ohio Power Co,64832,YELLO,"Yellowbud Solar, LLC",OH,2023,6,,,274.0,39.502511,-83.065575,352.9,,,Y,,30,180,N
+solar,"East Kentucky Power Coop, Inc",64842,SRTC,"SR Turkey Creek, LLC",KY,2022,11,,,50.0,37.592994,-84.567965,70,,,Y,,20,180,N
+solar,Dayton Power & Light Co,64853,NMS1,New Market Solar,OH,2023,7,,,35.0,39.07183,-83.796107,43,,,Y,, ,180,N
+solar,Dayton Power & Light Co,64853,NMS2,New Market Solar,OH,2024,2,,,65.0,39.07183,-83.796107,80.47,,,Y,, ,180,N
+solar,Commonwealth Edison Co,64868,KEEV,Keeversville Solar CSG,IL,2021,7,,,2.0,41.25559,-88.21848,2.5,,Y,,,52,180,N
+solar,Duquesne Light Co,64874,SGEN1,PG Solar 1,PA,2021,7,,,3.0,40.481959,-80.253073,3.6,,Y,,,25,210,Y
+solar,Commonwealth Edison Co,64905,MTMIL,Mt. Morris Solar CSG,IL,2020,12,,,2.0,42.063506,-89.496181,3,,,Y,,20,180,N
+solar,Commonwealth Edison Co,64918,NGCIL,"NorthropGrummanSolar(Rolling Meadows,IL)",IL,2020,1,,,1.1,42.09972,-88.031041,1.3,,Y,,,20,180,N
+solar,Commonwealth Edison Co,64919,FDXIL,FedEx Chicago Solar Facility,IL,2020,10,,,1.5,41.753932,-87.789421,1.8,,Y,,,20,180,N
+solar,Commonwealth Edison Co,64920,GEHIL,"GE-Hitachi Solar - Morris, IL",IL,2020,10,,,0.9,41.381481,-88.272411,1.3,,,Y,,20,180,N
+solar,Commonwealth Edison Co,64967,LUTZ,SV Gardner 1 (Lutz) CSG,IL,2021,11,,,2.0,41.19504,-88.30134,2.9,,Y,,,52,180,Y
+solar,Commonwealth Edison Co,64971,PRETZ,Pretzel CSG,IL,2022,3,,,2.0,42.307119,-89.598098,2.4,,Y,,,25,180,N
+solar,Commonwealth Edison Co,64972,PROPH,Prophet CSG,IL,2021,10,,,2.0,41.721815,-89.804732,3,,,Y,, ,25,N
+solar,Commonwealth Edison Co,64973,GALA,Gala (CSG),IL,2021,12,,,2.0,42.356266,-89.836971,3,,,Y,, ,25,N
+solar,Commonwealth Edison Co,65005,PV1,Albertsons at Melrose Park,IL,2021,10,,,1.9,41.916874,-87.856212,2.7,,Y,,,10,179,Y
+solar,Commonwealth Edison Co,65013,MARIL,Marengo Solar,IL,2020,12,,,2.0,42.25974,-88.63587,2.9,,Y,,,55,180,N
+solar,Virginia Electric & Power Co,65016,GMS,Gardy's Mill Solar,VA,2020,12,,,14.0,38.006741,-76.606956,16.8,,,Y,,0,0,N
+solar,Virginia Electric & Power Co,65022,BMS,Briel Solar Farm,VA,2021,8,,,20.0,37.52364,-77.26358,27.3,,Y,,,0,0,N
+solar,"Duke Energy Indiana, LLC",65027,PV1,Aero Solar Facility,KY,2023,3,,,2.0,39.03131,-84.659757,2.4,,Y,,,10,180,N
+solar,Indiana Michigan Power Co,65031,INBF1,Bellflower Solar 1,IN,2023,2,,,152.5,39.786742,-85.416371,173.5,,,Y,,52,180,N
+solar,"Mid-Atlantic Interstate Transmission, LL",65076,PACT1,Cottontail Solar 1,PA,2024,6,,,20.0,39.901749,-76.823316,25.01,,,Y,, ,0,N
+solar,"Mid-Atlantic Interstate Transmission, LL",65077,PACT2,Cottontail Solar 2,PA,2024,2,,,20.0,39.93727,-76.770965,25.01,,,Y,, ,0,N
+solar,Pennsylvania Power Co,65079,PACT4,Cottontail Solar 4,PA,2024,9,,,20.0,40.988822,-76.792917,25.25,,,Y,, ,0,N
+solar,Pennsylvania Power Co,65080,PACT5,Cottontail Solar 5,PA,2024,2,,,20.0,40.5608,-77.3785,25.25,,,Y,, ,0,N
+solar,Pennsylvania Power Co,65081,PACT6,Cottontail Solar 6,PA,2024,4,,,20.0,40.792458,-76.90506,25.25,,,Y,, ,0,N
+solar,"Mid-Atlantic Interstate Transmission, LL",65082,PACT8,Cottontail Solar 8,PA,2024,4,,,20.0,39.925412,-76.783835,25.03,,,Y,, ,0,N
+solar,Jersey Central Power & Lt Co,65094,314,Jackson Legler Solar 1 LLC,NJ,2021,12,,,2.9,40.06451,-74.35037,4,,Y,,,25,180,Y
+solar,Jersey Central Power & Lt Co,65095,196,Mt Arlington Solar 1 LLC,NJ,2021,12,,,1.6,40.93207,-74.62377,2.3,,Y,,,25,180,N
+solar,Baltimore Gas & Electric Co,65130,PV1,City of Bowie,MD,2021,6,,,2.0,38.904641,-76.688773,2.5,,,Y,,0,180,Y
+solar,Potomac Electric Power Co,65133,BENRD,Benning Road,DC,2021,10,,,0.8,38.89829,-76.95561,1.2,,Y,,,5,180,N
+solar,Virginia Electric & Power Co,65151,ENX13,"Energix Aditya, LLC",VA,2023,8,,,11.5,38.017664,-77.952873,14.3,,,Y,, ,0,N
+solar,PSEG Energy Resources and Trade,65167,470,Hudson County Solar,NJ,2022,6,,,1.2,40.72762,-74.10803,1.7,,Y,,,7,117,N
+solar,Potomac Electric Power Co,65176,654,"WW-DC Solar 1, LLC",DC,2022,5,,,1.2,38.82568,-77.00205,1.5,,Y,,,30,180,N
+solar,Duquesne Light Co,65214,GCHOS,Gaucho Solar,PA,2023,6,,,20.0,40.511559,-80.313399,29.1,,Y,N,,20,193.5,N
+solar,Duke Energy Ohio Inc,65215,NSTLW,Nestlewood Solar,OH,2023,12,,,80.0,38.9255,-84.0174,109.1,,,Y,, ,180,N
+solar,Virginia Electric & Power Co,65219,ENX16,"Caden Energix Endless Caverns, LLC",VA,2023,12,,,31.4,38.613601,-78.677069,36.1,,,Y,, ,180,N
+solar,Virginia Electric & Power Co,65220,PHSPV,Pleasant Hill Solar,VA,2023,6,,,20.0,36.692197,-76.578558,26.6,,,,, , ,N
+solar,Virginia Electric & Power Co,65221,WSPV,Watlington Solar,VA,2023,3,,,20.0,36.681547,-78.885955,25.7,,,,, , ,N
+solar,Virginia Electric & Power Co,65224,ENX15,"Apple Grove Solar, LLC",VA,2023,12,,,18.6,37.919497,-77.862016,20.1,,,Y,, ,180,N
+solar,Virginia Electric & Power Co,65225,ENX17,"Waverly Solar, LLC",VA,2023,12,,,118.0,37.020784,-77.12265,149.2,,,Y,,25,180,N
+solar,City of Wapakoneta - (OH),65258,WKP01,Wapakoneta-Pratt,OH,2021,11,,,13.5,40.544,-84.187,17.3,,Y,,,25,180,N
+solar,Public Service Elec & Gas Co,65280,1,601 Doremus CDG,NJ,2021,8,,,1.5,40.731966,-74.120486,2,,Y,,,10,207,N
+solar,Baltimore Gas & Electric Co,65281,BOMB,Bomber CSG,MD,2021,12,,,6.0,39.59902,-76.8526,9.2,,Y,N,,10,143,N
+solar,Public Service Elec & Gas Co,65289,1,5601 Westside CDG,NJ,2021,11,,,1.5,40.77957,-74.04182,2,,Y,,,10,206,N
+solar,Ohio Power Co,65302,SOLAR,Salt City Solar Project - Hybrid,OH,2023,5,,,49.9,39.41473,-82.96285,68,,,Y,, ,0,N
+solar,Delmarva Power,65304,SOLAR,ENGIE Solidago Solar Project - Hybrid,DE,2022,12,,,50.0,39.395187,-75.7535,64.2,,,Y,,52,180,N
+solar,Virginia Electric & Power Co,65305,SOLAR,Powells Creek Solar - Hybrid,VA,2023,8,,,70.0,36.55467,-79.0286,94.5,,,Y,,50,180,N
+solar,Virginia Electric & Power Co,65307,SUNS,Sunnybrook Solar Project - Hybrid,VA,2022,12,,,51.0,36.798717,-78.83961,57.1,,,Y,,52,180,N
+solar,Virginia Electric & Power Co,65314,ENX19,Caden Energix Wytheville LLC,VA,2022,6,,,20.0,36.964279,-81.049858,24.5,,,Y,, ,180,N
+solar,City of Gas City - (IN),65315,GASC2,Gas City 2,IN,2023,1,,,1.8,40.478689,-85.558116,2.4,,,Y,, ,180,N
+solar,Virginia Electric & Power Co,65317,SPRG,Springfield Solar,VA,2024,7,,,2.0,38.093,-76.799,2.4,,,Y,, ,180,N
+solar,Virginia Electric & Power Co,65318,POWI,Quillwort Solar,VA,2025,1,,,18.0,37.567,-77.9271,23,,,N,Y, , ,N
+solar,Virginia Electric & Power Co,65319,MAPL,Maplewood Solar,VA,2022,12,,,120.0,36.89,-79.32,144.7,,,Y,, ,180,N
+solar,Virginia Electric & Power Co,65320,SEBE,Sebera Solar,VA,2025,3,,,18.0,37.25,-77.25,23,,N,Y,, ,0,N
+solar,Virginia Electric & Power Co,65321,RBSO,Rochambeau Solar,VA,2021,12,,,19.9,37.35,-76.76,25.6,,,Y,, ,180,N
+solar,Virginia Electric & Power Co,65322,FTPW,Fort Powhatan Solar,VA,2022,1,,,150.0,37.26,-77.08,204,,,Y,, ,180,N
+solar,Virginia Electric & Power Co,65323,BEDF,Bedford Solar (Dominion),VA,2021,11,,,70.0,36.7,-76.1647,78.5,,,Y,, ,180,N
+solar,Baltimore Gas & Electric Co,65324,HOLL,Hollins Ferry CSG,MD,2021,12,,,1.5,39.225752,-76.68808,2.1,,Y,,,10,180,N
+solar,Public Service Elec & Gas Co,65329,LAURL,Mount Laurel Solar,NJ,2020,12,,,2.5,39.975579,-74.888716,2.9,,Y,,,25,173,N
+solar,"Mid-Atlantic Interstate Transmission, LLC",65332,MH1,CPV Maple Hill Solar,PA,2023,11,,,100.0,40.350219,-78.645972,129,,,Y,,0,180,N
+solar,Potomac Electric Power Co,65339,19002,MD - CS - Potomac Edison Co - GA25 TPE (,MD,2022,6,,,2.0,39.608072,-79.32824,3.2,,,Y,,0,180,N
+solar,Baltimore Gas & Electric Co,65340,19003,MD - CS - BGE - PR24 TPE,MD,2022,9,,,2.0,38.927431,-76.699164,3.1,,,Y,,0,180,N
+solar,Ohio Power Co,65343,ROSS,"Ross County Solar, LLC",OH,2025,1,,,120.0,39.325867,-83.352764,155.8,,,Y,, , ,N
+solar,Jersey Central Power & Lt Co,65348,OLIVE,Mount Olive Solar Farm,NJ,2023,1,,,19.8,40.881,-74.699,25.6,,Y,,,10,180,N
+solar,Potomac Electric Power Co,65357,OERMN,OER Monarch CSG,MD,2021,12,,,2.0,38.799594,-76.789482,2.8,,Y,,,25,0,N
+solar,Baltimore Gas & Electric Co,65358,PATUX,OER Patuxent CSG,MD,2022,11,,,2.0,38.838642,-76.683089,2.9,,,Y,, ,0,N
+solar,The Potomac Edison Company,65359,SHEPM,Shepherds Mill CSG,MD,2021,9,,,2.0,39.562305,-77.161771,2.8,,Y,,,20,0,N
+solar,Public Service Elec & Gas Co,65368,LINDN,Linden Hawk Rise Solar CSG,NJ,2021,12,,,4.0,40.60395,-74.24549,4.5,,Y,,,25,0,N
+solar,Jersey Central Power & Lt Co,65387,HOLND,Holland Solar Farm,NJ,2022,7,,,6.7,40.619,-75.155,8,,Y,,,10,180,N
+solar,American Transmission Systems Inc,65402,ARCHE,"Arche Energy Project, LLC",OH,2024,1,,,107.0,41.672106,-84.306454,133.84,,,Y,, ,180,N
+solar,City of Naperville - (IL),65414,20212,"SCS Plainfield 011755 Naperville, LLC",IL,2021,2,,,1.0,41.69963,-88.16644,1.3,,Y,,,20,180,N
+solar,Public Service Elec & Gas Co,65418,20211,"SCS Randolph 012175 Somerset, LLC",NJ,2021,1,,,2.3,40.54009,-74.558799,2.9,,Y,,,10,180,N
+solar,Public Service Elec & Gas Co,65465,CINN,Cinnaminson Landfill Solar,NJ,2019,3,,,10.0,40.01583,-74.98355,13,,Y,,,15,180,N
+solar,Public Service Elec & Gas Co,65466,KINS2,Kinsley II Landfill Solar System,NJ,2020,1,,,3.8,39.79271,-75.11138,4.8,,Y,,,9,180,N
+solar,Public Service Elec & Gas Co,65467,PENN,Pennsauken Brownfield Solar,NJ,2019,4,,,12.0,39.96307,-75.07949,15.2,,Y,,,5,180,N
+solar,Public Service Elec & Gas Co,65468,HIGH,Highland Park Borough Solar,NJ,2019,11,,,0.5,40.4966,-74.41746,0.6,,Y,,,25,163,N
+solar,Virginia Electric & Power Co,65470,CWPVA,Cummins Whitakers PV Arrays,NC,2022,9,,,3.3,36.089369,-77.726806,3.6,,Y,,,10,180,Y
+solar,Atlantic City Electric Co,65486,LOVLN,Love Lane Solar,NJ,2024,5,,,1.8,39.471,-75.218,2.3,,,Y,,0,90,Y
+solar,Commonwealth Edison Co,65508,MEND,Mendota Rich Dev CSG,IL,2022,2,,,2.0,41.541339,-89.14808,2.7,,Y,,,55,180,N
+solar,Jersey Central Power & Lt Co,65563,136,Robin NJ,NJ,2022,4,,,2.2,40.19247,-74.56597,2.7,,Y,,,10,220,Y
+solar,Baltimore Gas & Electric Co,65610,MO32,MO32 (CSG),MD,2022,5,,,2.0,39.119391,-76.959758,2.5,,Y,,,25,180,N
+solar,Potomac Electric Power Co,65611,MO33,MO33 CSG,MD,2022,4,,,2.0,39.187812,-77.119864,2.4,,Y,Y,,25,165,N
+solar,Baltimore Gas & Electric Co,65612,SNOWD,Snowden River CSG,MD,2021,6,,,1.9,39.175364,-76.837373,2.6,,Y,,,10,173,N
+solar,Atlantic City Electric Co,65622,ABSGI,Absegami,NJ,2021,5,,,2.1,39.48,-74.516,2.8,,Y,,,5,180,Y
+solar,Atlantic City Electric Co,65623,CDRCK,Cedar Creek (NJ),NJ,2021,5,,,1.6,39.551,-74.627,2,,Y,,,5,180,Y
+solar,Public Service Elec & Gas Co,65658,DLSSP,DRPA Lindenwold Station Solar Project,NJ,2021,12,,,6.0,39.831654,-74.999234,7.8,,,,, , ,Y
+solar,Ohio Edison Co,65691,TRUMB,KSU Trumbull,OH,2021,6,,,1.0,41.27874,-80.83665,1.3,,Y,,,25,180,N
+solar,Jersey Central Power & Lt Co,65705,CANOE,Canoe Brook Solar,NJ,2023,1,,,6.3,40.74525,-74.34379,8.9,,Y,,,12,180,N
+solar,Potomac Electric Power Co,65756,RKDAL,Rockdale,MD,2019,10,,,2.0,39.628867,-77.874899,2.6,,N,Y,,0,180,N
+solar,Commonwealth Edison Co,65758,AHERN,"Ahern Community Solar I, LLC",IL,2023,5,,,2.0,41.185,-88.231,2.8,,,Y,,0,0,N
+solar,Delaware Electric Cooperative,65791,BHEN1,Blue Hen Solar,DE,2022,5,,,1.5,39.18568,-75.68538,2,,,Y,,55,180,N
+solar,Commonwealth Edison Co,65796,BAIL1,SV CSG Baileyville 1 LLC,IL,2023,9,,,2.0,42.201229,-89.608809,3.1,,N,Y,,45,180,N
+solar,Commonwealth Edison Co,65799,DKLB1,SV CSG South Dekalb 1 LLC,IL,2023,10,,,2.0,41.893409,-88.771045,3,,,Y,,45,180,N
+solar,Commonwealth Edison Co,65800,DKLB2,SV CSG South Dekalb 2 LLC,IL,2023,10,,,2.0,41.894383,-88.771303,3,,,Y,,45,180,N
+solar,Commonwealth Edison Co,65890,BAIL2,SV CSG Baileyville 2 LLC,IL,2023,9,,,2.0,42.201355,-89.610992,3.1,,Y,Y,,45,180,N
+solar,Potomac Electric Power Co,65896,GUCS1,Gallaudet Uni Community Solar,DC,2025,3,,,2.0,38.90724,-76.99372,1.7,,Y,,,5,210,Y
+solar,West Penn Power Company,65902,5,Gans Solar,PA,2024,11,,,14.0,39.750126,-79.835802,19.5,,Y,,,25,180,N
+solar,West Penn Power Company,65903,9,Pechin Solar,PA,2024,10,,,14.0,39.96106,-79.643936,19.9,,Y,,,25,180,N
+solar,"Somerset Rural Elec Coop, Inc",65929,8,Listonburg Solar,PA,2024,12,,,15.0,39.76472,-79.303392,20.7,,Y,,,25,180,N
+solar,Indiana Michigan Power Co,65936,INHS1,Honeysuckle Solar Farm,IN,2024,6,,,150.0,41.719,-86.464,187.5,,,Y,, ,0,N
+solar,Potomac Electric Power Co,65945,PV,Brookville Smart Bus Depot Microgrid,MD,2022,10,,,1.7,38.99903,-77.058,2,,Y,,,3,303,Y
+solar,Indiana Michigan Power Co,65957,GEN1,Mammoth North Solar,IN,2024,11,,,400.0,41.19933,-86.63379,482,,,Y,, ,60,N
+solar,Potomac Electric Power Co,65958,GEN1,WMATA - Anacostia CSG,DC,2023,9,,,1.1,38.86499,-76.994006,1.5,,Y,,,0,166,N
+solar,Potomac Electric Power Co,65959,GEN1,WMATA - Cheverly Metro (CSG),MD,2024,12,,,1.9,38.915643,-76.917372,2.5,,Y,,,4,186,N
+solar,Potomac Electric Power Co,65960,GEN1,WMATA - Naylor Rd. Metro,MD,2023,11,,,1.7,38.85034,-76.9573,2.2,,Y,,,0,0,N
+solar,Potomac Electric Power Co,65961,GEN1,WMATA - S. Ave. Carport (East) (CSG),MD,2023,7,,,1.7,38.84066,-76.9752,2.2,,Y,,,0,114,N
+solar,Baltimore Gas & Electric Co,65982,TCLP,KDC Solar TC Little Patuxent WWTP LLC,MD,2022,10,,,2.0,39.299137,-76.959953,2.8,,,Y,, ,189,N
+solar,Baltimore Gas & Electric Co,65983,TCGH,KDC Solar TC George Howard LLC,MD,2022,10,,,2.0,39.300067,-76.957131,2.7,,,Y,, ,196,N
+solar,Baltimore Gas & Electric Co,65984,TCBP,KDC Solar TC Blandair Park LLC,MD,2022,10,,,2.0,39.300615,-76.960961,2.9,,,Y,, ,189,N
+solar,Ohio Edison Co,65985,461,IGS AKC1,OH,2023,7,,,3.8,41.049604,-81.581577,3.9,,Y,,,10,0,N
+solar,AEP Texas North Company,65997,PCS1,Powell Creek Solar,OH,2025,4,,,150.0,41.092921,-84.116116,201.9,,,Y,, ,180,N
+solar,West Penn Power Company,65999,GC1,Great Cove Solar,PA,2023,12,,,70.0,39.923887,-78.041221,83,,,Y,, ,180,N
+solar,Ohio Edison Co,66010,460,"IGS CMH4, LLC",OH,2023,7,,,4.2,39.943015,-83.317748,5.4,,Y,,,10,0,N
+solar,"Mid-Atlantic Interstate Transmission, LLC",66019,PA01,Lyons Solar,PA,2023,12,,,20.0,40.472,-75.785,24.6,,,N,Y, , ,N
+solar,Public Service Elec & Gas Co,66020,WSSP,DRPA Woodcrest Station Solar Project,NJ,2022,4,,,4.4,39.907271,-75.046925,5.3,,,,, , ,Y
+solar,Public Service Elec & Gas Co,66021,ASSA1,DRPA Ashland Station Solar Project,NJ,2022,4,,,2.7,39.85853,-75.010346,3.3,,,,, , ,Y
+solar,Public Service Elec & Gas Co,66028,DFASP,DRPA Ferry Ave Station Solar Project,NJ,2021,11,,,3.2,39.921831,-75.092539,3.9,,,,, , ,Y
+solar,"East Kentucky Power Coop, Inc",66047,GLOVE,"Glover Creek Solar, LLC",KY,2024,6,,,55.0,36.901441,-85.71203,75.55,,,Y,, ,0,N
+solar,Public Service Elec & Gas Co,66049,SARMY,Salvation Army Solar,NJ,2022,4,,,1.1,39.95526,-75.10218,1.5,,Y,,,5,217,Y
+solar,The Toledo Edison Co,66069,462,IGS PCW1,OH,2023,7,,,3.1,41.548503,-83.578654,3.9,,Y,,,10,0,N
+solar,Public Service Elec & Gas Co,66089,CANAL,Canal Road Solar,NJ,2023,6,,,4.0,40.535,-74.563,5,,Y,,,15,180,Y
+solar,Citizens Electric Co - (PA),66097,371,ER Bison Solar CSG,PA,2023,1,,,1.4,40.941757,-76.893549,1.8,,Y,,,25,180,N
+solar,Old Dominion Electric Coop,66115,AML1,"HCE Amelia Solar I, LLC",VA,2023,12,,,5.0,37.45383,-77.95682,6.7,,N,Y,, ,0,N
+solar,Old Dominion Electric Coop,66116,AML2,"HCE Amelia Solar II, LLC",VA,2023,12,,,5.0,37.481141,-77.967885,6.7,,,Y,, ,0,N
+solar,Old Dominion Electric Coop,66117,MLBS,"HCE Millboro Springs Solar, LLC",VA,2024,10,,,5.0,37.99997,-79.56874,6.55,,,Y,, ,0,N
+solar,Old Dominion Electric Coop,66118,MORAN,"HCE Moran Solar, LLC",VA,2024,12,,,3.0,37.229858,-78.271286,3.89,,N,Y,, ,0,N
+solar,Old Dominion Electric Coop,66119,POW,"HCE Powhatan Solar, LLC",VA,2023,12,,,5.0,37.52885,-77.95977,6.7,,,Y,, ,0,N
+solar,Old Dominion Electric Coop,66120,REAMS,"HCE Reams Solar, LLC",VA,2024,8,,,5.0,37.09028,-77.48346,6.7,,,Y,,0.4,0,N
+solar,Old Dominion Electric Coop,66121,REDHS,"HCE Red House Solar, LLC",VA,2025,3,,,5.0,37.18378,-78.81415,6.69,,,Y,, ,180,N
+solar,Old Dominion Electric Coop,66122,RKML,"HCE Roark Mill Solar, LLC",VA,2024,8,,,3.2,37.05622,-79.3051,4,,,Y,, ,180,N
+solar,"Mid-Atlantic Interstate Transmission, LLC",66133,BTS,"Bartonsville Energy Facility, LLC",VA,2024,12,,,130.0,39.088731,-78.239904,171.8,,,Y,, ,90,N
+solar,The Toledo Edison Co,66140,PNA01,PNA Rossford Solar Array,OH,2022,7,,,1.4,41.614879,-83.557244,1.9,,Y,,,20,180,Y
+solar,Baltimore Gas & Electric Co,66160,569,Friendship I,MD,2023,4,,,2.0,39.30953,-76.979147,3.2,,,Y,,52,90,N
+solar,Baltimore Gas & Electric Co,66162,570,Friendship II,MD,2023,4,,,2.0,39.309529,-76.979146,3.1,,Y,N,,52,90,N
+solar,American Transmission Systems Inc,66198,USMDF,"Madison Fields Solar Project, LLC",OH,2024,1,,,180.0,40.097108,-83.468688,234,,,Y,, ,180,N
+solar,Southern Maryland Elec Coop Inc,66203,RIPLY,Ripley,MD,2023,4,,,27.5,38.535,-77.097,34,,,Y,, ,0,N
+solar,Ohio Power Co,66249,GEN01,Blue Harvest Solar Park,OH,2023,12,,,49.9,41.091714,-84.274371,72,,,Y,N, ,180,N
+solar,Ohio Power Co,66250,GEN01,Timber Road Solar Park,OH,2023,12,,,49.9,41.092297,-84.725702,72,,Y,Y,,60,180,N
+solar,Indiana Michigan Power Co,66269,RSS03,Riverstart Solar Park III,IN,2024,12,,,100.0,40.055556,-85.126633,143,,,Y,,52,180,N
+solar,FirstEnergy Pennsylvania Electric Co,66276,US620,Blake Solar Plant,WV,2024,3,,,96.0,39.263611,-77.833412,99.9,,,Y,,0.6,0,N
+solar,Virginia Electric & Power Co,66314,BMSO,Bookers Mill Solar,VA,2024,12,,,127.0,37.86,-76.56,143.9,,,Y,, ,180,N
+solar,Virginia Electric & Power Co,66316,MDSO,Madison Solar (VA),VA,2024,9,,,62.5,38.28775,-77.840046,75.7,,,Y,, ,180,N
+solar,Pennsylvania Power Co,66364,COBAL,"Cobalt Solar, LLC",PA,2025,5,,,20.0,41.39915,-79.39588,26.31,,Y,,,20,180,N
+solar,Pennsylvania Power Co,66365,ERIE,"Erie Solar, LLC",PA,2025,2,,,20.0,42.0131,-80.30728,24.33,,Y,,,20,180,N
+solar,City of Richmond - (IN),66367,RICH7,IMPA Richmond Solar Park 7,IN,2023,10,,,4.4,39.8136,-84.95814,5.7,,,Y,, ,180,N
+solar,Jersey Central Power & Lt Co,66428,EK350,"Emerald Kemble, LLC",NJ,2022,5,,,1.2,40.768436,-74.498739,1.6,,Y,,,5,24,N
+solar,Jersey Central Power & Lt Co,66428,EK360,"Emerald Kemble, LLC",NJ,2022,5,,,1.2,40.768436,-74.498739,1.7,,Y,,,5,24,N
+solar,Atlantic City Electric Co,66485,GLSTR,Gloucester,NJ,2019,12,,,2.4,39.886,-75.109,3,,Y,,,5,180,Y
+solar,Orange & Rockland Utils Inc,66486,RAMPO,Ramapo,NJ,2019,7,,,4.2,41.081,-74.174,5.2,,Y,,,5,180,Y
+solar,"Choptank Electric Cooperative, Inc",66499,FDPV1,Federalsburg Energy Storage 1 LLC,MD,2021,11,,,0.8,38.64022,-75.711068,1,,,Y,, ,180,N
+solar,Baltimore Gas & Electric Co,66536,5003A,CPG - Duke 5300A Holabird,MD,2022,12,,,1.5,39.270749,-76.550534,1.9,,Y,,,10,177,N
+solar,Baltimore Gas & Electric Co,66537,5003B,CPG - Duke 5300B Holabird,MD,2022,12,,,1.5,39.270749,-76.551326,1.9,,Y,,,10,177,N
+solar,Baltimore Gas & Electric Co,66538,5900,CPG - Duke 5900 Holabird,MD,2022,12,,,1.5,39.273131,-76.545994,1.7,,Y,,,10,177,N
+solar,Baltimore Gas & Electric Co,66539,6000,CPG - Duke 6000 Holabird,MD,2022,12,,,1.5,39.273278,-76.544434,1.6,,Y,,,10,177,N
+solar,Virginia Electric & Power Co,66541,CHSP,Chesapeake Solar Project,VA,2023,12,,,132.0,36.685103,-76.29661,153.6,,,Y,,60,180,N
+solar,Metropolitan Edison Co,66634,ENX20,Adams Solar LLC PA,PA,2023,12,,,80.0,39.879553,-77.197226,105.4,,,Y,, ,180,N
+solar,Appalachian Power Co,66635,ENX20,Caden Energix Axton LLC,VA,2023,12,,,66.0,36.667889,-79.755013,86.2,,Y,,,25,180,N
+solar,Kentucky Power Co,66646,USMTC,"Martin County Solar Project, LLC",KY,2024,12,,,111.0,37.765452,-82.474125,143.69,,,Y,, ,180,N
+solar,Baltimore Gas & Electric Co,66652,CVAO,KDC Solar CV Ascend One LLC,MD,2023,5,,,2.0,39.31771,-76.984541,2.9,,Y,N,,20,180,N
+solar,Baltimore Gas & Electric Co,66653,CVCL,KDC Solar CV Cedar Lane Park LLC,MD,2023,11,,,2.0,39.314718,-76.978872,2.3,,,Y,,20,180,N
+solar,Baltimore Gas & Electric Co,66654,CVRT,KDC Solar CV Central MD Regional Transit,MD,2023,5,,,2.0,39.311,-76.978,2.3,,Y,,,20,180,N
+solar,Baltimore Gas & Electric Co,66655,CVAC,KDC Solar CV Animal Control LLC,MD,2023,11,,,2.0,39.314718,-76.978872,2.3,,Y,,,20,180,N
+solar,Baltimore Gas & Electric Co,66656,CVOD,KDC Solar CV O'Donnell Property LLC,MD,2023,7,,,2.0,39.311,-76.978,2.3,,Y,,,20,180,N
+solar,Potomac Electric Power Co,66698,OCREF,Oxon Run CREF,DC,2021,12,,,2.0,38.821772,-77.003539,2.7,,Y,,,15,180,N
+solar,New York State Elec & Gas Corp,66730,P4318,Jordan Energy-DFA Middlebury Center Plan,PA,2021,12,,,1.1,41.838,-77.2759,1.9,,Y,,,15,182,Y
+solar,Jersey Central Power & Lt Co,66751,GEN1,Toms River CSG,NJ,2023,9,,,4.0,39.987519,-74.236436,4.9,,Y,,,20,180,N
+solar,Baltimore Gas & Electric Co,66770,P3685,THD Baltimore DC - 5830 Project Tiger,MD,2021,1,,,1.6,39.22355,-76.48349,2.6,,Y,,,10,174,Y
+solar,Jersey Central Power & Lt Co,66776,PV1,Brookdale CC BTM at Lincroft,NJ,2022,12,,,3.7,40.326056,-74.130941,5,,Y,,,7,175,Y
+solar,Jersey Central Power & Lt Co,66796,P5324,ADP Parsippany NJ,NJ,2023,12,,,1.5,40.857536,-74.41258,1.9,,,Y,,8,118,Y
+solar,Jersey Central Power & Lt Co,66798,P5316,"Bayer - Whippany, NJ",NJ,2023,12,,,1.7,40.818832,-74.415765,1.73,,,Y,,0,180,Y
+solar,Jersey Central Power & Lt Co,66802,BEMSE,BEMS East Solar (CSG),NJ,2023,11,,,4.0,39.893694,-74.698006,5,,Y,,,20,180,N
+solar,Public Service Elec & Gas Co,66803,BEMSW,BEMS West Solar CSG,NJ,2023,10,,,4.0,39.892036,-74.694978,5,,Y,,,20,180,N
+solar,Atlantic City Electric Co,66813,P5377,Caesar's Atlantic City - POI 1 (Colosseu,NJ,2025,4,,,1.4,39.355676,-74.435517,1.7,,,,,5, ,Y
+solar,Jersey Central Power & Lt Co,66815,P5875,Dynamic Energy NJ - Ferrero,NJ,2022,11,,,1.5,40.550482,-74.54496,2,,Y,N,,10,192,N
+solar,Potomac Electric Power Co,66819,HOLLY,Holly Spring Meadows,MD,2023,7,,,1.2,38.862089,-76.91249,1.7,,N,,,13, ,Y
+solar,Ameren Illinois Company,66820,RVFRY,River Ferry Solar 1,IL,2023,12,,,165.3,39.25906,-87.62817,204.6,,,Y,, ,0,N
+solar,Atlantic City Electric Co,66831,P5614,Harrah's Atlantic City - POI 2 (Self Par,NJ,2024,9,,,1.8,39.384389,-74.426271,1.9,,,,, , ,Y
+solar,Virginia Electric & Power Co,66837,ALPT1,Alton Post Office Solar,VA,2024,12,,,75.0,36.568918,-79.032915,91.7,,,Y,,60,180,N
+solar,Potomac Electric Power Co,66838,ASPR1,Aspen Road Solar,PA,2025,2,,,100.1,40.150905,-77.763811,131.54,,,Y,,60,180,N
+solar,Virginia Electric & Power Co,66839,CRYH1,Crystal Hill Solar,VA,2023,12,,,64.7,36.839909,-78.938199,82,,,Y,, ,180,N
+solar,Delmarva Power,66840,EGYR1,Egypt Road Solar,MD,2025,12,,,51.1,38.530674,-76.100362,66.62,,,Y,,60,180,N
+solar,Potomac Electric Power Co,66841,FOXG1,Foxglove Solar,VA,2024,10,,,75.0,39.073825,-78.280117,96.5,,,Y,,60,180,N
+solar,Delmarva Power,66842,JONF1,Jones Farm Solar,MD,2025,6,,,64.0,39.232046,-75.772277,81.82,,,Y,,60,180,N
+solar,Virginia Electric & Power Co,66844,SPRG2,Spring Grove Solar 2,VA,2025,12,,,150.0,37.16738,-76.924229,192.74,,,Y,,60,180,N
+solar,Jersey Central Power & Lt Co,66845,OBGLD,Old Bridge Global Landfill CSG,NJ,2023,10,,,2.0,40.446,-74.284,2.8,,Y,,,20,180,N
+solar,The Potomac Edison Company,66867,CBALL,Cannonball Solar (CSG),MD,2024,6,,,2.0,39.5463,-77.4164,2.8,,,Y,, ,270,N
+solar,The Potomac Edison Company,66868,BIGSP,Big Spring Solar (CSG),MD,2024,11,,,2.0,39.6301,-77.9099,2.65,,,Y,, ,180,N
+solar,Public Service Elec & Gas Co,66889,CANOP,Solops 371 Hoes LLC,NJ,2023,9,,,1.0,40.545856,-74.473859,1.1,,Y,,,7,251,Y
+solar,Public Service Elec & Gas Co,66889,ROOF,Solops 371 Hoes LLC,NJ,2023,9,,,0.3,40.545856,-74.473859,0.5,,Y,,,10,161,Y
+solar,Monongahela Power Co,66898,FTMS,Fort Martin Solar,WV,2024,1,,,18.9,39.707825,-79.948839,23.04,,Y,,,23,180,N
+solar,Monongahela Power Co,66899,MARS,Marlowe Solar,WV,2025,4,,,5.8,39.589315,-77.835548,8,,Y,,,23,180,N
+solar,Monongahela Power Co,66900,RIVS,Rivesville Solar,WV,2024,9,,,5.5,39.539042,-80.094402,6.36,,Y,,,23,180,N
+solar,Atlantic City Electric Co,66906,HHSPV,Hammonton-High School Solar,NJ,2022,12,,,1.2,39.657218,-74.808955,1.7,,Y,,,20,0,Y
+solar,Duquesne Light Co,66943,2-114,Pine 1 Solar,PA,2023,11,,,17.1,40.61655,-80.45815,24.3,,Y,,,25,180,N
+solar,Duquesne Light Co,66944,2-115,Pine 2 Solar,PA,2023,11,,,17.1,40.61575,-80.471,24.3,,Y,,,25,180,N
+solar,Public Service Elec & Gas Co,66963,FRAN1,Franklin Solar 1 LLC Community Solar,NJ,2023,10,,,3.0,40.525967,-74.559144,3.7,,Y,,,10,184,N
+solar,Public Service Elec & Gas Co,66964,FRAN2,Franklin Solar 2 LLC Community Solar,NJ,2023,10,,,3.8,40.480841,-74.494721,4.9,,Y,,,10,197,N
+solar,Public Service Elec & Gas Co,66965,MAYHI,Mayhill Solar LLC Community Solar,NJ,2023,10,,,1.2,40.90192,-74.09369,1.6,,Y,N,,10,186,N
+solar,Old Dominion Electric Coop,66996,METER,Hemings Solar,VA,2023,9,,,5.0,37.957975,-76.818828,6.5,,,Y,,60,180,N
+solar,Old Dominion Electric Coop,66997,METER,Monroe Solar,VA,2022,12,,,2.2,36.85345,-79.469908,2.7,,,Y,,60,180,N
+solar,Virginia Electric & Power Co,66999,SLDO,Solidago Solar,VA,2023,8,,,20.0,36.89,-76.71,26.3,,,Y,,0,0,N
+solar,Pennsylvania Power Co,67007,CARD,"Cardinal Solar, LLC",PA,2025,7,,,20.0,41.34002,-79.72372,26.24,,Y,,,20,180,N
+solar,The Potomac Edison Company,67022,BB1,CPV Backbone Solar,MD,2025,12,,,175.0,39.442372,-79.201639,178.75,,Y,,,25,180,N
+solar,Shenandoah Valley Elec Coop,67028,METER,Randolf Solar,VA,2024,6,,,3.2,38.745097,-78.67523,4.2,,,Y,,60,180,N
+solar,Public Service Elec & Gas Co,67050,NJ701,Elizabeth Seaport Bldg A Solar,NJ,2022,1,,,1.5,40.668,-74.167,2,,Y,,,10,208,Y
+solar,Hendricks County Rural E M C,67060,PV1,"C&B Graham Energy, LLC",IN,2023,8,,,7.0,39.81968,-86.45848,10.2,,,Y,,0,0,N
+solar,Public Service Elec & Gas Co,67062,CJ210,Cranbury 0210 Solar,NJ,2021,12,,,1.0,40.302,-74.496,1.4,,Y,,,10,199,Y
+solar,Public Service Elec & Gas Co,67063,NJ201,Ports Newark 8201 Solar,NJ,2022,11,,,1.4,40.691644,-74.196487,1.9,,Y,,,10,140.3,Y
+solar,Public Service Elec & Gas Co,67064,NJ001,Ports Jersey City Solar,NJ,2020,8,,,3.0,40.734,-74.087,4.2,,Y,,,10,210,Y
+solar,Public Service Elec & Gas Co,67065,NJ401,Lister Avenue Solar,NJ,2022,7,,,2.0,40.739381,-74.13811,3,,Y,,,10,155,Y
+solar,Public Service Elec & Gas Co,67066,NJ205,Edison 7205 Solar,NJ,2022,11,,,1.4,40.53,-74.402,1.9,,Y,,,10,140.3,Y
+solar,Public Service Elec & Gas Co,67067,CJ308,Edison 0308 Solar,NJ,2022,4,,,2.5,40.53,-74.387,4,,Y,,,10,136,Y
+solar,Public Service Elec & Gas Co,67068,NJ008,Port Reading 8 Solar,NJ,2022,12,,,1.4,40.565,-74.218,2,,Y,,,10,192.5,Y
+solar,Jersey Central Power & Lt Co,67070,CJ903,Interstate 3 Solar,NJ,2022,5,,,1.5,40.397,-74.45,2,,Y,,,10,140.5,Y
+solar,Old Dominion Electric Coop,67072,METER,Small Mouth Bass Solar,VA,2024,8,,,2.5,37.906257,-79.403869,2.9,,,Y,,60,180,N
+solar,Delaware Electric Cooperative,67074,METER,Heimlich Solar,DE,2024,6,,,4.5,38.795634,-75.606069,5.9,,,Y,,60,180,N
+solar,Hancock-Wood Electric Coop Inc,67084,P4389,Buckeye Power Inc.,OH,2022,7,,,2.0,41.060477,-83.554437,2.7,,Y,,,0,0,N
+solar,Commonwealth Edison Co,67106,GEN1,"Gooseberry Solar, LLC",IL,2024,11,,,2.0,41.520824,-87.572282,2.9,,,Y,, , ,N
+solar,Commonwealth Edison Co,67107,GEN1,"Monee Solar 1, LLC",IL,2024,11,,,2.0,41.383165,-87.775097,2.7,,,Y,, , ,N
+solar,Ameren Illinois Company,67108,GEN1,"Mulberry Solar, LLC",IL,2024,11,,,2.0,38.729,-90.135,2.9,,,Y,, , ,N
+solar,Commonwealth Edison Co,67114,GEN1,Torrence Ave Solar 1 LLC,IL,2024,11,,,2.0,41.496,-87.56,2.9,,,Y,, , ,N
+solar,Commonwealth Edison Co,67115,GEN1,"North Cottage Grove Solar 1, LLC",IL,2024,11,,,2.0,41.526376,-87.600759,2.8,,,Y,, , ,N
+solar,Public Service Elec & Gas Co,67121,BAYCS,Bay Avenue CDG,NJ,2023,12,,,3.0,40.679815,-74.16546,3.9,,Y,,,10,207,N
+solar,West Penn Power Company,67137,GC2,Great Cove Solar II,PA,2023,12,,,150.0,39.9016,-77.8682,178.6,,,Y,,60,0,N
+solar,Virginia Electric & Power Co,67138,WHITE,White Stone Ocran Solar LLC Community So,VA,2024,2,,,5.0,37.6529,-76.3888,6.99,,,Y,,60,180,N
+solar,Virginia Electric & Power Co,67139,PRINC,Prince Edward CSG LLC,VA,2024,2,,,4.0,37.2259,-78.6877,5.1,,,Y,,60,180,N
+solar,Potomac Electric Power Co,67145,PV1,Union Bridge Solar,MD,2022,4,,,8.2,39.563,-77.183,10.7,,Y,,,30,180,N
+solar,Commonwealth Edison Co,67152,680,N Baker Road 2,IL,2025,4,,,2.0,42.435916,-89.904731,2.9,,,Y,, ,180,Y
+solar,Commonwealth Edison Co,67153,679,N Baker Road,IL,2025,4,,,2.0,42.435913,-89.90352,3.08,,,Y,, ,180,Y
+solar,Virginia Electric & Power Co,67161,OAK,Oak Solar,NC,2023,12,,,120.0,36.526492,-77.774039,201,,Y,,,15,180,N
+solar,City of Auburn - (IN),67163,AUBRN,Auburn Renewables LLC,IN,2022,9,,,11.0,41.343,-85.092,14.7,,Y,,,25,180,N
+solar,Dayton Power & Light Co,67166,FYTSL,Fayette Solar,OH,2025,1,,,45.0,39.383,-83.4,65.2,,,Y,, ,180,N
+solar,Virginia Electric & Power Co,67171,F2024,Foxhound,VA,2024,4,,,83.0,36.875897,-78.741874,108,,,Y,,60,180,N
+solar,Virginia Electric & Power Co,67172,COLIC,Colice Hall Solar,NC,2023,7,,,17.0,36.323266,-77.010069,26,,Y,,,15,180,N
+solar,Potomac Electric Power Co,67180,882,Oaks Landfill - ANEM,MD,2024,4,,,2.0,39.193672,-77.118718,2.77,,Y,,,25,180,N
+solar,Commonwealth Edison Co,67198,678,N Solon Road (South),IL,2024,11,,,2.0,42.461344,-88.27943,3.03,,,Y,, ,180,Y
+solar,Consumers Energy Co - (MI),67200,642,Lake City,MI,2024,11,,,2.0,44.289589,-85.214479,2.8,,Y,,,52,180,N
+solar,The Potomac Edison Company,67214,JMS01,Jade Meadow LLC,MD,2024,3,,,19.8,39.598,-78.951,26.8,,Y,,,25,180,N
+solar,Virginia Electric & Power Co,67216,ENX24,"Shifting Sands Solar, LLC",VA,2025,1,,,18.8,36.616243,-79.849361,22.98,,,Y,,60,180,N
+solar,Virginia Electric & Power Co,67217,ENX23,"Sunny Rock Solar, LLC",VA,2025,4,,,20.0,36.608705,-79.879881,21.95,,Y,N,,25,180,N
+solar,Virginia Electric & Power Co,67218,ENX22,"River Trail Solar, LLC",VA,2025,4,,,20.0,36.709453,-80.885078,23.7,,,Y,,60,180,N
+solar,Virginia Electric & Power Co,67219,ENX21,Prairie Solar (VA),VA,2025,12,,,20.0,36.880181,-76.609312,25.17,,,Y,, ,180,N
+solar,Appalachian Power Co,67225,1,Amherst Solar Facility (VA),VA,2023,10,,,4.9,37.553598,-79.017296,7.5,,Y,,,30,180,N
+solar,Central Virginia Electric Coop,67235,11111,Cunningham Solar LLC,VA,2023,5,,,5.0,37.8893,-78.323,6.5,,Y,,,12.5,180,N
+solar,Ohio Power Co,67239,FOX01,Fox Squirrel Solar,OH,2023,12,,,577.0,39.777493,-83.367069,753,,,Y,, ,180,N
+solar,Jersey Central Power & Lt Co,67243,TRPV1,Tom's River (Lowes),NJ,2023,1,,,1.0,39.989,-74.173,1.3,,Y,,,10,183,N
+solar,Village of Minster - (OH),67244,MN3PV,Minster 3,OH,2022,12,,,1.0,40.39,-84.398,1.2,,Y,,,23,180,N
+solar,Jersey Central Power & Lt Co,67252,FLRFT,Foul Rift Solar Farm,NJ,2025,4,,,15.4,40.8,-75.09,18.9,,Y,,,10,180,N
+solar,Jersey Central Power & Lt Co,67269,P4665,Spano Solar - Ocean County Landfill - CS,NJ,2022,10,,,4.2,40.025166,-74.249492,5,,Y,,,25,180,N
+solar,Baltimore Gas & Electric Co,67270,P3887,THD Baltimore DCs - 5829 Project Lion,MD,2021,1,,,3.8,39.221979,-76.483169,5.1,,Y,,,10,174,Y
+solar,Shenandoah Valley Elec Coop,67272,P5412,The Village at Orchard Ridge (TVOR),VA,2023,3,,,1.4,39.201562,-78.213908,1.8,,Y,,,20,180,Y
+solar,Atlantic City Electric Co,67273,4328C,Township of Monroe - Williamstown HS,NJ,2022,12,,,1.6,39.682767,-75.010939,2,,,Y,,7,111,Y
+solar,Atlantic City Electric Co,67273,4328R,Township of Monroe - Williamstown HS,NJ,2022,12,,,1.0,39.682767,-75.010939,1.4,,,Y,,10,201,Y
+solar,Atlantic City Electric Co,67274,4329C,Township of Monroe - Williamstown MS,NJ,2022,12,,,1.3,39.680519,-75.003409,2.1,,,Y,,8,130,Y
+solar,Atlantic City Electric Co,67274,4329R,Township of Monroe - Williamstown MS,NJ,2022,12,,,0.5,39.680519,-75.003409,0.7,,,Y,,10,220,Y
+solar,Public Service Elec & Gas Co,67292,P6301,Rutgers Busch Livingston Lot B & C,NJ,2023,12,,,1.5,40.522282,-74.472597,2,,Y,,,7,209.3,Y
+solar,Public Service Elec & Gas Co,67294,P5294,Rutgers Cook Douglass Lot 97 & 98a,NJ,2023,12,,,1.2,40.479292,-74.437087,1.7,,,Y,,7,185,Y
+solar,Baltimore Gas & Electric Co,67297,P5658,FFP - MD Foxhall,MD,2023,8,,,2.0,39.683539,-76.739094,2.8,,Y,,,0,180,N
+solar,Baltimore Gas & Electric Co,67334,SC,Ten Oaks,MD,2024,4,,,2.0,39.2028,-76.9561,2.3,,,Y,,52,180,N
+solar,Virginia Electric & Power Co,67342,CARV,Carvers Creek Solar,VA,2024,8,,,54.9,37.56189,-76.605373,66.35,,,Y,,52,180,N
+solar,Virginia Electric & Power Co,67342,CARV2,Carvers Creek Solar,VA,2025,12,,,99.0,37.56189,-76.605373,122.4,,,Y,, ,0,N
+solar,Public Service Elec & Gas Co,67368,MIDDL,Middlesex Vo Tech Solar 1 LLC,NJ,2021,12,,,1.5,40.528289,-74.435463,2,,Y,,,15,180,N
+solar,City of Danville - (VA),67373,IRISH,"TPE Irish Road Solar, LLC",VA,2020,8,,,5.0,36.727159,-79.506486,7,,,Y,,20,180,N
+solar,City of Danville - (VA),67374,WHITM,"TPE Whitmell Solar, LLC",VA,2020,8,,,5.0,36.727159,-79.506486,6.7,,,Y,,20,180,N
+solar,"4 Rivers Electric Cooperative, Inc.",67391,SC,KE73 CSG,DE,2025,12,,,4.0,39.2348,-75.56284,6.3,,,Y,,60,180,N
+solar,Baltimore Gas & Electric Co,67392,SC,Lion One,MD,2024,4,,,2.0,39.3273,-76.781,2.6,,,Y,,60,180,N
+solar,The Potomac Edison Company,67393,SC,Livingston Crossing (CSG),MD,2025,7,,,2.0,38.69686,-76.97816,2.7,,,Y,,52,180,N
+solar,Delmarva Power,67397,SC,Meeting House,MD,2023,8,,,2.0,39.70381,-75.94323,2.9,,,Y,,0,180,N
+solar,Delmarva Power,67399,SC,Mustang One,MD,2024,2,,,1.5,38.56654,-76.10953,1.9,,,Y,,52,180,N
+solar,Public Service Elec & Gas Co,67401,P5292,"Rutgers Busch Liv (Lot 55, 58, 58A, 58B)",NJ,2023,12,,,1.3,40.524806,-74.467186,1.8,,,Y,,7,120,Y
+solar,The Potomac Edison Company,67404,SC,Bear One,MD,2023,11,,,2.0,39.70285,-78.08261,2.8,,,Y,,0,180,N
+solar,Potomac Electric Power Co,67405,SC,Beech Road (CSG),MD,2024,8,,,3.0,38.82294,-76.93471,6.1,,Y,,,25,180,N
+solar,Virginia Electric & Power Co,67420,CAVPV,Cavalier Solar,VA,2024,6,,,155.6,37.018,-76.7358,197.87,,,Y,, ,180,N
+solar,Virginia Electric & Power Co,67421,CAVA2,Cavalier Solar A2,VA,2024,12,,,84.4,37.018,-76.7358,101.69,,,Y,, ,180,N
+solar,Delmarva Power,67439,SC,Parker Place,MD,2024,4,,,2.0,38.3228,-75.5431,3,,,Y,,52,180,N
+solar,Potomac Electric Power Co,67458,LHAPV,Boyd Soccerplex,MD,2023,4,,,1.0,39.152794,-77.311359,1.3,,Y,,,10,170,Y
+solar,Ohio Valley Electric Corp,67459,SYCPV,Sycamore,OH,2023,12,,,1.3,40.946934,-83.162438,1.6,,Y,,,25,180,N
+solar,Jersey Central Power & Lt Co,67460,HLPV1,Howell (Lowes),NJ,2023,3,,,1.0,40.13,-74.218,1.2,,Y,,,10,183,N
+solar,Public Service Elec & Gas Co,67461,LHAPV,Hamilton,NJ,2023,4,,,1.0,40.198,-74.633,1.3,,Y,,,10,170,Y
+solar,Duke Energy Kentucky,67473,RAJPV,RA Jones Roof Mounted Solar System,KY,2024,6,,,1.3,39.04441,-84.58391,1.7,,Y,,,5,188,N
+solar,Potomac Electric Power Co,67486,HALLP,Hall Property,MD,2024,3,,,2.0,38.708361,-76.74585,3,,Y,,,25,0,N
+solar,Potomac Electric Power Co,67490,1,Spectrum Solar Hybrid,MD,2023,12,,,3.0,38.95,-76.95,4.4,,Y,,,20,180,Y
+solar,Potomac Electric Power Co,67490,2,Spectrum Solar Hybrid,MD,2023,12,,,2.6,38.95,-76.95,3.9,,Y,,,20,180,Y
+solar,PECO Energy Co,67508,883,Oaks Landfill CS 1,MD,2024,4,,,2.0,39.193589,-77.118718,2.77,,Y,,,25,180,N
+solar,Virginia Electric & Power Co,67529,AUGUS,"Augusta CSG, LLC",VA,2024,4,,,2.9,38.100152,-78.964714,3.83,,Y,,,25,180,N
+solar,Virginia Electric & Power Co,67530,WAYNE,"Waynesboro Bridge Solar, LLC Community S",VA,2024,4,,,5.0,38.102168,-78.923431,6.9,,,Y,,60,180,N
+solar,Virginia Electric & Power Co,67531,SUFFO,"Suffolk CSG, LLC",VA,2024,4,,,3.8,36.68565,-76.763,5.22,,Y,,,25,180,N
+solar,Virginia Electric & Power Co,67532,FAIRF,"Fairfield Lee Solar, LLC Community Solar",VA,2024,5,,,5.0,37.878085,-79.396921,6.99,,,Y,,60,180,N
+solar,Atlantic City Electric Co,67557,SKLDF,Sicklerville Landfill,NJ,2025,4,,,1.6,39.7,-74.98,2.3,,Y,,,20,180,N
+solar,Commonwealth Edison Co,67569,PV1,Bourbonnais,IL,2024,5,,,1.7,41.207,-87.925,2.3,,,Y,, ,0,Y
+solar,Delmarva Power,67572,PV-A,AstraZeneca Newark Solar,DE,2024,1,,,1.6,39.648491,-75.706112,2.09,,Y,,,25,180,Y
+solar,Delmarva Power,67572,PV-B,AstraZeneca Newark Solar,DE,2024,1,,,1.6,39.648491,-75.706112,2.09,,Y,,,25,180,Y
+solar,Potomac Electric Power Co,67583,DCWAT,DC Water,DC,2025,9,,,1.3,38.91,-76.99,1.8,,Y,,,15,156,N
+solar,Commonwealth Edison Co,67614,11113,"Dakota Solar 1, LLC",IL,2024,8,,,2.0,42.39271,-89.53531,3.09,,,Y,,25,180,N
+solar,Commonwealth Edison Co,67622,11110,"9521 US 14 SOLAR 1, LLC",IL,2024,12,,,2.0,42.46635,-88.60045,3,,,Y,,60,180,N
+solar,Commonwealth Edison Co,67623,11111,"Lilly Pond Road Solar 1, LLC",IL,2025,12,,,2.0,42.27654,-88.38677,2.8,,Y,N,,25,180,N
+solar,Commonwealth Edison Co,67624,11084,Freeport 18th Solar,IL,2025,10,,,2.0,42.288085,-89.587122,2.79,,,Y,,55,180,N
+solar,Commonwealth Edison Co,67625,11112,"Goodenow Road West Solar 1, LLC",IL,2024,12,,,2.0,41.3883,-87.59558,3,,,Y,,60,180,N
+solar,Ameren Illinois Company,67626,11060,Trenton East,IL,2024,6,,,2.0,38.58227,-89.691242,3,,,Y,,55,180,N
+solar,Ameren Illinois Company,67627,11061,Trenton West,IL,2024,6,,,2.0,38.582268,-89.700444,3,,,Y,,55,180,N
+solar,Commonwealth Edison Co,67628,11057,Trinity Freeport,IL,2024,8,,,2.0,42.274477,-89.560244,2.78,,,Y,,55,180,N
+solar,Commonwealth Edison Co,67629,11114,"Cottage Grove North Solar 1, LLC",IL,2024,12,,,2.0,41.341142,-87.586132,3.07,,,Y,,66,180,N
+solar,Commonwealth Edison Co,67630,11115,"Cottage Grove South Solar 1, LLC",IL,2024,12,,,2.0,41.341171,-87.574181,3.07,,,Y,,66,180,N
+solar,Commonwealth Edison Co,67635,DAKOT,Dakota,IL,2024,12,,,5.0,42.389211,-89.48509,6.5,,,Y,,20,180,N
+solar,Commonwealth Edison Co,67636,GALT,Galt,IL,2024,9,,,5.0,41.784441,-89.761019,6.5,,,Y,,20,180,N
+solar,Commonwealth Edison Co,67646,WALLD,Walldog,IL,2024,11,,,5.0,40.913454,-88.642909,6.5,,,Y,,20,180,N
+solar,Baltimore Gas & Electric Co,67670,22337,MD JESSUP 7950 OCEANO AVE,MD,2024,9,,,1.5,39.157496,-76.787253,2,,Y,,,25,180,Y
+solar,Baltimore Gas & Electric Co,67671,21376,MD BALTIMORE 4851 HOLABIRD AVE,MD,2025,7,,,1.8,39.269522,-76.553511,2.3,,Y,,,5,180,Y
+solar,PPL Electric Utilities Corp,67675,ENX33,Northumberland Solar,PA,2025,7,,,65.0,40.987206,-76.834008,78.22,,,Y,, ,180,N
+solar,Commonwealth Edison Co,67681,LAWS1,Lawrence Solar 1 LLC,IL,2024,12,,,2.0,42.480175,-88.599161,3.1,,,Y,,45,180,Y
+solar,Commonwealth Edison Co,67682,LAWS2,Lawrence Solar 2 LLC,IL,2024,12,,,2.0,42.480175,-88.599161,3.1,,,Y,,45,180,Y
+solar,Commonwealth Edison Co,67683,PLATO,SV CSG Plato Solar 1 LLC,IL,2025,8,,,4.3,42.039337,-88.423132,6.6,,,Y,,45,180,Y
+solar,Commonwealth Edison Co,67686,DEKTY,DeKalb Taylor LLC,IL,2025,11,,,4.9,41.934706,-88.711419,7.4,,,Y,,45,180,Y
+solar,Commonwealth Edison Co,67687,GEVA1,SV CSG German Valley 1 LLC,IL,2025,6,,,2.0,42.215173,-89.481127,3.1,,,Y,,45,180,Y
+solar,PECO Energy Co,67690,884,Oaks Landfill CS 2,MD,2024,4,,,2.0,39.193664,-77.118697,2.77,,Y,,,25,180,N
+solar,Potomac Electric Power Co,67694,CPS01,Capon Bridge Solar LLC,WV,2024,7,,,20.0,39.28724,-78.64196,26.34,,Y,,,25,180,N
+solar,West Penn Power Company,67706,GEN1,Spring Lane,PA,2024,12,,,13.8,40.183449,-79.319569,18,,,Y,, ,0,N
+solar,Potomac Electric Power Co,67707,CUAWS,CUA West Campus - South (CSG),DC,2024,6,,,2.8,38.93526,-77.00252,3.6,,N,Y,,15.2,-3.9,N
+solar,Potomac Electric Power Co,67708,EDFSV,EDF Saucon Valley,PA,2024,6,,,2.6,40.581825,-75.357274,3.1,,,Y,, ,0,N
+solar,Potomac Electric Power Co,67709,CUAWN,CUA West Campus - North (CSG),DC,2024,6,,,3.0,38.93526,-77.00252,3.8,,N,Y,,15.4,-10.6,N
+solar,Commonwealth Edison Co,67713,19581,IL Joliet 1101 Cherry Hl Rd,IL,2025,12,,,4.0,41.507951,-88.026023,5,,Y,,,10,180,N
+solar,Rochelle Municipal Utilities,67714,19578,IL Rochelle 975 S. Caron Rd,IL,2025,6,,,1.5,41.909729,-89.044286,2,,Y,,,10,180,N
+solar,Commonwealth Edison Co,67715,VERM2,Vermilion Solar II LLC CSG,IL,2025,10,,,2.0,40.8563,-88.6015,2.7,,,Y,, ,180,N
+solar,Commonwealth Edison Co,67716,VERM1,Vermilion Solar I LLC CSG,IL,2025,10,,,1.9,40.858134,-88.602022,2.99,,,Y,, ,180,N
+solar,Commonwealth Edison Co,67718,BEND2,"AES Bend Solar II, LLC CSG",IL,2025,10,,,1.9,42.33787,-89.082644,2.7,,,Y,, ,180,N
+solar,Commonwealth Edison Co,67719,BEND1,"AES Bend Solar I, LLC CSG",IL,2025,10,,,2.0,42.336378,-89.082864,2.83,,,Y,, ,180,N
+solar,Commonwealth Edison Co,67720,PV1,Whiskey Acres,IL,2024,5,,,2.0,41.877,-88.733,2.8,,,Y,,52,0,Y
+solar,Ameren Illinois Company,67751,HM701,DG Harlem Solar,IL,2024,5,,,2.0,42.172941,-89.413358,2.11,,,Y,, ,180,N
+solar,Commonwealth Edison Co,67753,PV1,Plote Somonauk,IL,2024,5,,,2.0,41.674,-88.682,2.8,,,Y,, ,28,Y
+solar,Rock Energy Cooperative,67760,AWM,All World Solar Facility,IL,2023,11,,,1.5,42.461976,-88.998785,2,,Y,,,22,180,N
+solar,Potomac Electric Power Co,67801,PV1,FedEx Hagerstown,MD,2015,4,,,1.8,39.6385,-77.7923,2.7,,Y,,,10,180,N
+solar,Commonwealth Edison Co,67804,PV1,Harmony Solar Project,IL,2024,12,,,2.0,42.366,-89.78,2.5,,Y,,,25,180,N
+solar,Public Service Elec & Gas Co,67808,PV1,NJ Airport Solar Project A,NJ,2023,6,,,1.0,40.684,-74.191,1.3,,Y,,,3,183,N
+solar,Public Service Elec & Gas Co,67809,PV1,NJ Airport Solar Project B,NJ,2023,6,,,1.0,40.684,-74.191,1.3,,Y,,,7,183,N
+solar,Public Service Elec & Gas Co,67810,PV1,NJ Airport Solar Project C,NJ,2023,6,,,1.0,40.684,-74.191,1.3,,Y,,,3,183,N
+solar,Public Service Elec & Gas Co,67811,PV1,NJ Airport Solar Project D,NJ,2023,6,,,1.0,40.684,-74.191,1.2,,Y,,,3,183,N
+solar,Commonwealth Edison Co,67822,PV1,Unity Solar Project (IL),IL,2024,12,,,2.0,42.369,-89.78,2.4,,,Y,, ,180,N
+solar,Ohio Power Co,67834,GBSP1,Great Bend Solar Project,OH,2025,12,,,48.0,39.003333,-81.771111,58,,N,Y,,6,90,N
+solar,Virginia Electric & Power Co,67846,RIVA,Rivanna Solar,VA,2024,12,,,13.3,37.966,-78.4,14.68,,Y,,,25,180,N
+solar,Virginia Electric & Power Co,67933,HALIF,Halifax CSG LLC,VA,2024,6,,,3.1,36.679324,-78.939161,4.15,,Y,,,20,180,N
+solar,Dayton Power & Light Co,67935,CLV1,Clearview Solar 1,OH,2024,12,,,144.0,40.269236,-83.984089,195.74,,,Y,N,55,180,N
+solar,The Toledo Edison Co,67967,180FW,Toledo Air National Guard,OH,2010,1,,,1.5,41.586376,-83.787808,2.3,,Y,Y,,30,180,N
+solar,Northern Virginia Elec Coop,68063,USM,VA- US Foods- Manassas,VA,2024,10,,,2.0,38.786044,-77.554755,2.01,,,Y,,10,208,N
+solar,Virginia Electric & Power Co,68077,NRIDG,North Ridge Solar,VA,2025,11,,,20.0,37.535275,-77.823964,25,,,Y,, ,180,N
+solar,Commonwealth Edison Co,68131,CH819,Des Plaines 7-SLCHI819,IL,2025,6,,,1.4,42.018195,-87.9296,1.72,,Y,,,10,180,Y
+solar,Commonwealth Edison Co,68136,CH803,Franklin Park 3-SLCHI803,IL,2025,2,,,1.2,41.947302,-87.860918,1.6,,Y,,,10,136,N
+solar,The Toledo Edison Co,68161,MAUME,Maumee Solar,OH,2024,11,,,2.4,41.568,-83.695,2.9,,,Y,, ,180,N
+solar,American Transmission Systems Inc,68199,WHEAT,Wheatsborough Solar,OH,2025,7,,,125.0,41.33823,-82.826488,154,,,Y,, ,180,N
+solar,Commonwealth Edison Co,68235,C234B,Romeoville 34 - SLCHI234 - BSCHI234,IL,2025,11,,,1.1,41.597,-88.11,2.82,,Y,,,10,178,Y
+solar,Baltimore Gas & Electric Co,68262,FVFPV,Fairview Farms,MD,2024,12,,,30.0,39.516944,-76.273611,37.9,,,Y,, ,180,N
+solar,Potomac Electric Power Co,68279,10022,NCS FCPA LLC,DC,2020,5,,,1.1,38.89146,-76.9403,1.2,,Y,,,14,225,N
+solar,Potomac Electric Power Co,68280,10021,NCS Paradise LLC,DC,2021,5,,,1.3,38.90639,-76.9514,1.8,,Y,,,20,225,N
+solar,Delmarva Power,68301,CABCR,Cabin Creek MD,MD,2025,8,,,2.0,38.615,-75.8959,2.66,,,Y,, ,180,N
+solar,Ameren Illinois Company,68336,SP842,Sand Prairie Solar,IL,2024,5,,,2.0,40.437682,-89.693266,3.1,,,Y,,60,180,N
+solar,Ohio Edison Co,68391,VVDPV,3100 Valleyview Drive,OH,2023,8,,,1.0,39.956944,-83.029167,1.3,,Y,,,5,180,N
+solar,Old Dominion Electric Coop,68393,NOSPV,North Stafford HS,VA,2023,9,,,1.3,38.467778,-77.455278,1.8,,Y,,,10,162,N
+solar,Public Service Elec & Gas Co,68408,NEWA1,Newark Solar 1 LLC,NJ,2024,11,,,2.2,40.7296,-74.1467,2.8,,Y,,,10,180,N
+solar,Commonwealth Edison Co,68467,PV1,Machesney Park,IL,2024,12,,,1.7,42.376,-89.003,2.3,,,Y,,0,180,N
+solar,Commonwealth Edison Co,68469,PV1,Pontiac 1A,IL,2024,8,,,2.0,40.918,-88.619,2.8,,,Y,,0,180,N
+solar,Dayton Power & Light Co,68482,CLN,Clinton Solar (OH),OH,2025,10,,,49.9,39.34098,-83.76907,64.99,,,Y,, ,0,N
+solar,Commonwealth Edison Co,68489,19575,IL BEDFORD PARK 7035 W 65TH ST,IL,2025,9,,,2.0,41.772468,-87.797245,2.5,,Y,,,5,180,N
+solar,Commonwealth Edison Co,68538,20424,IL University Park 450 Central Ave,IL,2025,10,,,2.3,41.453676,-87.750033,2.8,,Y,,,5,180,N
+solar,Commonwealth Edison Co,68539,19572,IL Bolingbrook 279 Marquette Dr,IL,2025,5,,,1.0,41.672428,-88.061854,1.2,,Y,,,5,180,N
+solar,Commonwealth Edison Co,68544,19574,IL Bedford Park 6901 W 65th St,IL,2025,12,,,2.0,41.772696,-87.794305,2.3,,Y,,,5,180,N
+solar,Ohio Power Co,68591,HARD3,Hardin Solar III,OH,2025,3,,,250.0,40.682326,-83.793884,337,,,Y,, , ,N
+solar,Public Service Elec & Gas Co,68615,5663,"ADP Roseland, NJ",NJ,2024,3,,,2.4,40.815661,-74.310147,2.9,,,Y,, ,185,Y
+solar,Jersey Central Power & Lt Co,68681,PKRRD,Parker Road Solar,NJ,2025,7,,,15.4,40.768,-74.735,17.8,,Y,,,10,180,Y
+solar,Virginia Electric & Power Co,68774,FTCR,Fountain Creek Solar,VA,2024,12,,,80.0,36.59,-77.67,96,,,Y,, ,0,N
+solar,Virginia Electric & Power Co,68775,WNTB,Winterberry Solar,VA,2023,11,,,20.0,37.36,-76.53,26.7,,,Y,, ,0,N
+solar,The Potomac Edison Company,68779,MD001,MD CDG 001,MD,2024,12,,,2.0,39.373488,-79.397636,2.7,,,Y,,60,180,N
+solar,The Potomac Edison Company,68780,MD002,MD CDG 002,MD,2024,12,,,2.0,39.375049,-79.403994,2.7,,,Y,,60,180,N
+solar,FirstEnergy Pennsylvania Electric Co,68803,WSTTN,Westtown School Solar,PA,2025,9,,,1.5,39.94,-75.534,2,,,Y,,60,180,Y
+solar,Commonwealth Edison Co,68857,HM701,Richmond Solar,IL,2025,7,,,2.0,42.441266,-88.303669,2.99,,,Y,, ,80,N
+solar,Virginia Electric & Power Co,68885,ELMRD,"Elam Road Solar, LLC",VA,2025,5,,,3.0,37.27604,-78.61845,4,,,Y,, ,180,Y
+solar,Virginia Electric & Power Co,68886,SNDLE,"Sandale Solar, LLC",VA,2025,5,,,3.0,37.67491,-76.41144,3.9,,,Y,, ,180,Y
+solar,Baltimore Gas & Electric Co,68892,11684,Airport Commons 7-slbal210,MD,2025,10,,,1.4,39.182941,-76.705359,1.9,,Y,,,10,202,Y
+solar,Indiana Michigan Power Co,68894,RSS04,Riverstart Solar Park IV,IN,2025,12,,,150.0,40.12115,-85.174761,216.08,,,Y,, ,180,N
+solar,Baltimore Gas & Electric Co,68942,CHAB,Chaberton Solar Catherine,MD,2024,5,,,2.0,39.316996,-77.005852,3.2,,,Y,, ,180,Y
+solar,Commonwealth Edison Co,68959,KA5B,Kankakee Solar 5b,IL,2025,5,,,1.9,41.138879,-87.837525,2.5,,,Y,, ,180,Y
+solar,Baltimore Gas & Electric Co,68989,CHLI,Chaberton Solar Lime Kiln,MD,2025,4,,,2.0,39.14942,-76.93162,3,,,Y,, ,180,Y
+solar,Baltimore Gas & Electric Co,68990,CHMA,Chaberton Solar Matterhorn,MD,2025,4,,,2.0,39.349558,-76.858477,2.8,,,Y,, ,180,Y
+solar,Baltimore Gas & Electric Co,68992,TP93,TPE MD HO93,MD,2025,5,,,2.0,39.185645,-76.923825,3,,,Y,, ,180,Y
+solar,Commonwealth Edison Co,68999,677,N Solon Road (North),IL,2024,6,,,2.0,42.461345,-88.279431,3,,,Y,,55,90,N
+solar,Delmarva Power,69005,CHGR,Chaberton Solar Greyrock,MD,2025,6,,,2.0,38.389578,-75.418127,3.3,,,Y,, ,180,Y
+solar,The Potomac Edison Company,69007,T137,TPE MD GA137,MD,2025,6,,,2.0,39.379117,-79.367778,2.8,,,Y,, ,180,Y
+solar,Potomac Electric Power Co,69008,T140,TPE MD GA140,MD,2025,6,,,2.0,39.386859,-79.38745,2.8,,,Y,, ,180,Y
+solar,Dayton Power & Light Co,69028,BUCKE,Buckeye Solar,OH,2025,1,,,100.0,39.6,-83.156,130,,,Y,, ,52,N
+solar,Dayton Power & Light Co,69029,PICKA,Pickaway Solar,OH,2025,1,,,100.0,39.56,-83.176,130,,,Y,, ,52,N
+solar,Virginia Electric & Power Co,69031,NBYRN,"Nuby Run Solar, LLC",VA,2025,6,,,2.0,36.884447,-76.691208,2.6,,,Y,, ,180,Y
+solar,Commonwealth Edison Co,69046,11131,Grant,IL,2025,8,,,2.0,42.25282,-88.67917,3.1,,N,Y,,50,180,N
+solar,Commonwealth Edison Co,69047,11163,Yager,IL,2024,12,,,2.0,41.66793,-89.90749,3.1,,,Y,,50,180,N
+solar,Delmarva Power,69049,APPLE,MD - WL Gore - Appleton,MD,2025,3,,,1.1,39.64352,-75.80562,2.9,,,Y,,52,180,Y
+solar,Delmarva Power,69050,CHRRY,MD - WL Gore - Cherry Hill,MD,2025,3,,,4.0,39.67039,-75.85812,4.3,,,Y,,52,180,Y
+solar,Delmarva Power,69051,CHBL,Chaberton Solar Blackburn,DE,2025,12,,,3.0,39.066233,-75.477778,4.2,,,Y,, ,180,Y
+solar,Baltimore Gas & Electric Co,69069,10OAK,MD - CPG - Ten Oaks,MD,2024,10,,,2.0,39.261126,-76.986173,2.8,,Y,,,25,180,N
+solar,Appalachian Power Co,69078,SP282,Green Acres (VA),VA,2024,12,,,5.0,36.782222,-79.947778,6.9,,,Y,, ,60,N
+solar,Baltimore Gas & Electric Co,69080,SP236,Claggett Landing,MD,2024,11,,,1.6,38.880556,-76.7075,2,,,Y,,52,180,N
+solar,Public Service Elec & Gas Co,69081,SP298,Crowne Plaza,NJ,2024,12,,,1.8,39.925278,-75.053611,2.2,,Y,,,5,158,N
+solar,PPL Electric Utilities Corp,69085,SP328,Orefield,PA,2024,12,,,2.2,40.651152,-75.60024,2.6,,Y,,,10,154,N
+solar,PPL Electric Utilities Corp,69087,SP326,Allentown - Ruppsville,PA,2024,12,,,2.8,40.5672,-75.60038,3.5,,Y,,,10,185,N
+solar,Baltimore Gas & Electric Co,69088,SP332,Cromwell,MD,2024,12,,,1.8,39.172222,-76.631944,2.4,,Y,,,5,200,N
+solar,Jersey Central Power & Lt Co,69097,BRKL1,NJ - CS Energy - Berkeley 1,NJ,2024,4,,,4.0,39.9051,-74.235121,5,,Y,,,25,180,N
+solar,Jersey Central Power & Lt Co,69098,BRKL2,NJ - CS Energy - Berkeley II,NJ,2024,4,,,4.0,39.9051,-74.235121,5,,Y,,,25,180,N
+solar,Baltimore Gas & Electric Co,69109,ESSEX,CCBC Essex,MD,2015,10,,,1.4,39.351597,-76.483057,1.6,,Y,,,10,133,Y
+solar,Public Service Elec & Gas Co,69112,DEPT,Deptford Solar Farm,NJ,2022,3,,,1.3,39.8161,-75.1282,1.4,,Y,,,20,180,N
+solar,Jersey Central Power & Lt Co,69113,UNI,Uniqlo Phase 1 Solar Farm,NJ,2022,6,,,2.7,40.7,-75.2,3.4,,Y,,,10,153,Y
+solar,PPL Electric Utilities Corp,69116,SP427,Lime Bluff 1,PA,2025,8,,,2.5,41.232116,-76.75509,3.5,,Y,,,25,178,N
+solar,PPL Electric Utilities Corp,69117,SP428,Lime Bluff 2,PA,2025,8,,,1.0,41.232594,-76.753042,1.4,,Y,,,25,178,N
+solar,PPL Electric Utilities Corp,69118,SP329,LL Scranton PA,PA,2024,3,,,1.1,41.399167,-75.671944,1.3,,Y,,,10,45,N
+solar,Virginia Electric & Power Co,69135,45410,Reston Town Center Solar 1,VA,2025,3,,,1.0,38.959906,-77.357665,1.3,,Y,,,5,90,Y
+solar,Jersey Central Power & Lt Co,69140,UNIP2,Uniqlo NJ CS Ph 2 CSG,NJ,2025,12,,,1.3,40.695378,-75.163382,1.6,,Y,,,10,153,N
+solar,Delmarva Power,69141,HRTLY,DE-ECA CS Hartly,DE,2025,8,,,4.0,39.186235,-75.730841,6,,Y,,,10,133,Y
+solar,Commonwealth Edison Co,69163,PV1,10601 Seymour Ave East 2 CSG,IL,2025,12,,,2.0,41.949194,-87.892998,2.3,,Y,,,10,178,N
+solar,Commonwealth Edison Co,69188,PV1,10701 Seymour Ave East 1 CSG,IL,2025,12,,,2.9,41.949124,-87.895454,3.4,,Y,,,10,178,N
+solar,Commonwealth Edison Co,69193,KANE3,KaneSolar03 LLC,IL,2025,9,,,2.5,41.893158,-88.551982,3.5,,,Y,,0,180,N
+solar,Commonwealth Edison Co,69213,11176,Sawyer,IL,2025,9,,,5.0,41.78285,-89.95483,7.7,,,Y,,55,180,N
+solar,Public Service Elec & Gas Co,69221,11684,Edison 0203 Community Solar - SLNNJ203,NJ,2025,7,,,1.2,40.522685,-74.418401,1.5,,Y,,,1,180,N
+solar,Ameren Illinois Company,69228,10296,Mound City Solar,IL,2024,12,,,5.0,37.090121,-89.176063,6.44,,,Y,, ,180,N
+solar,Ameren Illinois Company,69230,62873,Pope Creek Solar PV,IL,2024,12,,,5.0,41.204012,-90.732582,6.6,,,Y,, ,180,N
+solar,FirstEnergy Pennsylvania Electric Co,69235,BVCCE,Blairs Valley Solar Project,PA,2025,7,,,20.0,39.8034,-77.9216,25,,,Y,,55,180,N
+solar,Public Service Elec & Gas Co,69247,NJ305,Prologis Meadowlands 9305 - SLNNJ305,NJ,2025,10,,,1.3,40.838076,-74.062585,1.8,,Y,,,1,180,N
+solar,A & N Electric Coop,69306,COSTN,Costen Solar,MD,2024,8,,,8.8,38.0978,-75.6108,13.7,,Y,,,30,178,N
+solar,Commonwealth Edison Co,69314,CZION,Cenergy IL - Zion CSG,IL,2025,12,,,2.0,42.46445,-87.84902,2.7,,Y,,,25,180,N
+solar,Commonwealth Edison Co,69315,241NO,NL IL - 241 North CSG,IL,2025,10,,,5.0,41.289917,-87.8115,7.5,,,Y,, ,180,N
+solar,Commonwealth Edison Co,69317,2000N,NL IL - 2000 North Road CSG,IL,2025,10,,,5.0,41.149011,-87.789506,7.7,,,Y,, ,180,N
+solar,Potomac Electric Power Co,69328,SYSAB,V Street Solar,DC,2025,11,,,2.8,38.917755,-76.990724,3.5,,Y,,,10,183,N
+solar,Potomac Electric Power Co,69328,SYSD,V Street Solar,DC,2025,11,,,1.3,38.917755,-76.990724,1.7,,Y,,,10,183,N
+solar,Commonwealth Edison Co,69330,CBAFA,Cenergy IL - BA Family CSG,IL,2025,12,,,5.0,41.126242,-87.988517,6.8,,,Y,, ,180,N
+solar,PPL Electric Utilities Corp,69374,LIVER,Liverpool Solar Partners,PA,2025,4,,,1.5,40.582768,-76.98408,2,,Y,,,24.3,180,N
+solar,Baltimore Gas & Electric Co,69381,KELS1,Kelso Community Solar I,MD,2025,7,,,1.6,39.32652,-76.48507,2.3,,Y,,,10,138,N
+solar,Baltimore Gas & Electric Co,69382,KELS2,Kelso Community Solar II,MD,2025,7,,,1.4,39.32681,-76.48878,2.3,,Y,,,10,227,N
+solar,Commonwealth Edison Co,69387,11174,Beecher (IL),IL,2025,11,,,5.0,41.340311,-87.682684,7.7,,Y,,,25,180,N
+solar,Commonwealth Edison Co,69397,11148,Gougar,IL,2025,9,,,2.0,41.3864,-87.99722,3,,,Y,,55,180,N
+solar,Commonwealth Edison Co,69401,11173,Jeffery,IL,2025,9,,,5.0,41.092129,-87.984398,7,,,Y,,55,180,N
+solar,Commonwealth Edison Co,69441,WALIL,Water Lily Solar LLC,IL,2025,10,,,2.6,41.485723,-88.269305,3.8,,,Y,,0,180,N
+solar,Commonwealth Edison Co,69442,BECKH,Beckham Solar LLC,IL,2025,12,,,5.0,41.029463,-88.497354,6.8,,,Y,,0,180,N
+solar,Public Service Elec & Gas Co,69443,UNION,Union Solar LLC,NJ,2025,11,,,2.3,40.707921,-74.248508,3.1,,Y,,,10,165,N
+solar,Jersey Central Power & Lt Co,69498,QKTN2,Quakertown Solar Farm II,NJ,2025,8,,,8.8,40.523,-74.938,12.3,,Y,,,20,180,N
+solar,Virginia Electric & Power Co,69500,PITVN,Pittsylvania CSG LLC,VA,2025,12,,,3.8,36.857981,-79.398412,5.1,,Y,,,20,180,N
+solar,Commonwealth Edison Co,69526,MPLRD,NL IL - Maples Road,IL,2025,10,,,5.0,41.852588,-89.404899,7.5,,,Y,, ,180,N
+solar,Commonwealth Edison Co,69527,MCNRD,NL IL - McConnell Road,IL,2025,11,,,5.0,42.425623,-89.465846,7.3,,,Y,, ,180,N
+solar,Virginia Electric & Power Co,69542,SP438,Fairfax Landfill,VA,2025,12,,,5.0,38.69017,-77.240493,6.5,,Y,,,25,180,N
+solar,"AEP Ohio Transmission Company, Inc.",69550,DODSN,"Dodson Creek Solar, LLC",OH,2025,6,,,117.0,39.181498,-83.767531,148.8,,,Y,,0,180,N
+solar,Appalachian Power Co,69567,DFORK,NL VA - Dry Fork,VA,2025,11,,,3.0,36.767191,-79.390087,4.4,,,Y,,0,180,N
+solar,Ameren Illinois Company,69587,SOLAR,Pekin Community High School,IL,2025,6,,,1.4,40.4615,-89.62079,1.6,,Y,,,10,193,N
+solar,Duke Energy Ohio Inc,69604,CZ444,"CZ Solar Warren, LLC",OH,2024,10,,,19.9,39.410999,-84.32,28.1,,,Y,,0,180,N
+solar,Commonwealth Edison Co,69630,USMAN,USS Man Solar LLC,IL,2025,12,,,1.0,41.063431,-88.751165,2.63,,,Y,, , ,Y
+solar,Commonwealth Edison Co,69651,PV1,S-Pulaski Solar,IL,2024,2,,,2.0,41.83108,-87.72158,3,,Y,,,10,180,N
+solar,Appalachian Power Co,69680,RSPV1,BHER Ravenswood Solar 1,WV,2025,11,,,113.1,38.914833,-81.826194,130.1,,Y,,,20,180,Y
+solar,Dayton Power & Light Co,69683,SOLV1,Solvita,OH,2025,12,,,1.3,39.724313,-84.116285,1.5,,Y,,,30,180,Y
+solar,Commonwealth Edison Co,69692,ILS05,ILSOLAR05 LLC,IL,2025,12,,,5.0,41.950444,-88.48855,7,,,Y,, ,180,N
+solar,Jersey Central Power & Lt Co,69696,MTOI3,Mount Olive Solar 3 LLC,NJ,2025,12,,,2.2,40.898308,-74.722321,2.7,,Y,,,10,180,N
+solar,Delmarva Power,69703,SUSS2,Sussex CSG 2 LLC,DE,2025,12,,,3.3,38.521663,-75.246091,4.7,,,Y,, ,180,N
+solar,Public Service Elec & Gas Co,69716,FRAN3,Franklin Solar 3 LLC,NJ,2025,12,,,4.0,40.480055,-74.499038,5,,Y,,,10,180,N
+solar,PPL Electric Utilities Corp,69719,UPMA1,Upper Macungie CSG 1 LLC,PA,2025,12,,,2.8,40.591962,-75.612976,3.2,,Y,,,10,180,N
+solar,Commonwealth Edison Co,69731,10667,Bystronic Manufacturing,IL,2025,8,,,1.3,42.067981,-88.134749,1.6,,Y,,,10,180,N
+solar,Ameren Illinois Company,69863,GALF,Galva Landfill,IL,2025,12,,,3.7,41.177203,-90.033503,5.6,,,Y,,20,180,N
+solar,"AEP Ohio Transmission Company, Inc.",69875,SYCSL,"Sycamore Creek Solar, LLC",OH,2025,12,,,117.0,40.953,-82.859,151.6,,,Y,, ,0,N
+solar,Public Service Elec & Gas Co,69897,CN006,Midline Commerce Center - SLCNJ006,NJ,2025,9,,,1.2,40.121533,-74.71693,2.48,,Y,,,45,180,N
+solar,Commonwealth Edison Co,69905,BRSC1,Briscoe Solar 1,IL,2024,12,,,2.0,41.205,-89.0323,2.8,,,Y,, ,180,N
+solar,Commonwealth Edison Co,69906,BRSC2,Briscoe Solar 2,IL,2025,5,,,2.0,41.17274,-89.0263,2.8,,,Y,, ,180,N
+solar,Ameren Illinois Company,69907,CLRK1,Clark Solar 1,IL,2024,12,,,2.0,40.310751,-89.612322,3.1,,,Y,, ,180,N
+solar,Ameren Illinois Company,69908,CLK1A,Clark Solar 1A,IL,2024,12,,,2.0,40.310631,-89.612316,3.1,,,Y,, ,180,N
+solar,Commonwealth Edison Co,69909,CRWF1,Crawford 1 Solar,IL,2024,11,,,2.0,41.82632,-89.41952,2.9,,,Y,, ,180,N
+solar,Commonwealth Edison Co,69910,CRW1A,Crawford 1A Solar,IL,2025,3,,,2.0,41.82591,-89.41433,3,,,Y,, ,180,N
+solar,Commonwealth Edison Co,69911,HEIN2,Heinsohn Solar 2,IL,2024,12,,,2.0,42.1191,-88.8331,3,,,Y,, ,180,N
+solar,Commonwealth Edison Co,69912,HIN2A,Heinsohn Solar 2A,IL,2024,12,,,2.0,42.11793,-88.83288,3,,,Y,, ,180,N
+solar,Commonwealth Edison Co,69913,HPNZ1,Hoppe Nitzberg Solar 1,IL,2024,11,,,2.0,42.095618,-88.734762,3,,,Y,, ,180,N
+solar,Commonwealth Edison Co,69914,HPN1A,Hoppe Nitzberg Solar 1A,IL,2024,11,,,2.0,42.095618,-88.734762,3,,,Y,, ,180,N
+solar,Commonwealth Edison Co,69915,ENG1A,Engel Solar 1A,IL,2024,11,,,2.0,41.68467,-88.65312,3,,,Y,, ,180,N
+solar,Ameren Illinois Company,69916,BRIMF,Brimfield Solar,IL,2025,9,,,2.0,40.83063,-89.89085,3,,,Y,, ,180,N
+solar,Ameren Illinois Company,69917,ESSEX,Essex Solar,IL,2025,5,,,4.0,41.02652,-89.78273,6.1,,,Y,, ,180,N
+solar,Ameren Illinois Company,69918,PIROL,Midwest Power Partners LLC (Pirolo),IL,2025,2,,,5.0,38.986622,-89.752524,6.6,,,Y,, ,180,N
+solar,Commonwealth Edison Co,69919,RCKCT,Rock Cut Solar,IL,2025,8,,,4.0,42.2828,-89.1576,6.2,,,Y,, ,180,N
+solar,Ameren Illinois Company,69920,SHISS,Shissler Solar,IL,2025,9,,,2.0,40.82837,-89.90113,3.1,,,Y,, ,180,N
+solar,Ameren Illinois Company,69921,USSCC,USS Clear Creek Solar,IL,2025,11,,,3.0,39.954,-90.2185,4.2,,,Y,, ,180,N
+solar,Commonwealth Edison Co,69922,LOWE,USS Lowe Solar,IL,2024,8,,,2.0,41.087893,-87.809541,2.7,,,Y,, ,180,N
+solar,Ameren Illinois Company,69923,USSV1,USS Vermilion Solar 1 LLC (Vermilion 1),IL,2024,12,,,2.0,40.128587,-87.844766,3,,,Y,, ,180,N
+solar,Ameren Illinois Company,69924,USSV2,USS Vermilion Solar 1 LLC (Vermilion 2),IL,2024,12,,,2.0,40.128587,-87.844766,3.1,,,Y,, ,180,N
+solar,Commonwealth Edison Co,69953,DSC,DS Containers,IL,2025,7,,,1.8,41.868181,-88.259943,2.5,,Y,,,10,180,Y
+solar,Commonwealth Edison Co,70017,HNTLY,IL - ForeFront CS (Huntley),IL,2025,11,,,2.9,42.195252,-88.409025,3.4,,,Y,,55,180,N
+solar,Ameren Illinois Company,70066,HIGH1,"Highland Solar 1, LLC",IL,2023,12,,,2.0,38.736731,-89.700903,2.9,,,Y,, ,180,N
+solar,Ameren Illinois Company,70067,PEARL,"Pearl St Solar 1, LLC",IL,2023,3,,,2.0,40.533028,-89.517186,3,,,Y,, ,180,N
+solar,Ameren Illinois Company,70068,GCLK1,"Clark Solar 2, LLC",IL,2023,4,,,2.0,40.306858,-89.610644,3,,,Y,, ,180,N
+solar,Ameren Illinois Company,70069,MARN1,"Marine Solar 1, LLC",IL,2023,9,,,2.0,38.7952,-89.789286,3,,,Y,, ,180,N
+solar,Ameren Illinois Company,70070,MARN2,"Marine Solar 2, LLC",IL,2023,9,,,2.0,38.793181,-89.789689,3,,,Y,, ,180,N
+solar,Ameren Illinois Company,70071,SCHMT,"Schmidt Huser Solar, LLC",IL,2023,3,,,1.5,40.558885,-89.529502,2.1,,,Y,, ,180,N
+solar,Ameren Illinois Company,70072,CAMRN,"Cameron Solar, LLC - (IL)",IL,2023,11,,,2.0,40.68729,-89.72642,3,,,Y,, ,180,N
+solar,Ameren Illinois Company,70073,GB650,"Galesburg 650 Solar 1, LLC",IL,2023,10,,,2.0,40.928617,-90.319573,3,,,Y,, ,180,N
+solar,Ameren Illinois Company,70074,HPWLL,"Hopewell Solar, LLC",IL,2023,11,,,1.6,41.036889,-89.383556,2.5,,,Y,, ,180,N
+solar,Baltimore Gas & Electric Co,70110,PLPV,Parkton Landfill,MD,2025,12,,,4.7,39.662157,-76.64722,6.5,,Y,,,15,15,Y
+solar,Ameren Illinois Company,70150,SPRLN,"Sparland Solar, LLC",IL,2023,11,,,2.0,41.037461,-89.451303,3,,,Y,, ,180,N
+solar,Ameren Illinois Company,70151,REF2B,"SV CSG Reifschneider II B, LLC",IL,2024,9,,,2.0,38.473771,-89.976359,3,,,Y,, ,180,N
+solar,Ameren Illinois Company,70152,REF3A,"SV CSG Reifschneider III A, LLC",IL,2024,1,,,2.0,38.480139,-89.978329,3,,,Y,, ,180,N
+solar,Ameren Illinois Company,70153,ALDGA,"SV CSG Aldridge A, LLC",IL,2023,12,,,2.0,38.720314,-87.748759,3,,,Y,, ,180,N
+solar,Ameren Illinois Company,70154,ALDGB,"SV CSG Aldridge B, LLC",IL,2023,12,,,2.0,38.720287,-87.746707,3,,,Y,, ,180,N
+solar,Ameren Illinois Company,70155,REF1A,"SV CSG Reifschneider I A, LLC",IL,2024,1,,,1.0,38.469758,-89.986021,1.5,,,Y,, ,180,N
+solar,Ameren Illinois Company,70156,REF1B,"SV CSG Reifschneider I B, LLC",IL,2024,1,,,2.0,38.469645,-89.987516,3,,,Y,, ,180,N
+solar,Ameren Illinois Company,70157,REF2A,"SV CSG Reifschneider II A, LLC",IL,2024,9,,,2.0,38.4745,-89.977837,3,,,Y,, ,180,N
+solar,The Toledo Edison Co,70208,PENCC,PCC Solar Array,OH,2020,8,,,1.0,41.579674,-83.571515,1.3,,Y,,,25,180,N
+solar,"AEP Ohio Transmission Company, Inc.",70209,VERTI,Vertiv Solar,OH,2024,6,,,1.1,40.282018,-83.102106,1.3,,Y,Y,,55, ,Y
+solar,Delmarva Power,70211,BGS2,Bluegrass Solar 2,MD,2022,10,,,40.0,39.169877,-75.958765,52.1,,,Y,,0.3,180,N
+solar,Ohio Edison Co,70214,KSUSA,KSU Solar Array,OH,2025,6,,,5.5,41.133315,-81.322222,7.2,,Y,,,20,180,Y
+solar,Commonwealth Edison Co,70245,BGZ1A,"Boigenzahn Solar 1A, LLC",IL,2023,12,,,2.0,41.789106,-88.925033,2.8,,,Y,, ,180,N
+solar,Commonwealth Edison Co,70246,ENG1,"Engel Solar 1, LLC",IL,2023,12,,,2.0,41.684137,-88.650481,2.9,,,Y,, ,180,N
+solar,Commonwealth Edison Co,70247,FRDRS,"Frieders Solar 1, LLC",IL,2023,12,,,2.0,41.674461,-88.656927,3,,,Y,, ,180,N
+solar,Commonwealth Edison Co,70248,IRWIN,"Irwin Solar, LLC",IL,2024,3,,,2.0,41.105545,-88.022523,3,,,Y,, ,180,N
+solar,Commonwealth Edison Co,70249,MNTNO,Manteno Solar 1 LLC,IL,2023,8,,,2.0,41.241976,-87.879803,3,,,Y,, ,180,N
+solar,Commonwealth Edison Co,70250,MOR1,"Moore Solar 1, LLC",IL,2024,6,,,2.0,41.828347,-88.753769,3,,,Y,, ,180,N
+solar,Commonwealth Edison Co,70251,MOR1A,"Moore Solar 1A, LLC",IL,2024,6,,,2.0,41.829557,-88.752531,3,,,Y,, ,180,N
+solar,Commonwealth Edison Co,70252,POPG2,"Poplar Grove Solar 2, LLC",IL,2023,12,,,2.0,42.373013,-88.856882,3,,,Y,, ,180,N
+solar,Commonwealth Edison Co,70253,TRNGL,SV CSG Kensington 1 LLC,IL,2024,5,,,2.0,41.078299,-87.878245,3,,,Y,, ,180,N
+solar,Commonwealth Edison Co,70254,THYF1,SV CSG Momence 1 LLC,IL,2024,5,,,2.0,41.177381,-87.639162,3,,,Y,, ,180,N
+solar,Commonwealth Edison Co,70255,THYF2,SV CSG Momence 2 LLC,IL,2024,5,,,2.0,41.177439,-87.637626,3,,,Y,, ,180,N
+solar,Baltimore Gas & Electric Co,70262,MRCDS,"4622 Mercedes Dr Solar, LLC",MD,2023,12,,,2.7,39.477847,-76.225357,2.8,,Y,,,10,178,N
+solar,Ameren Illinois Company,70263,CHAMP,"Champaign Solar, LLC",IL,2025,6,,,3.5,40.150813,-88.2421,5.3,,,Y,, ,180,N
+solar,Ameren Illinois Company,70264,PEEBL,"East Marion IL 1, LLC",IL,2025,6,,,4.0,37.726357,-88.843603,6,,,Y,, ,180,N
+solar,Ameren Illinois Company,70265,ILRV2,"Illinois River Solar 2, LLC",IL,2025,12,,,2.0,41.134561,-89.360976,3,,,Y,, ,180,N
+solar,Ameren Illinois Company,70266,BLIXN,"Millstadt IL 1, LLC",IL,2025,6,,,2.5,38.482333,-90.044111,3.8,,,Y,, ,180,N
+solar,Ameren Illinois Company,70267,PNCVL,"Princeville Solar, LLC",IL,2025,11,,,2.0,40.935639,-89.761083,3,,,Y,, ,180,N
+solar,Commonwealth Edison Co,70268,STAN1,USS St Anne Solar LLC (St. Anne 1),IL,2024,11,,,2.0,41.05358,-87.69565,3,,,Y,, ,180,N
+solar,Commonwealth Edison Co,70269,STAN2,USS St Anne Solar LLC (St Anne 2),IL,2024,11,,,2.0,41.05059,-87.69634,2.9,,,Y,, ,180,N
+solar,Ameren Illinois Company,70270,YNG2,USS Young Solar LLC (Young 2),IL,2025,2,,,2.0,39.79735,-88.06151,3,,,Y,, ,180,N
+solar,Commonwealth Edison Co,70280,HNGS2,SV CSG Mt Morris 3 LLC,IL,2024,5,,,2.0,42.062923,-89.437311,3,,,Y,, ,180,N
+solar,Commonwealth Edison Co,70281,HSB2,"SV CSG Garden Prairie 2, LLC",IL,2024,6,,,2.0,42.250085,-88.748693,3.1,,,Y,, ,180,N
+solar,Commonwealth Edison Co,70282,HSB1,"SV CSG Garden Prairie 1, LLC",IL,2024,5,,,2.0,42.25016,-88.747107,3.1,,,Y,, ,180,N
+solar,Commonwealth Edison Co,70283,POPG1,"Poplar Grove Solar, LLC",IL,2023,12,,,2.0,42.373801,-88.856882,3,,,Y,, ,180,N
+solar,Baltimore Gas & Electric Co,70284,QUAD,"7001 Quad Solar, LLC",MD,2023,9,,,4.0,39.302532,-76.521278,4.8,,Y,,,20,151,N
+solar,Commonwealth Edison Co,70285,DWN2,SV CSG Kirkland 2 LLC,IL,2024,5,,,2.0,42.107786,-88.839441,3,,,Y,, ,180,N
+solar,Commonwealth Edison Co,70286,DWN1,SV CSG Kirkland 1 LLC,IL,2024,6,,,2.0,42.106627,-88.839344,3,,,Y,, ,180,N
+solar,Commonwealth Edison Co,70287,HNS1,"Heinsohn Solar 1, LLC",IL,2024,7,,,2.0,42.120242,-88.842186,3,,,Y,, ,180,N
+solar,Commonwealth Edison Co,70288,HNS1A,"Heinsohn Solar 1A, LLC",IL,2024,6,,,2.0,42.119454,-88.845441,3,,,Y,, ,180,N
+solar,Commonwealth Edison Co,70289,CTGGR,Cottage Grove Ave Solar 1 LLC,IL,2024,3,,,2.0,41.514649,-87.598984,3,,,Y,, ,180,N
+solar,Commonwealth Edison Co,70290,GDFRM,"Goodfarm Solar, LLC",IL,2024,2,,,2.0,41.133299,-88.409655,3,,,Y,, ,180,N
+solar,Commonwealth Edison Co,70291,LUTZ2,SV CSG Gardner 2 LLC,IL,2024,6,,,2.0,41.195973,-88.307295,2.9,,,Y,, ,180,N
+solar,Commonwealth Edison Co,70346,LENA1,IL-Forefront ComEd-Lena 1,IL,2025,12,,,2.0,42.37034,-89.842219,2.9,,,Y,,52,180,Y
+solar,Commonwealth Edison Co,70347,LENA2,IL-Forefront ComEd-Lena 2,IL,2025,12,,,2.0,42.37034,-89.842219,2.9,,,Y,,52,180,Y
+solar,Commonwealth Edison Co,70355,SHAB1,IL-Forefront ComED-Shabbona,IL,2025,12,,,2.0,41.76231,-88.839637,2.9,,,Y,,52,180,N
+solar,Commonwealth Edison Co,70356,SHAB2,IL - Forefront Windfree- Shabbona 2,IL,2025,12,,,1.3,41.763231,-88.839637,1.8,,,Y,,52,180,N
+solar,Commonwealth Edison Co,70390,BELVE,IL - Ameresco - Belvidere East,IL,2025,9,,,2.0,42.295704,-88.849153,2.7,,,Y,,52,180,Y
+solar,Commonwealth Edison Co,70391,BELVW,IL - Ameresco - Belvidere West,IL,2025,9,,,1.5,42.296053,-88.852984,2,,,Y,,52,180,Y
+solar,Delmarva Power,70415,SFRD,DE-ECA CS Seaford,DE,2025,12,,,3.0,38.674362,-75.616581,4.5,,,Y,, ,180,Y
+solar,Baltimore Gas & Electric Co,70423,GLENB,MD - Ameresco - Glen Burnie ANEM,MD,2025,10,,,2.0,39.184763,-76.599356,3,,Y,,,20,180,Y
+solar,Commonwealth Edison Co,70424,ANNE,IL Forefront - Degroot - St Anne,IL,2025,12,,,2.0,41.051343,-87.70649,2.7,,,Y,,52,180,Y
+solar,Delmarva Power,70426,RCHFD,Richfield Solar Energy LLC,MD,2024,6,,,50.0,38.603692,-75.865793,69.6,,,Y,,50, ,N
+solar,Virginia Electric & Power Co,70438,MECH1,VA - Ameresco - Mechanicsville,VA,2025,6,,,5.0,37.633568,-77.245012,6.3,,Y,,,15,180,N
+solar,Atlantic City Electric Co,57863,UNIT1,McKee City Solar Phase 2,NJ,2011,12,2025,1,2.4,39.421944,-74.639167,2.5,,Y,,,20,180,N
+solar,Ohio Edison Co,59683,12345,Foxconn Ohio,OH,2015,1,2025,11,2.2,41.148019,-80.883753,2.2,,Y,,,25,180,N
