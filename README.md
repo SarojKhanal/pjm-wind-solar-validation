@@ -12,7 +12,7 @@ How closely does generation estimated from weather match the wind and solar powe
 | [data/raw/](data/raw/) | Original ERA5 NetCDFs, PJM Data Miner exports, USGS inventories and shapefiles, EIA archives and the SAM turbine library. |
 | [data/inputs/](data/inputs/) | The prepared fleet, PJM-specific EIA and HRRR-MET subsets, zone geometry and turbine curves used by the scripts. |
 | [results/tables/](results/tables/) | Hourly series, monthly energy totals, metrics and audit tables. |
-| [results/figures/](results/figures/) | Plant locations, example hourly generation, and seasonal and diurnal patterns. |
+| [results/figures/](results/figures/) | Plant locations, example hourly generation, seasonal and diurnal patterns, and wind RMSE by region and assumed loss. |
 
 ## Dataset downloads
 
@@ -56,7 +56,7 @@ python src/figures.py
 1. [Prepare the fleet](src/prepare_fleet.py) joins the EIA inventory to USGS plant locations and assigns PJM regions.
 2. [Validate hourly generation](src/validate.py) converts wind speed and solar irradiance to plant output, sums by region and matches modeled MW to PJM observations by UTC hour.
 3. [Check monthly energy](src/reconcile_energy.py) compares modeled plant totals with EIA-923 and PJM. Use January–November for a comparison across complete months.
-4. [Generate the figures](src/figures.py) plots plant locations, an example week, and seasonal and diurnal patterns. It also calculates sensitivity and low-output statistics.
+4. [Generate the figures](src/figures.py) plots plant locations, an example week, seasonal and diurnal patterns, and a [regional wind-loss comparison](results/figures/wind_loss_comparison.png). It also calculates sensitivity and low-output statistics.
 
 ## Reading the outputs
 

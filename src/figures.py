@@ -12,33 +12,50 @@ from matplotlib.lines import Line2D
 import numpy as np
 import pandas as pd
 from project_paths import FIGURES, INPUTS, TABLES
-from validate import MODELS, HOURS, metrics, solar_geometry
+from validate import MODELS, HOURS, REGIONS, metrics, solar_geometry
 
 COLORS = {"PJM":"#202930","ERA5 wind":"#19768a","HRRR-MET wind":"#ab501a","ERA5 solar":"#19768a"}
+STYLES = {"PJM": "-", "ERA5 wind": "--", "ERA5 solar": "--", "HRRR-MET wind": "-."}
+WIND_LOSSES = (.05, .15, .25)
 plt.rcParams.update({"font.family":"DejaVu Sans","font.size":9,"axes.spines.top":False,"axes.spines.right":False,
                      "axes.labelcolor":"#202930","xtick.color":"#35424b","ytick.color":"#35424b",
-                     "legend.frameon":False,"savefig.facecolor":"white"})
+                     "legend.frameon":False,"savefig.facecolor":"white","pdf.fonttype":42})
+
+
+def save_figure(fig, name):
+    fig.savefig(FIGURES / f"{name}.png", dpi=320, bbox_inches="tight")
+    fig.savefig(FIGURES / f"{name}.pdf", dpi=320, bbox_inches="tight", metadata={"CreationDate": None})
+    plt.close(fig)
 
 
 def figure_map():
     f = pd.read_csv(INPUTS/"fleet.csv")
     z = gpd.read_file(INPUTS/"pjm_zone.geojson").to_crs(4326)
     fig, axes = plt.subplots(1,2,figsize=(7.5,3.0),layout="constrained")
+    assignments = [("ICARUS polygon", "Zone polygon", "#257182", "o"),
+                   ("EIA T&D owner", "Transmission owner", "#b35b27", "^"),
+                   ("unassigned", "Unassigned region", "#684780", "s")]
     for resource,ax in zip(["wind","solar"],axes):
-        z.plot(ax=ax,color="#e8eeee",edgecolor="#9aa8ae",linewidth=0.35)
+        z.plot(ax=ax,color="#e8eeee",edgecolor="#9aa8ae",linewidth=0.35,rasterized=True)
         group = f[(f.resource==resource)&f.lat.between(34.25,43)&f.lon.between(-91,-71.25)].groupby("eia_id").agg(
             lat=("lat","first"),lon=("lon","first"),ac_mw=("ac_mw","sum"),method=("region_source","first"))
-        for method,color in [("ICARUS polygon","#257182"),("EIA T&D owner","#b35b27"),("unassigned","#766085")]:
+        for method, _, color, marker in assignments:
             rows=group[group.method==method]
-            ax.scatter(rows.lon,rows.lat,s=1.3+0.1*rows.ac_mw,c=color,alpha=.70,linewidths=0)
-        ax.set_title("Wind plants" if resource=="wind" else "Solar PV plants",loc="left",fontweight="bold")
-        ax.set(xlim=(-91,-73),ylim=(34.5,43),xticks=[],yticks=[])
+            ax.scatter(rows.lon,rows.lat,s=3+0.15*rows.ac_mw,c=color,marker=marker,alpha=.80,linewidths=0)
+        ax.set_title("(a) Wind plants" if resource=="wind" else "(b) Solar PV plants",loc="left",fontweight="bold")
+        ax.set(xlim=(-91,-73),ylim=(34.5,43))
+        ax.set_xticks([-90,-85,-80,-75], ["90° W","85° W","80° W","75° W"])
+        ax.set_yticks([36,39,42], ["36° N","39° N","42° N"])
+        ax.tick_params(labelsize=8, length=2)
         ax.set_aspect(1/np.cos(np.radians(39)))
         for spine in ax.spines.values():spine.set_visible(False)
-    handles=[Line2D([],[],marker="o",ls="",color=c,markersize=5,label=l) for c,l in
-             [("#257182","Zone polygon"),("#b35b27","Transmission owner"),("#766085","Unassigned region")]]
-    fig.legend(handles=handles,loc="outside lower center",ncol=3)
-    fig.savefig(FIGURES/"plant_locations.png",dpi=250,bbox_inches="tight");plt.close(fig)
+    handles = [Line2D([], [], marker=m, ls="", color=c, markersize=5, label=l)
+               for _, l, c, m in assignments]
+    sizes = [Line2D([], [], marker="o", ls="", color="#58646c", markersize=np.sqrt(3+.15*mw),
+                    markeredgewidth=0, label=f"{mw} MW") for mw in (10,100,300)]
+    fig.legend(handles=handles+sizes, loc="outside lower center", ncol=6,
+               fontsize=8, handletextpad=.3, columnspacing=.8)
+    save_figure(fig, "plant_locations")
 
 
 def figure_seasonal(m):
@@ -52,13 +69,15 @@ def figure_seasonal(m):
                 batch=d[d.model==(mods[0] if key=="PJM" else key)].sort_values("x")
                 y=batch.observed_mean_mw if key=="PJM" else batch.modeled_mean_mw
                 ax.plot(batch.x,y/1000,label=key.replace(" wind","").replace(" solar",""),lw=1.8,
-                        ls="--" if key=="HRRR-MET wind" else "-",color=COLORS[key])
-            ax.set_title(f"{tech} by "+("month" if j==0 else "hour"),loc="left",fontweight="bold",fontsize=10)
+                        ls=STYLES[key],color=COLORS[key])
+            panel = "abcd"[2*i+j]
+            ax.set_title(f"({panel}) {tech} by "+("month" if j==0 else "hour"),loc="left",fontweight="bold",fontsize=10)
             ax.set_ylabel("Mean generation (GW)");ax.set_ylim(bottom=-.15);ax.grid(axis="y",alpha=.2)
             if j==0:ax.set_xticks([1,3,5,7,9,11],["Jan","Mar","May","Jul","Sep","Nov"])
             else:ax.set_xticks([0,4,8,12,16,20,23]);ax.set_xlabel("Hour beginning (Eastern prevailing time)")
-            if i==0 and j==0:ax.legend(ncol=3,fontsize=7,loc="lower left")
-    fig.savefig(FIGURES/"seasonal_diurnal.png",dpi=250,bbox_inches="tight");plt.close(fig)
+    handles, labels = axes[0,0].get_legend_handles_labels()
+    fig.legend(handles, labels, ncol=3, loc="outside lower center")
+    save_figure(fig, "seasonal_diurnal")
 
 
 
@@ -74,15 +93,46 @@ def example_week(data):
         for key in ["PJM",*mods]:
             frame=week[week.model.eq(mods[0] if key=="PJM" else key)].sort_values("utc")
             power=frame.observed_mw if key=="PJM" else frame.modeled_mw
-            ax.plot(frame.utc,power/1000,label=key,color=COLORS[key],linewidth=1.25,
-                    linestyle="--" if key=="HRRR-MET wind" else "-")
+            ax.plot(frame.utc,power/1000,label=key.split()[0],color=COLORS[key],linewidth=1.25,
+                    linestyle=STYLES[key])
+        ax.set_title("(a) Wind" if len(mods)==2 else "(b) Solar PV",loc="left",fontweight="bold",fontsize=10)
         ax.set_ylabel("Wind (GW)" if len(mods)==2 else "Solar (GW)")
-        ax.set_ylim(bottom=-.1);ax.grid(axis="y",alpha=.2);ax.legend(loc="upper left",ncol=3,fontsize=7)
+        ax.set_ylim(bottom=-.1);ax.grid(axis="y",alpha=.2)
+    handles, labels = axes[0].get_legend_handles_labels()
+    fig.legend(handles, labels, loc="outside lower center", ncol=3)
     axes[1].xaxis.set_major_locator(md.DayLocator(tz=tz))
     axes[1].xaxis.set_major_formatter(md.DateFormatter("%b %d",tz=tz))
     axes[1].set_xlim(start,end)
-    fig.savefig(FIGURES/"hourly_example.png",dpi=250,bbox_inches="tight")
-    plt.close(fig)
+    axes[1].set_xlabel("Date in 2025 (Eastern prevailing time)")
+    save_figure(fig, "hourly_example")
+
+
+def figure_wind_losses(data):
+    wind = data[data.model.isin(MODELS[:2])]
+    difference = pd.DataFrame(index=REGIONS, columns=WIND_LOSSES, dtype=float)
+    for loss in WIND_LOSSES:
+        residual = wind.modeled_mw * (1 - loss) / .85 - wind.observed_mw
+        rmse = residual.pow(2).groupby([wind.region, wind.model]).mean().pow(.5).unstack()
+        difference[loss] = rmse[MODELS[0]] - rmse[MODELS[1]]
+
+    fig, ax = plt.subplots(figsize=(6.2, 2.8), layout="constrained")
+    limit = np.abs(difference.to_numpy()).max()
+    cells = ax.imshow(difference, cmap="PuOr", vmin=-limit, vmax=limit, aspect="auto")
+    ax.set_xticks(range(len(WIND_LOSSES)), [f"{loss*100:.0f} %" for loss in WIND_LOSSES])
+    ax.set_yticks(range(len(REGIONS)), REGIONS)
+    ax.set_xlabel("Assumed wind plant loss")
+    ax.tick_params(length=0)
+    for row, region in enumerate(REGIONS):
+        for col, loss in enumerate(WIND_LOSSES):
+            value = difference.loc[region, loss]
+            rgb = np.array(cells.cmap(cells.norm(value))[:3])
+            linear = np.where(rgb <= .04045, rgb / 12.92, ((rgb + .055) / 1.055) ** 2.4)
+            color = "white" if linear @ [.2126, .7152, .0722] < .18 else "black"
+            ax.text(col, row, f"{value:+.0f}".replace("-", "−"), ha="center", va="center", color=color)
+    bar = fig.colorbar(cells, ax=ax, pad=.04)
+    bar.set_label("RMSE difference (MW)")
+    ax.set_title("ERA5 RMSE minus HRRR-MET RMSE", loc="left", fontsize=10, fontweight="bold")
+    save_figure(fig, "wind_loss_comparison")
 
 def diagnostics(d):
     d=d[d.region=="RTO"].copy()
@@ -98,7 +148,7 @@ def diagnostics(d):
         g=d[d.model==model].sort_values("utc").copy()
         paired.append((g.modeled_mw-g.observed_mw).to_numpy()**2)
         baseline=g.modeled_mw.copy()
-        for loss in [.05,.15,.25]:
+        for loss in WIND_LOSSES:
             g.modeled_mw=baseline*(1-loss)/.85
             sensitivity.append({"model":model,"scenario":f"{loss:.0%} wind loss",**metrics(g)})
     pd.DataFrame(sensitivity).to_csv(TABLES/"sensitivity.csv",index=False)
@@ -138,5 +188,6 @@ if __name__=="__main__":
     df=pd.read_csv(TABLES/"hourly_validation.csv.gz",parse_dates=["utc"])
     diagnostics(df)
     example_week(df)
+    figure_wind_losses(df)
     figure_map()
     figure_seasonal(pd.read_csv(TABLES/"metrics.csv"))
